@@ -70,42 +70,47 @@ jobs:
         USERNAMES: ${{ env.USERNAMES }}
       run: bundle exec ruby scripts/aggregate_statistics.rb
 
-    - name: Update analysis branch with results
+    - name: Create single orphan commit on analysis branch
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
 
-        # Check if analysis branch exists
-        if git ls-remote --heads origin analysis | grep -q analysis; then
-          echo "Updating existing analysis branch..."
-
-          # Fetch and checkout analysis branch
-          git fetch origin analysis:analysis
-          git checkout analysis
-
-          # Update statistics directory with new results
-          rm -rf statistics/ || true
-          if [ -d "${GITHUB_WORKSPACE}/statistics" ]; then
-            cp -r "${GITHUB_WORKSPACE}/statistics" . || echo "Failed to copy statistics"
-          else
-            mkdir -p statistics
-            echo "No new statistics to copy"
-          fi
-
+        # Store current statistics in a temporary location
+        if [ -d "statistics" ] && [ "$(ls -A statistics 2>/dev/null)" ]; then
+          echo "Backing up current statistics..."
+          cp -r statistics /tmp/statistics_backup
+          echo "Statistics files to backup:"
+          ls -la /tmp/statistics_backup/ || echo "No files found"
         else
-          echo "Creating new analysis branch..."
-
-          # Create orphan branch (no history)
-          git checkout --orphan analysis
-
-          # Remove all files except statistics/
-          git rm -rf --cached . 2>/dev/null || true
-          git clean -fd
-
+          echo "No statistics files found to backup"
+          mkdir -p /tmp/statistics_backup
         fi
 
-        # Add statistics files (whether new or updated)
-        git add statistics/ || echo "No statistics files to add"
+        # Always create a fresh orphan branch (no history)
+        echo "Creating fresh orphan analysis branch..."
+        git checkout --orphan analysis-temp
+
+        # Remove all files from staging and working directory
+        git rm -rf --cached . 2>/dev/null || true
+        git clean -fd
+
+        # Copy statistics from backup
+        if [ -d "/tmp/statistics_backup" ] && [ "$(ls -A /tmp/statistics_backup 2>/dev/null)" ]; then
+          echo "Restoring statistics from backup..."
+          cp -r /tmp/statistics_backup statistics
+          echo "Restored statistics files:"
+          ls -la statistics/ || echo "No files in statistics directory"
+        else
+          echo "No statistics to restore, creating empty directory"
+          mkdir -p statistics
+        fi
+
+        # Add statistics files
+        git add statistics/
+
+        # Check what will be committed
+        echo "Files to be committed:"
+        git diff --cached --name-only || echo "No files staged"
 
         # Commit with detailed message including any errors
         commit_msg="Repository statistics analysis - $(date +'%Y-%m-%d %H:%M:%S UTC')"
@@ -121,5 +126,7 @@ jobs:
 
         git commit -m "$commit_msg" --allow-empty
 
-        # Force push to analysis branch
+        # Delete existing analysis branch if it exists and push the new one
+        git branch -D analysis 2>/dev/null || true
+        git branch -m analysis-temp analysis
         git push origin analysis --force
