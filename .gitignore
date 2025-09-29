@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# Ruby
+Gemfile.lock
+.bundle/
+vendor/
+
+# Statistics output
+statistics/*.json
+statistics/*.md
+
+# Error reports
+statistics/error_report.json
+statistics/error_summary.md
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

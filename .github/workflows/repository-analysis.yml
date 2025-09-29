@@ -1,0 +1,129 @@
+name: Monthly Repository Analysis
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # Run on the 1st day of every month at midnight UTC
+  workflow_dispatch:  # Allow manual triggering
+
+permissions:
+  contents: write  # Required to push to analysis branch
+
+env:
+  REPOSITORIES: ${{ vars.REPOSITORIES }}  # Comma-separated list of users/orgs or specific repos
+  USERNAMES: ${{ vars.USERNAMES }}  # Comma-separated usernames for statistics aggregation
+  MAX_THREADS: ${{ vars.MAX_THREADS || '4' }}  # Number of parallel threads (default: 4)
+  CACHE_HOURS: ${{ vars.CACHE_HOURS || '3' }}  # Cache duration in hours (default: 3)
+  INCLUDE_PRIVATE_REPOS: ${{ vars.INCLUDE_PRIVATE_REPOS || 'false' }}  # Include private repos (default: false)
+
+jobs:
+  analyze-repositories:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.1'
+        bundler-cache: true
+
+    - name: Install dependencies
+      run: |
+        gem install octokit git ruby-git
+
+    - name: Setup statistics directory with previous results
+      run: |
+        mkdir -p statistics
+
+        # Try to fetch existing analysis branch and copy previous results
+        if git ls-remote --heads origin analysis | grep -q analysis; then
+          echo "Found existing analysis branch. Fetching previous results..."
+
+          # Fetch the analysis branch
+          git fetch origin analysis:analysis || true
+
+          # Copy previous statistics if they exist
+          if git checkout analysis -- statistics/ 2>/dev/null; then
+            echo "Successfully restored previous statistics files"
+            ls -la statistics/ || echo "No previous statistics files found"
+          else
+            echo "No previous statistics to restore"
+          fi
+
+          # Return to main branch
+          git checkout main
+        else
+          echo "No existing analysis branch found. Starting fresh."
+        fi
+
+    - name: Analyze repositories
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPOSITORIES: ${{ env.REPOSITORIES }}
+        MAX_THREADS: ${{ env.MAX_THREADS }}
+        CACHE_HOURS: ${{ env.CACHE_HOURS }}
+        INCLUDE_PRIVATE_REPOS: ${{ env.INCLUDE_PRIVATE_REPOS }}
+      run: ruby scripts/analyze_repositories.rb
+
+    - name: Aggregate statistics
+      env:
+        USERNAMES: ${{ env.USERNAMES }}
+      run: ruby scripts/aggregate_statistics.rb
+
+    - name: Update analysis branch with results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+
+        # Check if analysis branch exists
+        if git ls-remote --heads origin analysis | grep -q analysis; then
+          echo "Updating existing analysis branch..."
+
+          # Fetch and checkout analysis branch
+          git fetch origin analysis:analysis
+          git checkout analysis
+
+          # Update statistics directory with new results
+          rm -rf statistics/ || true
+          if [ -d "${GITHUB_WORKSPACE}/statistics" ]; then
+            cp -r "${GITHUB_WORKSPACE}/statistics" . || echo "Failed to copy statistics"
+          else
+            mkdir -p statistics
+            echo "No new statistics to copy"
+          fi
+
+        else
+          echo "Creating new analysis branch..."
+
+          # Create orphan branch (no history)
+          git checkout --orphan analysis
+
+          # Remove all files except statistics/
+          git rm -rf --cached . 2>/dev/null || true
+          git clean -fd
+
+        fi
+
+        # Add statistics files (whether new or updated)
+        git add statistics/ || echo "No statistics files to add"
+
+        # Commit with detailed message including any errors
+        commit_msg="Repository statistics analysis - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+
+        if [ -f "statistics/error_report.json" ]; then
+          error_count=$(grep -o '"total_errors":[0-9]*' statistics/error_report.json 2>/dev/null | cut -d':' -f2 || echo "0")
+          if [ "$error_count" -gt 0 ] 2>/dev/null; then
+            commit_msg="$commit_msg (${error_count} errors encountered)"
+          else
+            commit_msg="$commit_msg (errors resolved)"
+          fi
+        fi
+
+        git commit -m "$commit_msg" --allow-empty
+
+        # Force push to analysis branch
+        git push origin analysis --force
