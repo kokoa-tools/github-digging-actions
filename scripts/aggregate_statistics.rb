@@ -28,7 +28,7 @@ class StatisticsAggregator
       languages: Hash.new { |h, k| h[k] = { commits: 0, additions: 0, deletions: 0, bytes: 0 } },
       repositories: [],
       commit_timeline: {},
-      generated_at: Time.now.iso8601
+      generated_at: Time.now.strftime('%Y-%m-%dT%H:%M:%S%z')
     }
   end
 

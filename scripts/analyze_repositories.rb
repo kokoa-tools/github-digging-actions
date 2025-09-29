@@ -124,7 +124,7 @@ class RepositoryAnalyzer
     error_summary_path = File.join('statistics', 'error_summary.md')
 
     error_data = {
-      timestamp: Time.now.iso8601,
+      timestamp: Time.now.strftime('%Y-%m-%dT%H:%M:%S%z'),
       total_errors: @error_repositories.length,
       errors: @error_repositories
     }
@@ -212,7 +212,7 @@ class RepositoryAnalyzer
       repository: repository,
       error_type: error_type,
       error_message: error.message,
-      timestamp: Time.now.iso8601,
+      timestamp: Time.now.strftime('%Y-%m-%dT%H:%M:%S%z'),
       thread_id: Thread.current.object_id
     }
 
@@ -450,7 +450,7 @@ class RepositoryAnalyzer
         watchers_count: repo.watchers_count,
         forks_count: repo.forks_count,
         open_issues_count: repo.open_issues_count,
-        analyzed_at: Time.now.iso8601,
+        analyzed_at: Time.now.strftime('%Y-%m-%dT%H:%M:%S%z'),
         commit_statistics: analyze_commits_with_client(repo_name, thread_client, thread_id),
         language_statistics: analyze_languages_with_client(repo_name, thread_client, thread_id)
       }
@@ -505,7 +505,7 @@ class RepositoryAnalyzer
         watchers_count: repo.watchers_count,
         forks_count: repo.forks_count,
         open_issues_count: repo.open_issues_count,
-        analyzed_at: Time.now.iso8601,
+        analyzed_at: Time.now.strftime('%Y-%m-%dT%H:%M:%S%z'),
         commit_statistics: analyze_commits(repo_name),
         language_statistics: analyze_languages(repo_name)
       }
