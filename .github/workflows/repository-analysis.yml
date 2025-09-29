@@ -23,7 +23,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GH_TOKEN }}
 
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
@@ -62,7 +62,7 @@ jobs:
 
     - name: Analyze repositories
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
         REPOSITORIES: ${{ env.REPOSITORIES }}
         MAX_THREADS: ${{ env.MAX_THREADS }}
         CACHE_HOURS: ${{ env.CACHE_HOURS }}

@@ -66,7 +66,7 @@ Repository Settings > Secrets and variables > Actions > Variables에서 다음 �
 
 ### 2. GitHub Token 권한
 
-GitHub Actions는 기본 `GITHUB_TOKEN`을 사용합니다. Private 저장소에 접근하려면 Personal Access Token이 필요할 수 있습니다.
+GitHub Actions는 기본 `GH_TOKEN`을 사용합니다. Private 저장소에 접근하려면 Personal Access Token이 필요할 수 있습니다.
 
 ### 3. 수동 실행
 

@@ -16,7 +16,7 @@ end
 
 class RepositoryAnalyzer
   def initialize
-    @client = Octokit::Client.new(access_token: ENV['GITHUB_TOKEN'])
+    @client = Octokit::Client.new(access_token: ENV['GH_TOKEN'])
     @client.auto_paginate = true
     @repositories = parse_repositories_env
     @max_threads = ENV['MAX_THREADS']&.to_i || 4  # Default to 4 threads
@@ -420,7 +420,7 @@ class RepositoryAnalyzer
 
   def analyze_repository_with_client(repo_name, thread_id)
     # Create a separate client for each thread to avoid conflicts
-    thread_client = Octokit::Client.new(access_token: ENV['GITHUB_TOKEN'])
+    thread_client = Octokit::Client.new(access_token: ENV['GH_TOKEN'])
     thread_client.auto_paginate = true
 
     @thread_mutex.synchronize do
