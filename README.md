@@ -28,10 +28,10 @@
 3. **로컬 실행**:
    ```bash
    # 저장소 분석 실행
-   ruby scripts/analyze_repositories.rb
+   bundle exec ruby scripts/analyze_repositories.rb
 
    # 통계 집계 실행 (분석 완료 후)
-   ruby scripts/aggregate_statistics.rb
+   bundle exec ruby scripts/aggregate_statistics.rb
    ```
 
 ### 1. GitHub Actions Variables 설정

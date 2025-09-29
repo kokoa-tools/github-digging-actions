@@ -31,10 +31,6 @@ jobs:
         ruby-version: '3.1'
         bundler-cache: true
 
-    - name: Install dependencies
-      run: |
-        gem install octokit git ruby-git
-
     - name: Setup statistics directory with previous results
       run: |
         mkdir -p statistics
@@ -67,12 +63,12 @@ jobs:
         MAX_THREADS: ${{ env.MAX_THREADS }}
         CACHE_HOURS: ${{ env.CACHE_HOURS }}
         INCLUDE_PRIVATE_REPOS: ${{ env.INCLUDE_PRIVATE_REPOS }}
-      run: ruby scripts/analyze_repositories.rb
+      run: bundle exec ruby scripts/analyze_repositories.rb
 
     - name: Aggregate statistics
       env:
         USERNAMES: ${{ env.USERNAMES }}
-      run: ruby scripts/aggregate_statistics.rb
+      run: bundle exec ruby scripts/aggregate_statistics.rb
 
     - name: Update analysis branch with results
       run: |

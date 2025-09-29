@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'octokit', '~> 6.0'
-gem 'git', '~> 1.18'
+gem 'octokit', '~> 8.0'
 gem 'dotenv', '~> 2.8'

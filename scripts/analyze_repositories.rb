@@ -2,7 +2,6 @@
 
 require 'octokit'
 require 'json'
-require 'git'
 require 'tmpdir'
 require 'fileutils'
 
