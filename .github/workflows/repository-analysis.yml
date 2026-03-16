@@ -92,7 +92,7 @@ jobs:
 
         # Remove all files from staging and working directory
         git rm -rf --cached . 2>/dev/null || true
-        git clean -fd
+        git clean -fdx
 
         # Copy statistics from backup
         if [ -d "/tmp/statistics_backup" ] && [ "$(ls -A /tmp/statistics_backup 2>/dev/null)" ]; then
