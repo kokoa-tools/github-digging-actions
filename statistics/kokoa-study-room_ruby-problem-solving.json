@@ -1,0 +1,49 @@
+{
+  "repository": "kokoa-study-room/ruby-problem-solving",
+  "owner": "kokoa-study-room",
+  "name": "ruby-problem-solving",
+  "description": null,
+  "language": "Ruby",
+  "created_at": "2021-03-20 15:34:07 UTC",
+  "updated_at": "2025-09-17 12:26:25 UTC",
+  "size": 6,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:21+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 7,
+      "additions": 245,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Ruby": {
+          "additions": 244,
+          "deletions": 0,
+          "commits": 19
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 0,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Ruby": {
+      "bytes": 5586,
+      "percentage": 0
+    }
+  }
+}

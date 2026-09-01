@@ -1,0 +1,72 @@
+{
+  "repository": "shinkeonkim/move-it",
+  "owner": "shinkeonkim",
+  "name": "move-it",
+  "description": "Move Green Box! Avoid Red Dot!",
+  "language": "JavaScript",
+  "created_at": "2022-03-09 04:35:35 UTC",
+  "updated_at": "2022-03-15 09:45:20 UTC",
+  "size": 14,
+  "stargazers_count": 1,
+  "watchers_count": 1,
+  "forks_count": 0,
+  "open_issues_count": 1,
+  "analyzed_at": "2026-09-01T02:28:54+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 2,
+      "additions": 333,
+      "deletions": 1,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Markdown": {
+          "additions": 7,
+          "deletions": 1,
+          "commits": 1
+        },
+        "CSS": {
+          "additions": 128,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JavaScript": {
+          "additions": 157,
+          "deletions": 0,
+          "commits": 1
+        },
+        "HTML": {
+          "additions": 41,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 0,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "JavaScript": {
+      "bytes": 4143,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 1858,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 942,
+      "percentage": 0
+    }
+  }
+}

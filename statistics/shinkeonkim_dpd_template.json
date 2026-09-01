@@ -1,0 +1,81 @@
+{
+  "repository": "shinkeonkim/dpd_template",
+  "owner": "shinkeonkim",
+  "name": "dpd_template",
+  "description": "Django, PostgreSQL, Docker Template",
+  "language": "Python",
+  "created_at": "2022-05-08 11:36:17 UTC",
+  "updated_at": "2022-07-10 03:29:15 UTC",
+  "size": 29,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-08-01T01:49:41+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 13,
+      "additions": 1259,
+      "deletions": 42,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "SQL": {
+          "additions": 4,
+          "deletions": 0,
+          "commits": 1
+        },
+        "YAML": {
+          "additions": 97,
+          "deletions": 1,
+          "commits": 7
+        },
+        "Python": {
+          "additions": 254,
+          "deletions": 20,
+          "commits": 22
+        },
+        "Markdown": {
+          "additions": 27,
+          "deletions": 13,
+          "commits": 5
+        },
+        "Dockerfile": {
+          "additions": 32,
+          "deletions": 3,
+          "commits": 3
+        },
+        "Shell": {
+          "additions": 201,
+          "deletions": 0,
+          "commits": 4
+        },
+        "Config": {
+          "additions": 60,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 2,
+      "additions": 42,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {}
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 6203,
+      "percentage": 0
+    },
+    "Shell": {
+      "bytes": 5629,
+      "percentage": 0
+    },
+    "Dockerfile": {
+      "bytes": 638,
+      "percentage": 0
+    }
+  }
+}

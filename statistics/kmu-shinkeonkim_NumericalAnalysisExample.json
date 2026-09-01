@@ -1,0 +1,41 @@
+{
+  "repository": "kmu-shinkeonkim/NumericalAnalysisExample",
+  "owner": "kmu-shinkeonkim",
+  "name": "NumericalAnalysisExample",
+  "description": "국민대학교 수치해석시간에 다룬 코드에 설명을 더한 코드들입니다.",
+  "language": "Python",
+  "created_at": "2020-06-06 05:29:31 UTC",
+  "updated_at": "2025-06-29 09:56:22 UTC",
+  "size": 5,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:31:56+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 6,
+      "additions": 308,
+      "deletions": 0,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Python": {
+          "additions": 139,
+          "deletions": 0,
+          "commits": 5
+        },
+        "Markdown": {
+          "additions": 2,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 4464,
+      "percentage": 0
+    }
+  }
+}

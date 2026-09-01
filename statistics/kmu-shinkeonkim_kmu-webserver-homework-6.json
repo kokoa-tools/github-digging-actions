@@ -1,0 +1,63 @@
+{
+  "repository": "kmu-shinkeonkim/kmu-webserver-homework-6",
+  "owner": "kmu-shinkeonkim",
+  "name": "kmu-webserver-homework-6",
+  "description": "과제 6 : request 객체 실습",
+  "language": "Python",
+  "created_at": "2025-04-14 01:31:24 UTC",
+  "updated_at": "2025-06-29 09:54:00 UTC",
+  "size": 2504,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:49+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 1,
+      "additions": 142,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 142,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 3,
+      "additions": 664,
+      "deletions": 2,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 301,
+          "deletions": 2,
+          "commits": 17
+        },
+        "HTML": {
+          "additions": 63,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Text": {
+          "additions": 3,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 8444,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 1694,
+      "percentage": 0
+    }
+  }
+}

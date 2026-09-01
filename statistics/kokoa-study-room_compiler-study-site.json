@@ -1,0 +1,110 @@
+{
+  "repository": "kokoa-study-room/compiler-study-site",
+  "owner": "kokoa-study-room",
+  "name": "compiler-study-site",
+  "description": null,
+  "language": "MDX",
+  "created_at": "2026-08-08 06:22:35 UTC",
+  "updated_at": "2026-08-30 12:59:49 UTC",
+  "size": 1007,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:31:50+0000",
+  "commit_statistics": {
+    "Claude": {
+      "commits": 23,
+      "additions": 47190,
+      "deletions": 7622,
+      "email": "noreply@anthropic.com",
+      "languages": {
+        "Markdown": {
+          "additions": 20593,
+          "deletions": 320,
+          "commits": 153
+        },
+        "TypeScript": {
+          "additions": 4584,
+          "deletions": 191,
+          "commits": 53
+        },
+        "CSS": {
+          "additions": 1188,
+          "deletions": 51,
+          "commits": 12
+        },
+        "JSON": {
+          "additions": 694,
+          "deletions": 23,
+          "commits": 17
+        },
+        "Makefile": {
+          "additions": 131,
+          "deletions": 0,
+          "commits": 12
+        },
+        "C": {
+          "additions": 8026,
+          "deletions": 5744,
+          "commits": 16
+        },
+        "YAML": {
+          "additions": 69,
+          "deletions": 41,
+          "commits": 5
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 2,
+      "additions": 4,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Text": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "TypeScript": {
+          "additions": 3,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 2,
+      "additions": 4,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Text": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "TypeScript": {
+          "additions": 3,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "MDX": {
+      "bytes": 241203,
+      "percentage": 0
+    },
+    "TypeScript": {
+      "bytes": 147978,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 22588,
+      "percentage": 0
+    }
+  }
+}

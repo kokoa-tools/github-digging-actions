@@ -1,0 +1,43 @@
+{
+  "repository": "kokoa-study-room/db-connection-study-page",
+  "owner": "kokoa-study-room",
+  "name": "db-connection-study-page",
+  "description": "DB 커넥션에 대한 개념",
+  "language": "HTML",
+  "created_at": "2026-06-11 14:32:02 UTC",
+  "updated_at": "2026-06-11 15:09:26 UTC",
+  "size": 20,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:31:59+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 4,
+      "additions": 2,
+      "deletions": 2,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {}
+    },
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 749,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "HTML": {
+          "additions": 749,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "HTML": {
+      "bytes": 62335,
+      "percentage": 0
+    }
+  }
+}

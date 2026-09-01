@@ -1,0 +1,38 @@
+{
+  "repository": "kmu-shinkeonkim/sw-arhitecture-garage-system",
+  "owner": "kmu-shinkeonkim",
+  "name": "sw-arhitecture-garage-system",
+  "description": null,
+  "language": null,
+  "created_at": "2025-09-24 07:11:29 UTC",
+  "updated_at": "2025-09-30 03:03:31 UTC",
+  "size": 3341,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:33:44+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 3,
+      "additions": 45,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 45,
+          "deletions": 0,
+          "commits": 3
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {}
+    }
+  },
+  "language_statistics": {}
+}

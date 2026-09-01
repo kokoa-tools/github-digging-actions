@@ -1,0 +1,110 @@
+{
+  "repository": "kokoa-lab/poll-system-experiment",
+  "owner": "kokoa-lab",
+  "name": "poll-system-experiment",
+  "description": "투표 시스템 실험 프로젝트",
+  "language": "Python",
+  "created_at": "2025-09-18 02:32:28 UTC",
+  "updated_at": "2025-09-24 13:46:16 UTC",
+  "size": 66,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:29+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 6489,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 283,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Dockerfile": {
+          "additions": 57,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Python": {
+          "additions": 2066,
+          "deletions": 0,
+          "commits": 47
+        },
+        "TOML": {
+          "additions": 19,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Shell": {
+          "additions": 22,
+          "deletions": 0,
+          "commits": 1
+        },
+        "YAML": {
+          "additions": 107,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JSON": {
+          "additions": 23,
+          "deletions": 0,
+          "commits": 1
+        },
+        "HTML": {
+          "additions": 16,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Vue": {
+          "additions": 2443,
+          "deletions": 0,
+          "commits": 7
+        },
+        "JavaScript": {
+          "additions": 658,
+          "deletions": 0,
+          "commits": 6
+        },
+        "CSS": {
+          "additions": 260,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 64939,
+      "percentage": 0
+    },
+    "Vue": {
+      "bytes": 54042,
+      "percentage": 0
+    },
+    "JavaScript": {
+      "bytes": 17350,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 3914,
+      "percentage": 0
+    },
+    "Dockerfile": {
+      "bytes": 1073,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 504,
+      "percentage": 0
+    },
+    "Shell": {
+      "bytes": 493,
+      "percentage": 0
+    }
+  }
+}

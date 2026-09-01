@@ -1,0 +1,73 @@
+{
+  "repository": "kokoa-lab/nodejs-blog-example",
+  "owner": "kokoa-lab",
+  "name": "nodejs-blog-example",
+  "description": null,
+  "language": "TypeScript",
+  "created_at": "2022-03-21 10:57:21 UTC",
+  "updated_at": "2025-09-17 12:21:28 UTC",
+  "size": 69,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:14+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 5,
+      "additions": 2901,
+      "deletions": 518,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "JSON": {
+          "additions": 39,
+          "deletions": 5,
+          "commits": 4
+        },
+        "HTML": {
+          "additions": 12,
+          "deletions": 0,
+          "commits": 1
+        },
+        "TypeScript": {
+          "additions": 176,
+          "deletions": 17,
+          "commits": 15
+        },
+        "Dockerfile": {
+          "additions": 24,
+          "deletions": 1,
+          "commits": 2
+        },
+        "YAML": {
+          "additions": 38,
+          "deletions": 1,
+          "commits": 2
+        },
+        "JavaScript": {
+          "additions": 51,
+          "deletions": 10,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "TypeScript": {
+      "bytes": 3581,
+      "percentage": 0
+    },
+    "JavaScript": {
+      "bytes": 909,
+      "percentage": 0
+    },
+    "Dockerfile": {
+      "bytes": 429,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 277,
+      "percentage": 0
+    }
+  }
+}

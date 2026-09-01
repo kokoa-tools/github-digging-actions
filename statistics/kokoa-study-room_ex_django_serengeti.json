@@ -1,0 +1,55 @@
+{
+  "repository": "kokoa-study-room/ex_django_serengeti",
+  "owner": "kokoa-study-room",
+  "name": "ex_django_serengeti",
+  "description": null,
+  "language": null,
+  "created_at": "2025-09-29 23:52:48 UTC",
+  "updated_at": "2025-09-29 23:52:48 UTC",
+  "size": 46,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:28:54+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 33,
+      "additions": 1617,
+      "deletions": 193,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 94,
+          "deletions": 15,
+          "commits": 3
+        },
+        "HTML": {
+          "additions": 481,
+          "deletions": 141,
+          "commits": 28
+        },
+        "Python": {
+          "additions": 627,
+          "deletions": 37,
+          "commits": 60
+        },
+        "Text": {
+          "additions": 4,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "HTML": {
+      "bytes": 17479,
+      "percentage": 0
+    },
+    "Python": {
+      "bytes": 15815,
+      "percentage": 0
+    }
+  }
+}

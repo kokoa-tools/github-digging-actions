@@ -1,0 +1,67 @@
+{
+  "repository": "shinkeonkim/khonshu",
+  "owner": "shinkeonkim",
+  "name": "khonshu",
+  "description": "God of Mooooon",
+  "language": "JavaScript",
+  "created_at": "2022-06-05 12:24:18 UTC",
+  "updated_at": "2022-06-05 12:50:19 UTC",
+  "size": 6,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-08-01T01:50:23+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 5,
+      "additions": 18,
+      "deletions": 1,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Markdown": {
+          "additions": 18,
+          "deletions": 1,
+          "commits": 5
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 2,
+      "additions": 127,
+      "deletions": 2,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "CSS": {
+          "additions": 72,
+          "deletions": 2,
+          "commits": 2
+        },
+        "HTML": {
+          "additions": 23,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JavaScript": {
+          "additions": 32,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "JavaScript": {
+      "bytes": 1010,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 938,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 579,
+      "percentage": 0
+    }
+  }
+}

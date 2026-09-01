@@ -1,0 +1,56 @@
+{
+  "repository": "shinkeonkim/In-Kookmin-Extension",
+  "owner": "shinkeonkim",
+  "name": "In-Kookmin-Extension",
+  "description": null,
+  "language": null,
+  "created_at": "2020-11-30 08:12:35 UTC",
+  "updated_at": "2020-11-30 08:35:55 UTC",
+  "size": 221,
+  "stargazers_count": 1,
+  "watchers_count": 1,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-08-01T01:50:13+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 6,
+      "additions": 24359,
+      "deletions": 3,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 23,
+          "deletions": 3,
+          "commits": 6
+        },
+        "JSON": {
+          "additions": 108,
+          "deletions": 0,
+          "commits": 4
+        },
+        "HTML": {
+          "additions": 86,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Text": {
+          "additions": 6,
+          "deletions": 0,
+          "commits": 2
+        },
+        "CSS": {
+          "additions": 110,
+          "deletions": 0,
+          "commits": 4
+        },
+        "JavaScript": {
+          "additions": 136,
+          "deletions": 0,
+          "commits": 10
+        }
+      }
+    }
+  },
+  "language_statistics": {}
+}

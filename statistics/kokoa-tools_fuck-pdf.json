@@ -1,0 +1,64 @@
+{
+  "repository": "kokoa-tools/fuck-pdf",
+  "owner": "kokoa-tools",
+  "name": "fuck-pdf",
+  "description": "Simple PDF Editing GUI Tool / 유료 프로그램들에 지쳐 만든 GUI 툴",
+  "language": "Python",
+  "created_at": "2024-11-02 18:19:23 UTC",
+  "updated_at": "2025-09-17 12:58:17 UTC",
+  "size": 44959,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 2,
+  "analyzed_at": "2026-09-01T02:29:57+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 7,
+      "additions": 1510,
+      "deletions": 3,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Markdown": {
+          "additions": 70,
+          "deletions": 0,
+          "commits": 5
+        },
+        "TOML": {
+          "additions": 26,
+          "deletions": 1,
+          "commits": 2
+        },
+        "Python": {
+          "additions": 563,
+          "deletions": 0,
+          "commits": 5
+        },
+        "YAML": {
+          "additions": 39,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 2,
+      "additions": 49,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Markdown": {
+          "additions": 28,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 20787,
+      "percentage": 0
+    }
+  }
+}

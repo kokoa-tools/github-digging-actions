@@ -1,0 +1,67 @@
+{
+  "repository": "kmu-shinkeonkim/api-pstagram",
+  "owner": "kmu-shinkeonkim",
+  "name": "api-pstagram",
+  "description": null,
+  "language": "PHP",
+  "created_at": "2019-05-13 14:14:43 UTC",
+  "updated_at": "2025-06-29 09:57:29 UTC",
+  "size": 428,
+  "stargazers_count": 1,
+  "watchers_count": 1,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:28:49+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 29,
+      "additions": 1273,
+      "deletions": 580,
+      "email": "singun11@naver.com",
+      "languages": {
+        "PHP": {
+          "additions": 1132,
+          "deletions": 506,
+          "commits": 67
+        },
+        "HTML": {
+          "additions": 8,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 130,
+          "deletions": 73,
+          "commits": 5
+        }
+      }
+    },
+    "김유진": {
+      "commits": 1,
+      "additions": 61,
+      "deletions": 1,
+      "email": "yyjin1217@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 61,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "PHP": {
+      "bytes": 14489,
+      "percentage": 0
+    },
+    "Hack": {
+      "bytes": 3604,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 81,
+      "percentage": 0
+    }
+  }
+}

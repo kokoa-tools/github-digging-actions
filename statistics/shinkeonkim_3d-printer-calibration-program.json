@@ -1,0 +1,41 @@
+{
+  "repository": "shinkeonkim/3d-printer-calibration-program",
+  "owner": "shinkeonkim",
+  "name": "3d-printer-calibration-program",
+  "description": "daVinci 1.1 plus 3D priter calibration c++ cli program (created 2017)",
+  "language": "C++",
+  "created_at": "2020-08-08 14:19:48 UTC",
+  "updated_at": "2023-02-13 19:51:41 UTC",
+  "size": 551,
+  "stargazers_count": 1,
+  "watchers_count": 1,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:20+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 6,
+      "additions": 445,
+      "deletions": 1,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 21,
+          "deletions": 1,
+          "commits": 3
+        },
+        "C++": {
+          "additions": 403,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "C++": {
+      "bytes": 9335,
+      "percentage": 0
+    }
+  }
+}

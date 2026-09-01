@@ -1,0 +1,50 @@
+{
+  "repository": "kokoa-study-room/django-word-counter-example",
+  "owner": "kokoa-study-room",
+  "name": "django-word-counter-example",
+  "description": null,
+  "language": "HTML",
+  "created_at": "2020-05-10 05:38:22 UTC",
+  "updated_at": "2025-09-17 12:36:10 UTC",
+  "size": 486,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:32:08+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 9,
+      "additions": 525,
+      "deletions": 24,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Python": {
+          "additions": 269,
+          "deletions": 4,
+          "commits": 14
+        },
+        "HTML": {
+          "additions": 248,
+          "deletions": 17,
+          "commits": 9
+        },
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "HTML": {
+      "bytes": 8632,
+      "percentage": 0
+    },
+    "Python": {
+      "bytes": 7117,
+      "percentage": 0
+    }
+  }
+}

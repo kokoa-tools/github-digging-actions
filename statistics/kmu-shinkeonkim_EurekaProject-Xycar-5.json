@@ -1,0 +1,98 @@
+{
+  "repository": "kmu-shinkeonkim/EurekaProject-Xycar-5",
+  "owner": "kmu-shinkeonkim",
+  "name": "EurekaProject-Xycar-5",
+  "description": null,
+  "language": "Python",
+  "created_at": "2019-10-18 01:15:52 UTC",
+  "updated_at": "2026-07-12 18:29:46 UTC",
+  "size": 90671,
+  "stargazers_count": 6,
+  "watchers_count": 6,
+  "forks_count": 2,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:28:58+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 23,
+      "additions": 1050,
+      "deletions": 310,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 60,
+          "deletions": 27,
+          "commits": 4
+        },
+        "Python": {
+          "additions": 939,
+          "deletions": 279,
+          "commits": 30
+        }
+      }
+    },
+    "gomtang3274": {
+      "commits": 10,
+      "additions": 69,
+      "deletions": 1,
+      "email": "52527817+gomtang3274@users.noreply.github.com",
+      "languages": {
+        "Python": {
+          "additions": 68,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Markdown": {
+          "additions": 1,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    },
+    "Hyunsung Go": {
+      "commits": 19,
+      "additions": 562,
+      "deletions": 100,
+      "email": "rhrh1363@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 561,
+          "deletions": 99,
+          "commits": 24
+        }
+      }
+    },
+    "dawit": {
+      "commits": 4,
+      "additions": 295,
+      "deletions": 28,
+      "email": "dawit@kookmin.ac.kr",
+      "languages": {
+        "Python": {
+          "additions": 295,
+          "deletions": 28,
+          "commits": 5
+        }
+      }
+    },
+    "yeringii": {
+      "commits": 2,
+      "additions": 171,
+      "deletions": 96,
+      "email": "55120146+yeringii@users.noreply.github.com",
+      "languages": {
+        "Python": {
+          "additions": 171,
+          "deletions": 96,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 38888,
+      "percentage": 0
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "repository": "kmu-shinkeonkim/kmu-webserver-homework-3",
+  "owner": "kmu-shinkeonkim",
+  "name": "kmu-webserver-homework-3",
+  "description": "[KMU 강의 과제] 웹서버컴퓨팅 Q&A 사이트 개발하기",
+  "language": "Python",
+  "created_at": "2025-03-24 04:25:12 UTC",
+  "updated_at": "2025-06-29 09:54:31 UTC",
+  "size": 3726,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:44+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {}
+    },
+    "shinkeonkim": {
+      "commits": 5,
+      "additions": 975,
+      "deletions": 75,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 379,
+          "deletions": 1,
+          "commits": 17
+        },
+        "HTML": {
+          "additions": 211,
+          "deletions": 74,
+          "commits": 10
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 11409,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 4695,
+      "percentage": 0
+    }
+  }
+}

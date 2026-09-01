@@ -1,0 +1,273 @@
+{
+  "repository": "kmu-shinkeonkim/snake-game",
+  "owner": "kmu-shinkeonkim",
+  "name": "snake-game",
+  "description": "KMU-SW C++ programming project: snake game",
+  "language": "C++",
+  "created_at": "2020-05-07 06:22:04 UTC",
+  "updated_at": "2025-06-29 09:55:48 UTC",
+  "size": 5233,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 3,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:32:37+0000",
+  "commit_statistics": {
+    "김유진": {
+      "commits": 20,
+      "additions": 544,
+      "deletions": 307,
+      "email": "yyjin1217@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 119,
+          "deletions": 242,
+          "commits": 6
+        },
+        "C++": {
+          "additions": 280,
+          "deletions": 52,
+          "commits": 23
+        },
+        "C": {
+          "additions": 135,
+          "deletions": 12,
+          "commits": 13
+        },
+        "JSON": {
+          "additions": 8,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 65,
+      "additions": 2396,
+      "deletions": 6653,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 562,
+          "deletions": 625,
+          "commits": 11
+        },
+        "C++": {
+          "additions": 1039,
+          "deletions": 4138,
+          "commits": 132
+        },
+        "C": {
+          "additions": 329,
+          "deletions": 1571,
+          "commits": 84
+        },
+        "JSON": {
+          "additions": 8,
+          "deletions": 102,
+          "commits": 4
+        },
+        "Makefile": {
+          "additions": 67,
+          "deletions": 214,
+          "commits": 11
+        }
+      }
+    },
+    "bconfiden2": {
+      "commits": 102,
+      "additions": 11302,
+      "deletions": 2903,
+      "email": "bconfiden2@naver.com",
+      "languages": {
+        "C++": {
+          "additions": 7437,
+          "deletions": 2018,
+          "commits": 278
+        },
+        "Markdown": {
+          "additions": 685,
+          "deletions": 234,
+          "commits": 9
+        },
+        "C": {
+          "additions": 2556,
+          "deletions": 460,
+          "commits": 194
+        },
+        "JSON": {
+          "additions": 142,
+          "deletions": 56,
+          "commits": 6
+        },
+        "Makefile": {
+          "additions": 472,
+          "deletions": 133,
+          "commits": 31
+        }
+      }
+    },
+    "최영락": {
+      "commits": 22,
+      "additions": 1676,
+      "deletions": 1009,
+      "email": "chldudfkr119@kookmin.ac.kr",
+      "languages": {
+        "C++": {
+          "additions": 580,
+          "deletions": 486,
+          "commits": 52
+        },
+        "C": {
+          "additions": 157,
+          "deletions": 102,
+          "commits": 34
+        },
+        "Markdown": {
+          "additions": 865,
+          "deletions": 403,
+          "commits": 8
+        },
+        "Makefile": {
+          "additions": 26,
+          "deletions": 17,
+          "commits": 4
+        },
+        "JSON": {
+          "additions": 48,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    },
+    "Erica": {
+      "commits": 2,
+      "additions": 5,
+      "deletions": 5,
+      "email": "yyjin1217@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 5,
+          "deletions": 5,
+          "commits": 2
+        }
+      }
+    },
+    "hayeong-lee": {
+      "commits": 12,
+      "additions": 565,
+      "deletions": 316,
+      "email": "64948651+hayeong-lee@users.noreply.github.com",
+      "languages": {
+        "Markdown": {
+          "additions": 291,
+          "deletions": 215,
+          "commits": 4
+        },
+        "C++": {
+          "additions": 179,
+          "deletions": 71,
+          "commits": 16
+        },
+        "C": {
+          "additions": 77,
+          "deletions": 21,
+          "commits": 11
+        },
+        "Makefile": {
+          "additions": 18,
+          "deletions": 9,
+          "commits": 2
+        }
+      }
+    },
+    "Erica1217": {
+      "commits": 5,
+      "additions": 455,
+      "deletions": 208,
+      "email": "yyjin1217@naver.com",
+      "languages": {
+        "JSON": {
+          "additions": 5,
+          "deletions": 0,
+          "commits": 1
+        },
+        "C++": {
+          "additions": 190,
+          "deletions": 173,
+          "commits": 13
+        },
+        "Makefile": {
+          "additions": 15,
+          "deletions": 6,
+          "commits": 2
+        },
+        "Markdown": {
+          "additions": 214,
+          "deletions": 0,
+          "commits": 1
+        },
+        "C": {
+          "additions": 31,
+          "deletions": 29,
+          "commits": 6
+        }
+      }
+    },
+    "guahama": {
+      "commits": 4,
+      "additions": 226,
+      "deletions": 113,
+      "email": "55117717+guahama@users.noreply.github.com",
+      "languages": {
+        "C": {
+          "additions": 38,
+          "deletions": 19,
+          "commits": 3
+        },
+        "C++": {
+          "additions": 188,
+          "deletions": 94,
+          "commits": 3
+        }
+      }
+    },
+    "root": {
+      "commits": 1,
+      "additions": 48,
+      "deletions": 0,
+      "email": "root@DESKTOP-D9Q6ODH.localdomain",
+      "languages": {
+        "Markdown": {
+          "additions": 48,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Makefile": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "C++": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "C++": {
+      "bytes": 52109,
+      "percentage": 0
+    },
+    "Makefile": {
+      "bytes": 1698,
+      "percentage": 0
+    },
+    "C": {
+      "bytes": 789,
+      "percentage": 0
+    }
+  }
+}

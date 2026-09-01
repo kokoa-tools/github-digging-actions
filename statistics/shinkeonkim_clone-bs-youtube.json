@@ -1,0 +1,54 @@
+{
+  "repository": "shinkeonkim/clone-bs-youtube",
+  "owner": "shinkeonkim",
+  "name": "clone-bs-youtube",
+  "description": null,
+  "language": "HTML",
+  "created_at": "2021-01-22 16:20:10 UTC",
+  "updated_at": "2021-01-22 16:50:40 UTC",
+  "size": 1,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:20+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 68,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "HTML": {
+          "additions": 68,
+          "deletions": 0,
+          "commits": 1
+        },
+        "CSS": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 0,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "HTML": {
+      "bytes": 1833,
+      "percentage": 0
+    }
+  }
+}

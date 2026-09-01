@@ -1,0 +1,4168 @@
+{
+  "usernames": [
+    "shinkeonkim",
+    "kokoa"
+  ],
+  "primary_username": "shinkeonkim",
+  "total_repositories": 144,
+  "total_commits": 3546,
+  "total_additions": 9977655,
+  "total_deletions": 737692,
+  "languages": {
+    "Python": {
+      "bytes": 4835814,
+      "bytes_percentage": 28.16,
+      "commits": 3113,
+      "additions": 110777,
+      "deletions": 5480,
+      "additions_percentage": 7.14,
+      "net_lines": 105297
+    },
+    "JavaScript": {
+      "bytes": 1308565,
+      "bytes_percentage": 7.62,
+      "commits": 1584,
+      "additions": 260351,
+      "deletions": 8369,
+      "additions_percentage": 16.79,
+      "net_lines": 251982
+    },
+    "TOML": {
+      "bytes": 0,
+      "bytes_percentage": 0.0,
+      "commits": 64,
+      "additions": 2025,
+      "deletions": 34,
+      "additions_percentage": 0.13,
+      "net_lines": 1991
+    },
+    "JSON": {
+      "bytes": 0,
+      "bytes_percentage": 0.0,
+      "commits": 646,
+      "additions": 206970,
+      "deletions": 61316,
+      "additions_percentage": 13.35,
+      "net_lines": 145654
+    },
+    "CSS": {
+      "bytes": 506272,
+      "bytes_percentage": 2.95,
+      "commits": 433,
+      "additions": 140837,
+      "deletions": 1013,
+      "additions_percentage": 9.08,
+      "net_lines": 139824
+    },
+    "Text": {
+      "bytes": 0,
+      "bytes_percentage": 0.0,
+      "commits": 461,
+      "additions": 339669,
+      "deletions": 167953,
+      "additions_percentage": 21.9,
+      "net_lines": 171716
+    },
+    "Markdown": {
+      "bytes": 0,
+      "bytes_percentage": 0.0,
+      "commits": 2226,
+      "additions": 127930,
+      "deletions": 6423,
+      "additions_percentage": 8.25,
+      "net_lines": 121507
+    },
+    "HTML": {
+      "bytes": 2095609,
+      "bytes_percentage": 12.2,
+      "commits": 823,
+      "additions": 32815,
+      "deletions": 8615,
+      "additions_percentage": 2.12,
+      "net_lines": 24200
+    },
+    "Java": {
+      "bytes": 159664,
+      "bytes_percentage": 0.93,
+      "commits": 75,
+      "additions": 4151,
+      "deletions": 44,
+      "additions_percentage": 0.27,
+      "net_lines": 4107
+    },
+    "C++": {
+      "bytes": 2145169,
+      "bytes_percentage": 12.49,
+      "commits": 563,
+      "additions": 37532,
+      "deletions": 4501,
+      "additions_percentage": 2.42,
+      "net_lines": 33031
+    },
+    "PHP": {
+      "bytes": 14489,
+      "bytes_percentage": 0.08,
+      "commits": 67,
+      "additions": 1132,
+      "deletions": 506,
+      "additions_percentage": 0.07,
+      "net_lines": 626
+    },
+    "Hack": {
+      "bytes": 231515,
+      "bytes_percentage": 1.35,
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "additions_percentage": 0.0,
+      "net_lines": 0
+    },
+    "Assembly": {
+      "bytes": 367,
+      "bytes_percentage": 0.0,
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "additions_percentage": 0.0,
+      "net_lines": 0
+    },
+    "C": {
+      "bytes": 749461,
+      "bytes_percentage": 4.36,
+      "commits": 95,
+      "additions": 673,
+      "deletions": 1585,
+      "additions_percentage": 0.04,
+      "net_lines": -912
+    },
+    "INI": {
+      "bytes": 0,
+      "bytes_percentage": 0.0,
+      "commits": 2,
+      "additions": 107,
+      "deletions": 0,
+      "additions_percentage": 0.01,
+      "net_lines": 107
+    },
+    "Dockerfile": {
+      "bytes": 20312,
+      "bytes_percentage": 0.12,
+      "commits": 45,
+      "additions": 1064,
+      "deletions": 9,
+      "additions_percentage": 0.07,
+      "net_lines": 1055
+    },
+    "YAML": {
+      "bytes": 0,
+      "bytes_percentage": 0.0,
+      "commits": 424,
+      "additions": 9624,
+      "deletions": 983,
+      "additions_percentage": 0.62,
+      "net_lines": 8641
+    },
+    "Config": {
+      "bytes": 0,
+      "bytes_percentage": 0.0,
+      "commits": 19,
+      "additions": 573,
+      "deletions": 32,
+      "additions_percentage": 0.04,
+      "net_lines": 541
+    },
+    "Makefile": {
+      "bytes": 3706,
+      "bytes_percentage": 0.02,
+      "commits": 28,
+      "additions": 234,
+      "deletions": 224,
+      "additions_percentage": 0.02,
+      "net_lines": 10
+    },
+    "Shell": {
+      "bytes": 43315,
+      "bytes_percentage": 0.25,
+      "commits": 113,
+      "additions": 5034,
+      "deletions": 487,
+      "additions_percentage": 0.32,
+      "net_lines": 4547
+    },
+    "TypeScript": {
+      "bytes": 3626106,
+      "bytes_percentage": 21.11,
+      "commits": 3570,
+      "additions": 153028,
+      "deletions": 11367,
+      "additions_percentage": 9.87,
+      "net_lines": 141661
+    },
+    "Ruby": {
+      "bytes": 143688,
+      "bytes_percentage": 0.84,
+      "commits": 149,
+      "additions": 3957,
+      "deletions": 14,
+      "additions_percentage": 0.26,
+      "net_lines": 3943
+    },
+    "Stata": {
+      "bytes": 459266,
+      "bytes_percentage": 2.67,
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "additions_percentage": 0.0,
+      "net_lines": 0
+    },
+    "HCL": {
+      "bytes": 23698,
+      "bytes_percentage": 0.14,
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "additions_percentage": 0.0,
+      "net_lines": 0
+    },
+    "Smarty": {
+      "bytes": 638,
+      "bytes_percentage": 0.0,
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "additions_percentage": 0.0,
+      "net_lines": 0
+    },
+    "SQL": {
+      "bytes": 0,
+      "bytes_percentage": 0.0,
+      "commits": 164,
+      "additions": 4047,
+      "deletions": 36,
+      "additions_percentage": 0.26,
+      "net_lines": 4011
+    },
+    "Vue": {
+      "bytes": 324465,
+      "bytes_percentage": 1.89,
+      "commits": 265,
+      "additions": 13717,
+      "deletions": 1132,
+      "additions_percentage": 0.88,
+      "net_lines": 12585
+    },
+    "Svelte": {
+      "bytes": 54407,
+      "bytes_percentage": 0.32,
+      "commits": 9,
+      "additions": 2355,
+      "deletions": 0,
+      "additions_percentage": 0.15,
+      "net_lines": 2355
+    },
+    "Mako": {
+      "bytes": 509,
+      "bytes_percentage": 0.0,
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "additions_percentage": 0.0,
+      "net_lines": 0
+    },
+    "MDX": {
+      "bytes": 245201,
+      "bytes_percentage": 1.43,
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "additions_percentage": 0.0,
+      "net_lines": 0
+    },
+    "SCSS": {
+      "bytes": 2130,
+      "bytes_percentage": 0.01,
+      "commits": 8,
+      "additions": 88,
+      "deletions": 0,
+      "additions_percentage": 0.01,
+      "net_lines": 88
+    },
+    "Astro": {
+      "bytes": 1319,
+      "bytes_percentage": 0.01,
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "additions_percentage": 0.0,
+      "net_lines": 0
+    },
+    "Go": {
+      "bytes": 140389,
+      "bytes_percentage": 0.82,
+      "commits": 443,
+      "additions": 21617,
+      "deletions": 776,
+      "additions_percentage": 1.39,
+      "net_lines": 20841
+    },
+    "Rust": {
+      "bytes": 32119,
+      "bytes_percentage": 0.19,
+      "commits": 22,
+      "additions": 1482,
+      "deletions": 53,
+      "additions_percentage": 0.1,
+      "net_lines": 1429
+    },
+    "Kotlin": {
+      "bytes": 135,
+      "bytes_percentage": 0.0,
+      "commits": 1794,
+      "additions": 68553,
+      "deletions": 3468,
+      "additions_percentage": 4.42,
+      "net_lines": 65085
+    },
+    "Dart": {
+      "bytes": 4342,
+      "bytes_percentage": 0.03,
+      "commits": 3,
+      "additions": 157,
+      "deletions": 0,
+      "additions_percentage": 0.01,
+      "net_lines": 157
+    },
+    "Swift": {
+      "bytes": 404,
+      "bytes_percentage": 0.0,
+      "commits": 1,
+      "additions": 13,
+      "deletions": 0,
+      "additions_percentage": 0.0,
+      "net_lines": 13
+    },
+    "Objective-C": {
+      "bytes": 38,
+      "bytes_percentage": 0.0,
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "additions_percentage": 0.0,
+      "net_lines": 0
+    },
+    "XML": {
+      "bytes": 0,
+      "bytes_percentage": 0.0,
+      "commits": 13,
+      "additions": 193,
+      "deletions": 13,
+      "additions_percentage": 0.01,
+      "net_lines": 180
+    },
+    "Batchfile": {
+      "bytes": 524,
+      "bytes_percentage": 0.0,
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "additions_percentage": 0.0,
+      "net_lines": 0
+    },
+    "EJS": {
+      "bytes": 311,
+      "bytes_percentage": 0.0,
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "additions_percentage": 0.0,
+      "net_lines": 0
+    }
+  },
+  "repositories": [
+    {
+      "name": "Algo-Sports/Algo-sports-api",
+      "owner": "Algo-Sports",
+      "description": "알고리즘 게임 대결 서비스 Algo-sports의 API 서버 저장소",
+      "language": "Python",
+      "user_commits": {
+        "commits": 1,
+        "additions": 164,
+        "deletions": 42,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {}
+    },
+    {
+      "name": "Algo-Sports/algo-sports-front",
+      "owner": "Algo-Sports",
+      "description": null,
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 125,
+        "additions": 63435,
+        "deletions": 23849,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {}
+    },
+    {
+      "name": "kmu-shinkeonkim/EurekaProject-Xycar-5",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 23,
+        "additions": 1050,
+        "deletions": 310,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 38888,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/KMU_Class",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": "HTML",
+      "user_commits": {
+        "commits": 44,
+        "additions": 353138,
+        "deletions": 169428,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "HTML": {
+          "bytes": 346536,
+          "percentage": 0
+        },
+        "Java": {
+          "bytes": 118049,
+          "percentage": 0
+        },
+        "Python": {
+          "bytes": 14923,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 14523,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 944,
+          "percentage": 0
+        },
+        "C++": {
+          "bytes": 396,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/Momentum-SGD",
+      "owner": "kmu-shinkeonkim",
+      "description": "KMU Numerical-Analysis Report",
+      "language": "Python",
+      "user_commits": {
+        "commits": 18,
+        "additions": 1927,
+        "deletions": 427,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 16202,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/NumericalAnalysisExample",
+      "owner": "kmu-shinkeonkim",
+      "description": "국민대학교 수치해석시간에 다룬 코드에 설명을 더한 코드들입니다.",
+      "language": "Python",
+      "user_commits": {
+        "commits": 6,
+        "additions": 308,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 4464,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/api-pstagram",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": "PHP",
+      "user_commits": {
+        "commits": 29,
+        "additions": 1273,
+        "deletions": 580,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "PHP": {
+          "bytes": 14489,
+          "percentage": 0
+        },
+        "Hack": {
+          "bytes": 3604,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 81,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/file-proessing-exam-helper",
+      "owner": "kmu-shinkeonkim",
+      "description": "화일처리 기말고사 도우미",
+      "language": "Python",
+      "user_commits": {
+        "commits": 3,
+        "additions": 1012,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 24339,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/find-dog-game",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 34,
+        "additions": 28253,
+        "deletions": 1445,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 244603,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 3565,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 1005,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/kmu-computer-achitecture",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": "Assembly",
+      "user_commits": {
+        "commits": 7,
+        "additions": 385,
+        "deletions": 78,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Assembly": {
+          "bytes": 367,
+          "percentage": 0
+        },
+        "C": {
+          "bytes": 151,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/kmu-notice-bot",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 6,
+        "additions": 7644,
+        "deletions": 2,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 3533,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/kmu-webserver-homework-3",
+      "owner": "kmu-shinkeonkim",
+      "description": "[KMU 강의 과제] 웹서버컴퓨팅 Q&A 사이트 개발하기",
+      "language": "Python",
+      "user_commits": {
+        "commits": 6,
+        "additions": 975,
+        "deletions": 75,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 11409,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 4695,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/kmu-webserver-homework-4-csrf",
+      "owner": "kmu-shinkeonkim",
+      "description": "[KMU 강의 과제] 웹서버컴퓨팅 Cross-Site Request Forgery(CSRF) 사이트간요청위조생성",
+      "language": "Python",
+      "user_commits": {
+        "commits": 2,
+        "additions": 706,
+        "deletions": 0,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 8294,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 878,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/kmu-webserver-homework-5",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 2,
+        "additions": 723,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 8897,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/kmu-webserver-homework-6",
+      "owner": "kmu-shinkeonkim",
+      "description": "과제 6 : request 객체 실습",
+      "language": "Python",
+      "user_commits": {
+        "commits": 4,
+        "additions": 806,
+        "deletions": 2,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 8444,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1694,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/kmu-webserver-homework-7",
+      "owner": "kmu-shinkeonkim",
+      "description": "Django의 django.contrib.auth 를 활용한 로그인 / 로그아웃 기능 실습",
+      "language": "Python",
+      "user_commits": {
+        "commits": 5,
+        "additions": 885,
+        "deletions": 2,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 6950,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 467,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/kmu-webserver-homework-8",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 2,
+        "additions": 634,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 6834,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/kmu-webserver-homework-9",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 1,
+        "additions": 1194,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 15285,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1017,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/likelion-badge",
+      "owner": "kmu-shinkeonkim",
+      "description": "대학생 멋쟁이사자처럼 프로필을 이쁘게 보여주는 프로젝트",
+      "language": "Python",
+      "user_commits": {
+        "commits": 22,
+        "additions": 1079,
+        "deletions": 173,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 17426,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/nginx-lb-docker-practice",
+      "owner": "kmu-shinkeonkim",
+      "description": "다음 강의에서 다루는 내용을 Docker 환경에서 다루도록 변경한 실습 내용 | https://github.com/SCKIMOSU/SmartNetworkService/blob/main/%5B2%EC%A3%BC%EC%B0%A8_2%EC%B0%A8%EC%8B%9C%5DDNS%EC%99%80%20%EC%84%9C%EB%B2%84%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1.md",
+      "language": "Dockerfile",
+      "user_commits": {
+        "commits": 1,
+        "additions": 96,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Dockerfile": {
+          "bytes": 966,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 41,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/peachpitch",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 77,
+        "additions": 4006,
+        "deletions": 1633,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 64164,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/smart-network-service-hw1",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": "C++",
+      "user_commits": {
+        "commits": 2,
+        "additions": 265,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "C++": {
+          "bytes": 4263,
+          "percentage": 0
+        },
+        "C": {
+          "bytes": 1125,
+          "percentage": 0
+        },
+        "Makefile": {
+          "bytes": 277,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/smart-network-service-hw2",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": "C",
+      "user_commits": {
+        "commits": 4,
+        "additions": 233,
+        "deletions": 14,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "C": {
+          "bytes": 3103,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/smart-network-service-hw3",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 4,
+        "additions": 540,
+        "deletions": 5,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 8190,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 3278,
+          "percentage": 0
+        },
+        "Shell": {
+          "bytes": 984,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/smart-network-service-practice",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 1,
+        "additions": 63,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 714,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/snake-game",
+      "owner": "kmu-shinkeonkim",
+      "description": "KMU-SW C++ programming project: snake game",
+      "language": "C++",
+      "user_commits": {
+        "commits": 65,
+        "additions": 2396,
+        "deletions": 6653,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "C++": {
+          "bytes": 52109,
+          "percentage": 0
+        },
+        "Makefile": {
+          "bytes": 1698,
+          "percentage": 0
+        },
+        "C": {
+          "bytes": 789,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/starve-free-reader-writer-with-zemaphore",
+      "owner": "kmu-shinkeonkim",
+      "description": "[HW] KMU - Operating System",
+      "language": "C++",
+      "user_commits": {
+        "commits": 7,
+        "additions": 649,
+        "deletions": 5,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "C++": {
+          "bytes": 7738,
+          "percentage": 0
+        },
+        "C": {
+          "bytes": 1260,
+          "percentage": 0
+        },
+        "Makefile": {
+          "bytes": 299,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kmu-shinkeonkim/sw-arhitecture-garage-system",
+      "owner": "kmu-shinkeonkim",
+      "description": null,
+      "language": null,
+      "user_commits": {
+        "commits": 4,
+        "additions": 45,
+        "deletions": 0,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {}
+    },
+    {
+      "name": "kmu-shinkeonkim/tabular-method-cli",
+      "owner": "kmu-shinkeonkim",
+      "description": "tabular method cpp src",
+      "language": "C++",
+      "user_commits": {
+        "commits": 20,
+        "additions": 1064,
+        "deletions": 254,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "C++": {
+          "bytes": 18232,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/3d-model-example",
+      "owner": "kokoa-lab",
+      "description": "3D model GLTF loader example (react-three + typescript)",
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 8,
+        "additions": 10143,
+        "deletions": 120,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 2155,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1728,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 587,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/TDS-experiment-with-pencil",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": null,
+      "user_commits": {
+        "commits": 1,
+        "additions": 947,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {}
+    },
+    {
+      "name": "kokoa-lab/aether",
+      "owner": "kokoa-lab",
+      "description": "aether - Rails Webapp Experiment Repo",
+      "language": "Ruby",
+      "user_commits": {
+        "commits": 1,
+        "additions": 1585,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Ruby": {
+          "bytes": 25150,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 5650,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 1885,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 947,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 721,
+          "percentage": 0
+        },
+        "Shell": {
+          "bytes": 191,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/boj-problems",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "HTML",
+      "user_commits": {
+        "commits": 6,
+        "additions": 8057770,
+        "deletions": 449168,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "HTML": {
+          "bytes": 1348757,
+          "percentage": 0
+        },
+        "C": {
+          "bytes": 742607,
+          "percentage": 0
+        },
+        "Stata": {
+          "bytes": 459266,
+          "percentage": 0
+        },
+        "Hack": {
+          "bytes": 227911,
+          "percentage": 0
+        },
+        "Python": {
+          "bytes": 33307,
+          "percentage": 0
+        },
+        "C++": {
+          "bytes": 31663,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/build-testing",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "Dockerfile",
+      "user_commits": {
+        "commits": 4,
+        "additions": 39,
+        "deletions": 2,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Dockerfile": {
+          "bytes": 82,
+          "percentage": 0
+        },
+        "Python": {
+          "bytes": 30,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/cache-fridge",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 6,
+        "additions": 7410,
+        "deletions": 1,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 209102,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 2784,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1238,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/commit-city",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 7,
+        "additions": 7271,
+        "deletions": 1,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 192909,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 2634,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1496,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/cookie-bakery",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 6,
+        "additions": 6953,
+        "deletions": 1,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 191096,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 3543,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1749,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/cors-port",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 7,
+        "additions": 7111,
+        "deletions": 1,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 197443,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 5205,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1539,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/cozy-hive",
+      "owner": "kokoa-lab",
+      "description": "나의 작은 양봉장 - 방치형 양봉 시뮬레이션 게임",
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 8,
+        "additions": 9403,
+        "deletions": 1,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 305851,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 5315,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1431,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/dev-tarot",
+      "owner": "kokoa-lab",
+      "description": "개발자를 위한 타로 운세 — 오늘의 코딩 운세를 뽑아보세요!",
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 7,
+        "additions": 7173,
+        "deletions": 3,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 187934,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 3606,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1225,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/dice-art",
+      "owner": "kokoa-lab",
+      "description": "주사위 모자이크 아트 생성기",
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 10,
+        "additions": 4931,
+        "deletions": 1,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 25244,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1597,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 616,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 411,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/django-terraform-example",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "HCL",
+      "user_commits": {
+        "commits": 15,
+        "additions": 704,
+        "deletions": 2,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "HCL": {
+          "bytes": 10666,
+          "percentage": 0
+        },
+        "Python": {
+          "bytes": 5728,
+          "percentage": 0
+        },
+        "Smarty": {
+          "bytes": 638,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 209,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/duck-therapy",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 6,
+        "additions": 6714,
+        "deletions": 0,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 180920,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 4652,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1460,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/fastapi-sql-injection-experment",
+      "owner": "kokoa-lab",
+      "description": "FastAPI SQL Injection 실험 프로젝트",
+      "language": "Python",
+      "user_commits": {
+        "commits": 1,
+        "additions": 937,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 7270,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 838,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/gc-sweeper",
+      "owner": "kokoa-lab",
+      "description": "메모리 블록에서 쓰레기를 찾아 수거하는 GC 알고리즘 학습 퍼즐 게임",
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 6,
+        "additions": 7296,
+        "deletions": 0,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 201412,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 3395,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1432,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/how-to-get-google-dot-com",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 6,
+        "additions": 3660,
+        "deletions": 2,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 98622,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 1961,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1454,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/nodejs-blog-example",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 5,
+        "additions": 2901,
+        "deletions": 518,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 3581,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 909,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 429,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 277,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/npm-version-era",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 6,
+        "additions": 6852,
+        "deletions": 1,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 188260,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 5047,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1251,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/pattern-type",
+      "owner": "kokoa-lab",
+      "description": "12개의 코딩 상황 질문을 통해 당신의 코딩 성격을 7가지 디자인 패턴 중 하나로 진단하는 심리테스트",
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 7,
+        "additions": 7675,
+        "deletions": 1,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 206723,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 2602,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1236,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/please-delete-my-account",
+      "owner": "kokoa-lab",
+      "description": "대한민국 서비스 회원탈퇴의 모든 다크패턴을 체험하세요. 총 20개의 스테이지를 클리어하면 진정한 탈퇴가 완료됩니다.",
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 8,
+        "additions": 8824,
+        "deletions": 0,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 255912,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 4390,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1526,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/poll-system-experiment",
+      "owner": "kokoa-lab",
+      "description": "투표 시스템 실험 프로젝트",
+      "language": "Python",
+      "user_commits": {
+        "commits": 1,
+        "additions": 6489,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 64939,
+          "percentage": 0
+        },
+        "Vue": {
+          "bytes": 54042,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 17350,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 3914,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 1073,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 504,
+          "percentage": 0
+        },
+        "Shell": {
+          "bytes": 493,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/python-msa-experiment",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "Dockerfile",
+      "user_commits": {
+        "commits": 5,
+        "additions": 349,
+        "deletions": 34,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Dockerfile": {
+          "bytes": 790,
+          "percentage": 0
+        },
+        "Shell": {
+          "bytes": 233,
+          "percentage": 0
+        },
+        "Python": {
+          "bytes": 202,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/review-slot",
+      "owner": "kokoa-lab",
+      "description": "슬롯머신을 돌려서 코드리뷰 코멘트를 생성하는 웹 애플리케이션",
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 7,
+        "additions": 7116,
+        "deletions": 1,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 186739,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 4718,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1301,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/rsp-simulator",
+      "owner": "kokoa-lab",
+      "description": "가위 바위 보 시뮬레이터",
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 3,
+        "additions": 505,
+        "deletions": 0,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 8013,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 2185,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 1916,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/simulate-doves-hawks",
+      "owner": "kokoa-lab",
+      "description": "simulate-doves-hawks",
+      "language": "Python",
+      "user_commits": {
+        "commits": 8,
+        "additions": 524,
+        "deletions": 5,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 7229,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/stack-digger",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 9,
+        "additions": 7216,
+        "deletions": 24,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 189515,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 4093,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1379,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/term-card",
+      "owner": "kokoa-lab",
+      "description": "터미널 스타일 ASCII 명함을 생성하세요. neofetch 감성의 타이핑 애니메이션과 이미지 내보내기 지원",
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 6,
+        "additions": 7198,
+        "deletions": 0,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 183542,
+          "percentage": 0
+        },
+        "Python": {
+          "bytes": 12051,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 3880,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1779,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/vanilla-tsx-experiment",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 4,
+        "additions": 311,
+        "deletions": 4,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 3184,
+          "percentage": 0
+        },
+        "TypeScript": {
+          "bytes": 2124,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 256,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/video-serving-experiment",
+      "owner": "kokoa-lab",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 1,
+        "additions": 7595,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 59375,
+          "percentage": 0
+        },
+        "Svelte": {
+          "bytes": 54407,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 8116,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 3136,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 758,
+          "percentage": 0
+        },
+        "Mako": {
+          "bytes": 509,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 368,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-lab/works-on-mine",
+      "owner": "kokoa-lab",
+      "description": "\"제 컴퓨터에선 되는데요\"를 공식 증명서로 발급합니다",
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 8,
+        "additions": 6491,
+        "deletions": 0,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 170467,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 3900,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1243,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 846,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/PEP723-practice",
+      "owner": "kokoa-study-room",
+      "description": "https://peps.python.org/pep-0723/",
+      "language": "Python",
+      "user_commits": {
+        "commits": 1,
+        "additions": 66,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 912,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/aif-c01-study-notes",
+      "owner": "kokoa-study-room",
+      "description": "AWS Certified AI Practitioner Exam Study Notes",
+      "language": "Python",
+      "user_commits": {
+        "commits": 3,
+        "additions": 20581,
+        "deletions": 834,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 15504,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/compiler-study-site",
+      "owner": "kokoa-study-room",
+      "description": null,
+      "language": "MDX",
+      "user_commits": {
+        "commits": 4,
+        "additions": 8,
+        "deletions": 0,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "MDX": {
+          "bytes": 241203,
+          "percentage": 0
+        },
+        "TypeScript": {
+          "bytes": 147978,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 22588,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/db-connection-study-page",
+      "owner": "kokoa-study-room",
+      "description": "DB 커넥션에 대한 개념",
+      "language": "HTML",
+      "user_commits": {
+        "commits": 5,
+        "additions": 751,
+        "deletions": 2,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "HTML": {
+          "bytes": 62335,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/db-union-query-benchmark",
+      "owner": "kokoa-study-room",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 2,
+        "additions": 5246,
+        "deletions": 53,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 67202,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 53861,
+          "percentage": 0
+        },
+        "Shell": {
+          "bytes": 5416,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 221,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/django-blog-server-example",
+      "owner": "kokoa-study-room",
+      "description": "django-blog-server-example for likelion org. in Kookmin Univ.",
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 7,
+        "additions": 102154,
+        "deletions": 79,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 220549,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 118427,
+          "percentage": 0
+        },
+        "Python": {
+          "bytes": 20756,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 4328,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/django-word-counter-example",
+      "owner": "kokoa-study-room",
+      "description": null,
+      "language": "HTML",
+      "user_commits": {
+        "commits": 9,
+        "additions": 525,
+        "deletions": 24,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "HTML": {
+          "bytes": 8632,
+          "percentage": 0
+        },
+        "Python": {
+          "bytes": 7117,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/django_serengeti_example",
+      "owner": "kokoa-study-room",
+      "description": "Django MTV 패턴을 이용한 커뮤니티 예제입니다.",
+      "language": "Python",
+      "user_commits": {
+        "commits": 28,
+        "additions": 1063,
+        "deletions": 60,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 14841,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 3593,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/ex_django_serengeti",
+      "owner": "kokoa-study-room",
+      "description": null,
+      "language": null,
+      "user_commits": {
+        "commits": 33,
+        "additions": 1617,
+        "deletions": 193,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "HTML": {
+          "bytes": 17479,
+          "percentage": 0
+        },
+        "Python": {
+          "bytes": 15815,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/hello-spring",
+      "owner": "kokoa-study-room",
+      "description": "강의 듣기[완료] : 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 ",
+      "language": "Java",
+      "user_commits": {
+        "commits": 27,
+        "additions": 1424,
+        "deletions": 53,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Java": {
+          "bytes": 21150,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 2384,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/koa-rest-api-example",
+      "owner": "kokoa-study-room",
+      "description": "koa가 koa 공부하는 예시 프로젝트",
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 8,
+        "additions": 1992,
+        "deletions": 32,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 628,
+          "percentage": 0
+        },
+        "TypeScript": {
+          "bytes": 539,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/kokoa-study-room.github.io",
+      "owner": "kokoa-study-room",
+      "description": null,
+      "language": null,
+      "user_commits": {
+        "commits": 2,
+        "additions": 2,
+        "deletions": 0,
+        "authors": [
+          "kokoa"
+        ]
+      },
+      "languages": {}
+    },
+    {
+      "name": "kokoa-study-room/mfe-example",
+      "owner": "kokoa-study-room",
+      "description": "https://www.udemy.com/course/microfrontend-course/ practice code",
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 4,
+        "additions": 56735,
+        "deletions": 7,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 16416,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 560,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/redis-practice",
+      "owner": "kokoa-study-room",
+      "description": null,
+      "language": "Shell",
+      "user_commits": {
+        "commits": 3,
+        "additions": 17282,
+        "deletions": 7,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Shell": {
+          "bytes": 6371,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/ruby-problem-solving",
+      "owner": "kokoa-study-room",
+      "description": null,
+      "language": "Ruby",
+      "user_commits": {
+        "commits": 8,
+        "additions": 246,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "Ruby": {
+          "bytes": 5586,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/study-ruby",
+      "owner": "kokoa-study-room",
+      "description": null,
+      "language": "Ruby",
+      "user_commits": {
+        "commits": 7,
+        "additions": 10198,
+        "deletions": 108,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Ruby": {
+          "bytes": 61090,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 18285,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 3471,
+          "percentage": 0
+        },
+        "SCSS": {
+          "bytes": 2078,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 709,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/terraform-associate-004-study-notes",
+      "owner": "kokoa-study-room",
+      "description": null,
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 46,
+        "additions": 59118,
+        "deletions": 8147,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 22870,
+          "percentage": 0
+        },
+        "HCL": {
+          "bytes": 13032,
+          "percentage": 0
+        },
+        "TypeScript": {
+          "bytes": 7785,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 6509,
+          "percentage": 0
+        },
+        "MDX": {
+          "bytes": 3998,
+          "percentage": 0
+        },
+        "Astro": {
+          "bytes": 1319,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-study-room/transaction-isolation-level",
+      "owner": "kokoa-study-room",
+      "description": null,
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 9,
+        "additions": 3028,
+        "deletions": 2373,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 17204,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1530,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-tools/boj-to-pdf",
+      "owner": "kokoa-tools",
+      "description": "[학습 용도] 백준 문제를 PDF 파일로 변환해줍니다. 이제 아이패드에서 문제를 쉽게 풀자. ",
+      "language": "Python",
+      "user_commits": {
+        "commits": 7,
+        "additions": 2266,
+        "deletions": 924,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 15334,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 1220,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-tools/commit-message-generator",
+      "owner": "kokoa-tools",
+      "description": "커밋 메세지 생성기 (Claude Code, LLM API 지원)",
+      "language": "Go",
+      "user_commits": {
+        "commits": 7,
+        "additions": 2012,
+        "deletions": 27,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Go": {
+          "bytes": 35450,
+          "percentage": 0
+        },
+        "Makefile": {
+          "bytes": 224,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-tools/e-gonghun-mcp",
+      "owner": "kokoa-tools",
+      "description": "e-gonghun-mcp 프로젝트",
+      "language": "Python",
+      "user_commits": {
+        "commits": 14,
+        "additions": 1947,
+        "deletions": 0,
+        "authors": [
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 49933,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-tools/fuck-pdf",
+      "owner": "kokoa-tools",
+      "description": "Simple PDF Editing GUI Tool / 유료 프로그램들에 지쳐 만든 GUI 툴",
+      "language": "Python",
+      "user_commits": {
+        "commits": 9,
+        "additions": 1559,
+        "deletions": 3,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 20787,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-tools/github-digging-actions",
+      "owner": "kokoa-tools",
+      "description": "개인 Github 분석기, 여러 조직에 걸쳐져 있는 Contribution을 모아서 통계를 확인하세요",
+      "language": "Ruby",
+      "user_commits": {
+        "commits": 6,
+        "additions": 1501,
+        "deletions": 50,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Ruby": {
+          "bytes": 36414,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-tools/github-repository-start-date-checker",
+      "owner": "kokoa-tools",
+      "description": "해커톤 운영시에 사용한, 특정 일자에 시작하지 않은 레포지터리를 검출하고 목록을 뽑아내는 프로젝트입니다.",
+      "language": "Python",
+      "user_commits": {
+        "commits": 6,
+        "additions": 291,
+        "deletions": 17,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 1486,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-tools/pdf-to-jpgs",
+      "owner": "kokoa-tools",
+      "description": "PDF의 페이지를 각각 JPG로 변환하는 도구",
+      "language": "Python",
+      "user_commits": {
+        "commits": 2,
+        "additions": 793,
+        "deletions": 0,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 7140,
+          "percentage": 0
+        },
+        "Shell": {
+          "bytes": 2037,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-tools/pdf-to-png-plane",
+      "owner": "kokoa-tools",
+      "description": "PDF를 특정 레이아웃을 가진 PNG로 변환합니다.",
+      "language": "Python",
+      "user_commits": {
+        "commits": 1,
+        "additions": 335,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 5493,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-tools/port-killer",
+      "owner": "kokoa-tools",
+      "description": "특정 TCP 포트를 사용하고 있는 프로세스 또는 도커 컨테이너를 죽이는 sh | why? -> AI tool이 백그라운드로 포트를 사용하고 있다.",
+      "language": "Shell",
+      "user_commits": {
+        "commits": 1,
+        "additions": 220,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Shell": {
+          "bytes": 3590,
+          "percentage": 0
+        },
+        "Makefile": {
+          "bytes": 915,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-tools/pr-archiving",
+      "owner": "kokoa-tools",
+      "description": "특정 유저가 작성한 Repository의 Github PR 목록을 가져옵니다. 각 PR 상세 페이지 및 files 페이지의 스크린샷을 저장합니다.",
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 3,
+        "additions": 1432,
+        "deletions": 1,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 7563,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-tools/pr-message-generator",
+      "owner": "kokoa-tools",
+      "description": "pr-message-generator",
+      "language": "Go",
+      "user_commits": {
+        "commits": 9,
+        "additions": 3278,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Go": {
+          "bytes": 80754,
+          "percentage": 0
+        },
+        "Makefile": {
+          "bytes": 224,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-tools/randycolor",
+      "owner": "kokoa-tools",
+      "description": "랜덤 그라데이션 CSS 생성기",
+      "language": "Vue",
+      "user_commits": {
+        "commits": 5,
+        "additions": 5625,
+        "deletions": 16,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Vue": {
+          "bytes": 42266,
+          "percentage": 0
+        },
+        "TypeScript": {
+          "bytes": 23604,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 2399,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 1269,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 111,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "kokoa-tools/slack-message-collector",
+      "owner": "kokoa-tools",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 1,
+        "additions": 2918,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 61477,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/1day1commit",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 8,
+        "additions": 7760,
+        "deletions": 27,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 3827,
+          "percentage": 0
+        },
+        "Python": {
+          "bytes": 1762,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/3d-printer-calibration-program",
+      "owner": "shinkeonkim",
+      "description": "daVinci 1.1 plus 3D priter calibration c++ cli program (created 2017)",
+      "language": "C++",
+      "user_commits": {
+        "commits": 6,
+        "additions": 445,
+        "deletions": 1,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "C++": {
+          "bytes": 9335,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/BOJ",
+      "owner": "shinkeonkim",
+      "description": "다시 시작하는 백준 온라인 저지 풀이",
+      "language": "Python",
+      "user_commits": {
+        "commits": 103,
+        "additions": 89183,
+        "deletions": 701,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 1292187,
+          "percentage": 0
+        },
+        "C++": {
+          "bytes": 475708,
+          "percentage": 0
+        },
+        "Go": {
+          "bytes": 7541,
+          "percentage": 0
+        },
+        "Ruby": {
+          "bytes": 5486,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/Coding_Camp",
+      "owner": "shinkeonkim",
+      "description": "HM_Coding_Camp",
+      "language": "C++",
+      "user_commits": {
+        "commits": 16,
+        "additions": 319,
+        "deletions": 26,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "C++": {
+          "bytes": 1279,
+          "percentage": 0
+        },
+        "Python": {
+          "bytes": 245,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/HelloAlgo",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 2,
+        "additions": 896,
+        "deletions": 2,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 5597,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 2815,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/In-Kookmin-Extension",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": null,
+      "user_commits": {
+        "commits": 6,
+        "additions": 24359,
+        "deletions": 3,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {}
+    },
+    {
+      "name": "shinkeonkim/boardai",
+      "owner": "shinkeonkim",
+      "description": "보드게임을 같이 해주는 AI (Vision / AI 기반 / 멀티 플레이어 / 다양한 게임 지원)",
+      "language": null,
+      "user_commits": {
+        "commits": 1,
+        "additions": 3,
+        "deletions": 0,
+        "authors": [
+          "kokoa"
+        ]
+      },
+      "languages": {}
+    },
+    {
+      "name": "shinkeonkim/boj-jandi-site",
+      "owner": "shinkeonkim",
+      "description": "백준 온라인 저지 핸들을 입력하여 해결한 문제 잔디를 확인하세요",
+      "language": "HTML",
+      "user_commits": {
+        "commits": 17,
+        "additions": 2570,
+        "deletions": 257,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "HTML": {
+          "bytes": 13126,
+          "percentage": 0
+        },
+        "Python": {
+          "bytes": 12989,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 4736,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 681,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/boj-solution-archiving-site",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 20,
+        "additions": 205248,
+        "deletions": 680,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 2437924,
+          "percentage": 0
+        },
+        "C++": {
+          "bytes": 1540846,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 21700,
+          "percentage": 0
+        },
+        "Java": {
+          "bytes": 20465,
+          "percentage": 0
+        },
+        "Go": {
+          "bytes": 16644,
+          "percentage": 0
+        },
+        "Ruby": {
+          "bytes": 9890,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 2889,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 541,
+          "percentage": 0
+        },
+        "Shell": {
+          "bytes": 519,
+          "percentage": 0
+        },
+        "C": {
+          "bytes": 426,
+          "percentage": 0
+        },
+        "Rust": {
+          "bytes": 289,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/books",
+      "owner": "shinkeonkim",
+      "description": "내가 읽었고, 읽고 있고 읽고 싶은 책들",
+      "language": null,
+      "user_commits": {
+        "commits": 5,
+        "additions": 61,
+        "deletions": 4,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {}
+    },
+    {
+      "name": "shinkeonkim/can-you-catch-circle",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "Vue",
+      "user_commits": {
+        "commits": 22,
+        "additions": 1528,
+        "deletions": 100,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Vue": {
+          "bytes": 3972,
+          "percentage": 0
+        },
+        "TypeScript": {
+          "bytes": 961,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 354,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/certi-navigator-to-md-chrome-extension",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 3,
+        "additions": 827,
+        "deletions": 81,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 13032,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 5058,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/clone-bs-youtube",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "HTML",
+      "user_commits": {
+        "commits": 2,
+        "additions": 69,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "HTML": {
+          "bytes": 1833,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/code-executor",
+      "owner": "shinkeonkim",
+      "description": "Rust/Docker 기반 코드 실행기 (Python, Java, C++, Ruby 지원)",
+      "language": "Rust",
+      "user_commits": {
+        "commits": 6,
+        "additions": 1811,
+        "deletions": 53,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Rust": {
+          "bytes": 22599,
+          "percentage": 0
+        },
+        "Shell": {
+          "bytes": 4461,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 3892,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/code-judger",
+      "owner": "shinkeonkim",
+      "description": "Rust/Docker 기반 code-executor를 활용하는 코드 채점기",
+      "language": "Rust",
+      "user_commits": {
+        "commits": 2,
+        "additions": 1855,
+        "deletions": 9,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Rust": {
+          "bytes": 9231,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 888,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/code-testcase-generator",
+      "owner": "shinkeonkim",
+      "description": "LLM을 활용한 알고리즘 문제 TC 자동 생성기",
+      "language": "Python",
+      "user_commits": {
+        "commits": 1,
+        "additions": 1747,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 22315,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 311,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/codekr",
+      "owner": "shinkeonkim",
+      "description": "오픈소스 온라인 저지 시스템",
+      "language": "Kotlin",
+      "user_commits": {
+        "commits": 627,
+        "additions": 172670,
+        "deletions": 12235,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {}
+    },
+    {
+      "name": "shinkeonkim/css-animation-study",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "CSS",
+      "user_commits": {
+        "commits": 6,
+        "additions": 793,
+        "deletions": 40,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "CSS": {
+          "bytes": 7449,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 6581,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 4517,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/django-blog",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 22,
+        "additions": 2092,
+        "deletions": 668,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 21518,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 11143,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 2504,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/django-coffee-model",
+      "owner": "shinkeonkim",
+      "description": " Base Models of Django such as Coffee of Developers",
+      "language": "Python",
+      "user_commits": {
+        "commits": 17,
+        "additions": 270,
+        "deletions": 39,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 3949,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/django_o_template",
+      "owner": "shinkeonkim",
+      "description": "django template",
+      "language": "Python",
+      "user_commits": {
+        "commits": 21,
+        "additions": 2305,
+        "deletions": 246,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 28446,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 3100,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 536,
+          "percentage": 0
+        },
+        "SCSS": {
+          "bytes": 52,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/dpd_template",
+      "owner": "shinkeonkim",
+      "description": "Django, PostgreSQL, Docker Template",
+      "language": "Python",
+      "user_commits": {
+        "commits": 15,
+        "additions": 1301,
+        "deletions": 42,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 6203,
+          "percentage": 0
+        },
+        "Shell": {
+          "bytes": 5629,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 638,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/drawing",
+      "owner": "shinkeonkim",
+      "description": "심플 그림판 프로젝트",
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 7,
+        "additions": 1159,
+        "deletions": 58,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 4506,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 707,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 104,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/drf-discord-handler",
+      "owner": "shinkeonkim",
+      "description": "drf exception handler with messaging to discord server",
+      "language": "Python",
+      "user_commits": {
+        "commits": 11,
+        "additions": 1494,
+        "deletions": 35,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 37759,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/empty_django_project",
+      "owner": "shinkeonkim",
+      "description": "This Project is \"Empty\" Django Project using just test runserver",
+      "language": "Python",
+      "user_commits": {
+        "commits": 1,
+        "additions": 425,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 5376,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/flutter_slidable_example",
+      "owner": "shinkeonkim",
+      "description": "Flutter Slidable Example Repository",
+      "language": "Dart",
+      "user_commits": {
+        "commits": 1,
+        "additions": 1647,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Dart": {
+          "bytes": 4342,
+          "percentage": 0
+        },
+        "Swift": {
+          "bytes": 404,
+          "percentage": 0
+        },
+        "Kotlin": {
+          "bytes": 135,
+          "percentage": 0
+        },
+        "Objective-C": {
+          "bytes": 38,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/github-stats-box",
+      "owner": "shinkeonkim",
+      "description": "📌 Update a gist to contain your GitHub stats",
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 2,
+        "additions": 2,
+        "deletions": 2,
+        "authors": [
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 5040,
+          "percentage": 0
+        },
+        "Shell": {
+          "bytes": 32,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/good-bye-boj",
+      "owner": "shinkeonkim",
+      "description": "Good Bye BOJ..",
+      "language": "Python",
+      "user_commits": {
+        "commits": 11,
+        "additions": 798,
+        "deletions": 14,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 14197,
+          "percentage": 0
+        },
+        "Shell": {
+          "bytes": 902,
+          "percentage": 0
+        },
+        "Batchfile": {
+          "bytes": 524,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/hackathon-dj-template",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 15,
+        "additions": 4452,
+        "deletions": 111,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 35932,
+          "percentage": 0
+        },
+        "Shell": {
+          "bytes": 5904,
+          "percentage": 0
+        },
+        "Dockerfile": {
+          "bytes": 1076,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/hangul",
+      "owner": "shinkeonkim",
+      "description": "visualize hangul",
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 2,
+        "additions": 101,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 1071,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1043,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 438,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/hexagonal-grid-illumination-visualizer",
+      "owner": "shinkeonkim",
+      "description": "https://www.acmicpc.net/problem/5547 문제에 대한 시각화 사이트",
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 2,
+        "additions": 536,
+        "deletions": 0,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 8913,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 4147,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 1361,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/is_likelion",
+      "owner": "shinkeonkim",
+      "description": "Is Likelion?",
+      "language": "Python",
+      "user_commits": {
+        "commits": 20,
+        "additions": 256,
+        "deletions": 16,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 2553,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/khonshu",
+      "owner": "shinkeonkim",
+      "description": "God of Mooooon",
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 7,
+        "additions": 145,
+        "deletions": 3,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 1010,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 938,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 579,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/kmu-ecampus-darkmode-extension",
+      "owner": "shinkeonkim",
+      "description": "KMU ecampus darkmode chrome extension",
+      "language": "HTML",
+      "user_commits": {
+        "commits": 5,
+        "additions": 274,
+        "deletions": 31,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "HTML": {
+          "bytes": 2829,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 2310,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 4,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/kmu-likelion-slack-noti-action",
+      "owner": "shinkeonkim",
+      "description": "slack noti using github action",
+      "language": "Python",
+      "user_commits": {
+        "commits": 14,
+        "additions": 117,
+        "deletions": 24,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 1081,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/likelion-git-practice",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": null,
+      "user_commits": {
+        "commits": 3,
+        "additions": 3,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {}
+    },
+    {
+      "name": "shinkeonkim/lotteng",
+      "owner": "shinkeonkim",
+      "description": "🦁2020 멋쟁이 사자처럼 8기 해커톤 LOTTENG🕒",
+      "language": null,
+      "user_commits": {
+        "commits": 180,
+        "additions": 332564,
+        "deletions": 6219,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 572669,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 225068,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 62439,
+          "percentage": 0
+        },
+        "Python": {
+          "bytes": 43603,
+          "percentage": 0
+        },
+        "Shell": {
+          "bytes": 52,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/mago",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": null,
+      "user_commits": {
+        "commits": 1,
+        "additions": 2,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {}
+    },
+    {
+      "name": "shinkeonkim/microbit-choreboard-initial-code",
+      "owner": "shinkeonkim",
+      "description": "A MakeCode project",
+      "language": null,
+      "user_commits": {
+        "commits": 2,
+        "additions": 187,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 590,
+          "percentage": 0
+        },
+        "Ruby": {
+          "bytes": 72,
+          "percentage": 0
+        },
+        "Makefile": {
+          "bytes": 69,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/mooyaho",
+      "owner": "shinkeonkim",
+      "description": "무야호~",
+      "language": "HTML",
+      "user_commits": {
+        "commits": 9,
+        "additions": 106,
+        "deletions": 7,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "HTML": {
+          "bytes": 3265,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 168,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/move-it",
+      "owner": "shinkeonkim",
+      "description": "Move Green Box! Avoid Red Dot!",
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 3,
+        "additions": 334,
+        "deletions": 1,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 4143,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 1858,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 942,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/my-claude-code-settings",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "Shell",
+      "user_commits": {
+        "commits": 5,
+        "additions": 4710,
+        "deletions": 1,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "Shell": {
+          "bytes": 2761,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/my-cv",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "HTML",
+      "user_commits": {
+        "commits": 21,
+        "additions": 2936,
+        "deletions": 562,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "HTML": {
+          "bytes": 27864,
+          "percentage": 0
+        },
+        "TypeScript": {
+          "bytes": 14008,
+          "percentage": 0
+        },
+        "Vue": {
+          "bytes": 9405,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 7918,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/my-leetcode",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "Python",
+      "user_commits": {
+        "commits": 1101,
+        "additions": 18621,
+        "deletions": 328,
+        "authors": [
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "Python": {
+          "bytes": 92868,
+          "percentage": 0
+        },
+        "C++": {
+          "bytes": 3600,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 3025,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/my-portfolio",
+      "owner": "shinkeonkim",
+      "description": "My Portfolio",
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 89,
+        "additions": 19317,
+        "deletions": 2881,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 233912,
+          "percentage": 0
+        },
+        "Vue": {
+          "bytes": 181278,
+          "percentage": 0
+        },
+        "Python": {
+          "bytes": 19959,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 5115,
+          "percentage": 0
+        },
+        "Shell": {
+          "bytes": 3740,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 3726,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/my-projects",
+      "owner": "shinkeonkim",
+      "description": "지금까지 진행했던 프로젝트들을 모두 정리하는 곳입니다.",
+      "language": null,
+      "user_commits": {
+        "commits": 11,
+        "additions": 724,
+        "deletions": 42,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {}
+    },
+    {
+      "name": "shinkeonkim/my-resume",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 50,
+        "additions": 9458,
+        "deletions": 4440,
+        "authors": [
+          "shinkeonkim",
+          "kokoa"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 87818,
+          "percentage": 0
+        },
+        "Vue": {
+          "bytes": 32386,
+          "percentage": 0
+        },
+        "HTML": {
+          "bytes": 3562,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 2525,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/nextjs-blog-example",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 3,
+        "additions": 6983,
+        "deletions": 229,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 4500,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 596,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/notion-blog",
+      "owner": "shinkeonkim",
+      "description": "노션페이지를 이용한 Github 블로그",
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 31,
+        "additions": 4357,
+        "deletions": 330,
+        "authors": [
+          "kokoa",
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "TypeScript": {
+          "bytes": 10778,
+          "percentage": 0
+        },
+        "JavaScript": {
+          "bytes": 506,
+          "percentage": 0
+        },
+        "CSS": {
+          "bytes": 69,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/notion-bs-badge",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "HTML",
+      "user_commits": {
+        "commits": 2,
+        "additions": 135,
+        "deletions": 1,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "HTML": {
+          "bytes": 3161,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/oh-my-interview-helper",
+      "owner": "shinkeonkim",
+      "description": "로컬 AI 에이전트를 통해 이력서/채용공고/기업 분석, 이력서 피드백, 면접 준비를 제공합니다.",
+      "language": "TypeScript",
+      "user_commits": {
+        "commits": 16,
+        "additions": 802,
+        "deletions": 89,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {}
+    },
+    {
+      "name": "shinkeonkim/xaskify",
+      "owner": "shinkeonkim",
+      "description": "Maskify HTML DOM element (or page)",
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 7,
+        "additions": 40055,
+        "deletions": 39176,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 638,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "name": "shinkeonkim/youtube-comment-viewer",
+      "owner": "shinkeonkim",
+      "description": null,
+      "language": "JavaScript",
+      "user_commits": {
+        "commits": 1,
+        "additions": 15589,
+        "deletions": 0,
+        "authors": [
+          "shinkeonkim"
+        ]
+      },
+      "languages": {
+        "JavaScript": {
+          "bytes": 10029,
+          "percentage": 0
+        },
+        "Vue": {
+          "bytes": 1116,
+          "percentage": 0
+        },
+        "EJS": {
+          "bytes": 311,
+          "percentage": 0
+        }
+      }
+    }
+  ],
+  "commit_timeline": {},
+  "generated_at": "2026-09-01T02:34:34+0000"
+}

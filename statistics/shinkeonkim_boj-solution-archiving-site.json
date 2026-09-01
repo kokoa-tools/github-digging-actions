@@ -1,0 +1,167 @@
+{
+  "repository": "shinkeonkim/boj-solution-archiving-site",
+  "owner": "shinkeonkim",
+  "name": "boj-solution-archiving-site",
+  "description": null,
+  "language": "Python",
+  "created_at": "2026-01-19 01:06:11 UTC",
+  "updated_at": "2026-08-28 10:13:20 UTC",
+  "size": 2460,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:19+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 5,
+      "additions": 198,
+      "deletions": 69,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "YAML": {
+          "additions": 198,
+          "deletions": 69,
+          "commits": 15
+        }
+      }
+    },
+    "project-lens": {
+      "commits": 5,
+      "additions": 34,
+      "deletions": 9,
+      "email": "project-lens@localhost",
+      "languages": {
+        "YAML": {
+          "additions": 34,
+          "deletions": 9,
+          "commits": 5
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 15,
+      "additions": 205050,
+      "deletions": 611,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "YAML": {
+          "additions": 237,
+          "deletions": 62,
+          "commits": 15
+        },
+        "C++": {
+          "additions": 10022,
+          "deletions": 0,
+          "commits": 180
+        },
+        "Python": {
+          "additions": 4755,
+          "deletions": 7,
+          "commits": 146
+        },
+        "TOML": {
+          "additions": 19,
+          "deletions": 0,
+          "commits": 2
+        },
+        "HTML": {
+          "additions": 1085,
+          "deletions": 523,
+          "commits": 15
+        },
+        "Dockerfile": {
+          "additions": 23,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Shell": {
+          "additions": 37,
+          "deletions": 17,
+          "commits": 2
+        },
+        "Markdown": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "CSS": {
+          "additions": 148,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Rust": {
+          "additions": 13,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Ruby": {
+          "additions": 30,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Text": {
+          "additions": 163,
+          "deletions": 0,
+          "commits": 16
+        },
+        "Java": {
+          "additions": 45,
+          "deletions": 0,
+          "commits": 2
+        },
+        "C": {
+          "additions": 6,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 2437924,
+      "percentage": 0
+    },
+    "C++": {
+      "bytes": 1540846,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 21700,
+      "percentage": 0
+    },
+    "Java": {
+      "bytes": 20465,
+      "percentage": 0
+    },
+    "Go": {
+      "bytes": 16644,
+      "percentage": 0
+    },
+    "Ruby": {
+      "bytes": 9890,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 2889,
+      "percentage": 0
+    },
+    "Dockerfile": {
+      "bytes": 541,
+      "percentage": 0
+    },
+    "Shell": {
+      "bytes": 519,
+      "percentage": 0
+    },
+    "C": {
+      "bytes": 426,
+      "percentage": 0
+    },
+    "Rust": {
+      "bytes": 289,
+      "percentage": 0
+    }
+  }
+}

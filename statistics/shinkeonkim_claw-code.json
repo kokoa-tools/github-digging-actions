@@ -1,0 +1,125 @@
+{
+  "repository": "shinkeonkim/claw-code",
+  "owner": "shinkeonkim",
+  "name": "claw-code",
+  "description": "The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools that make real things done. Now writing in Rust using oh-my-codex.",
+  "language": null,
+  "created_at": "2026-04-01 10:44:02 UTC",
+  "updated_at": "2026-04-02 01:01:06 UTC",
+  "size": 5860,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:40+0000",
+  "commit_statistics": {
+    "YeonGyu-Kim": {
+      "commits": 8,
+      "additions": 13753,
+      "deletions": 6308,
+      "email": "code.yeon.gyu@gmail.com",
+      "languages": {
+        "Rust": {
+          "additions": 13653,
+          "deletions": 6270,
+          "commits": 80
+        },
+        "TOML": {
+          "additions": 41,
+          "deletions": 7,
+          "commits": 15
+        },
+        "Markdown": {
+          "additions": 31,
+          "deletions": 31,
+          "commits": 2
+        },
+        "JSON": {
+          "additions": 20,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Shell": {
+          "additions": 8,
+          "deletions": 0,
+          "commits": 4
+        }
+      }
+    },
+    "Yeachan-Heo": {
+      "commits": 168,
+      "additions": 68290,
+      "deletions": 15549,
+      "email": "hurrc04@gmail.com",
+      "languages": {
+        "Rust": {
+          "additions": 62302,
+          "deletions": 12961,
+          "commits": 474
+        },
+        "TOML": {
+          "additions": 4710,
+          "deletions": 2307,
+          "commits": 58
+        },
+        "JSON": {
+          "additions": 105,
+          "deletions": 13,
+          "commits": 46
+        },
+        "Shell": {
+          "additions": 8,
+          "deletions": 0,
+          "commits": 4
+        },
+        "Markdown": {
+          "additions": 1154,
+          "deletions": 267,
+          "commits": 22
+        }
+      }
+    },
+    "instructkr": {
+      "commits": 2,
+      "additions": 5191,
+      "deletions": 111,
+      "email": "no-contact@instruct.kr",
+      "languages": {
+        "YAML": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 282,
+          "deletions": 95,
+          "commits": 4
+        },
+        "Python": {
+          "additions": 2402,
+          "deletions": 16,
+          "commits": 78
+        },
+        "JSON": {
+          "additions": 2504,
+          "deletions": 0,
+          "commits": 32
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Rust": {
+      "bytes": 1028885,
+      "percentage": 0
+    },
+    "Python": {
+      "bytes": 88705,
+      "percentage": 0
+    },
+    "Shell": {
+      "bytes": 190,
+      "percentage": 0
+    }
+  }
+}

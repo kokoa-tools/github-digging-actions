@@ -1,0 +1,31 @@
+{
+  "repository": "shinkeonkim/books",
+  "owner": "shinkeonkim",
+  "name": "books",
+  "description": "내가 읽었고, 읽고 있고 읽고 싶은 책들",
+  "language": null,
+  "created_at": "2020-03-29 06:56:20 UTC",
+  "updated_at": "2021-02-19 09:46:36 UTC",
+  "size": 425,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:29+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 5,
+      "additions": 61,
+      "deletions": 4,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 61,
+          "deletions": 4,
+          "commits": 5
+        }
+      }
+    }
+  },
+  "language_statistics": {}
+}

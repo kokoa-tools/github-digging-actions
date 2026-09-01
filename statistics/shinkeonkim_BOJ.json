@@ -1,0 +1,96 @@
+{
+  "repository": "shinkeonkim/BOJ",
+  "owner": "shinkeonkim",
+  "name": "BOJ",
+  "description": "다시 시작하는 백준 온라인 저지 풀이",
+  "language": "Python",
+  "created_at": "2022-06-09 12:40:28 UTC",
+  "updated_at": "2026-01-14 09:26:32 UTC",
+  "size": 762,
+  "stargazers_count": 2,
+  "watchers_count": 2,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:28:47+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 102,
+      "additions": 89182,
+      "deletions": 701,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Python": {
+          "additions": 63137,
+          "deletions": 302,
+          "commits": 1100
+        },
+        "TOML": {
+          "additions": 21,
+          "deletions": 12,
+          "commits": 3
+        },
+        "Text": {
+          "additions": 222,
+          "deletions": 48,
+          "commits": 17
+        },
+        "Go": {
+          "additions": 537,
+          "deletions": 0,
+          "commits": 9
+        },
+        "C++": {
+          "additions": 24405,
+          "deletions": 91,
+          "commits": 214
+        },
+        "Ruby": {
+          "additions": 290,
+          "deletions": 0,
+          "commits": 13
+        },
+        "Markdown": {
+          "additions": 21,
+          "deletions": 1,
+          "commits": 2
+        },
+        "YAML": {
+          "additions": 19,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 1292187,
+      "percentage": 0
+    },
+    "C++": {
+      "bytes": 475708,
+      "percentage": 0
+    },
+    "Go": {
+      "bytes": 7541,
+      "percentage": 0
+    },
+    "Ruby": {
+      "bytes": 5486,
+      "percentage": 0
+    }
+  }
+}

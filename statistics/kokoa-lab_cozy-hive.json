@@ -1,0 +1,132 @@
+{
+  "repository": "kokoa-lab/cozy-hive",
+  "owner": "kokoa-lab",
+  "name": "cozy-hive",
+  "description": "나의 작은 양봉장 - 방치형 양봉 시뮬레이션 게임",
+  "language": "TypeScript",
+  "created_at": "2026-03-09 08:53:37 UTC",
+  "updated_at": "2026-08-28 07:56:10 UTC",
+  "size": 517,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:44+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 4,
+      "additions": 47,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Text": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 33,
+          "deletions": 0,
+          "commits": 1
+        },
+        "HTML": {
+          "additions": 13,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 4,
+      "additions": 9356,
+      "deletions": 1,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Text": {
+          "additions": 15,
+          "deletions": 0,
+          "commits": 2
+        },
+        "HTML": {
+          "additions": 32,
+          "deletions": 0,
+          "commits": 2
+        },
+        "TOML": {
+          "additions": 7,
+          "deletions": 1,
+          "commits": 2
+        },
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JSON": {
+          "additions": 190,
+          "deletions": 0,
+          "commits": 5
+        },
+        "JavaScript": {
+          "additions": 32,
+          "deletions": 0,
+          "commits": 2
+        },
+        "CSS": {
+          "additions": 226,
+          "deletions": 0,
+          "commits": 2
+        },
+        "TypeScript": {
+          "additions": 7684,
+          "deletions": 0,
+          "commits": 80
+        }
+      }
+    },
+    "project-lens": {
+      "commits": 1,
+      "additions": 33,
+      "deletions": 0,
+      "email": "project-lens@localhost",
+      "languages": {
+        "Markdown": {
+          "additions": 33,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "cloudflare-workers-and-pages[bot]": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 1,
+      "email": "73139402+cloudflare-workers-and-pages[bot]@users.noreply.github.com",
+      "languages": {
+        "TOML": {
+          "additions": 1,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "TypeScript": {
+      "bytes": 305851,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 5315,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 1431,
+      "percentage": 0
+    },
+    "JavaScript": {
+      "bytes": 846,
+      "percentage": 0
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "repository": "kokoa-lab/3d-model-example",
+  "owner": "kokoa-lab",
+  "name": "3d-model-example",
+  "description": "3D model GLTF loader example (react-three + typescript)",
+  "language": "TypeScript",
+  "created_at": "2022-06-17 12:01:07 UTC",
+  "updated_at": "2026-02-04 16:15:24 UTC",
+  "size": 6292,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:28:45+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 1,
+      "additions": 2,
+      "deletions": 2,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Markdown": {
+          "additions": 2,
+          "deletions": 2,
+          "commits": 1
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 7,
+      "additions": 10141,
+      "deletions": 118,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "JSON": {
+          "additions": 116,
+          "deletions": 13,
+          "commits": 6
+        },
+        "Markdown": {
+          "additions": 54,
+          "deletions": 39,
+          "commits": 3
+        },
+        "YAML": {
+          "additions": 35,
+          "deletions": 1,
+          "commits": 2
+        },
+        "HTML": {
+          "additions": 44,
+          "deletions": 1,
+          "commits": 2
+        },
+        "TypeScript": {
+          "additions": 100,
+          "deletions": 23,
+          "commits": 9
+        },
+        "Text": {
+          "additions": 14,
+          "deletions": 0,
+          "commits": 2
+        },
+        "CSS": {
+          "additions": 53,
+          "deletions": 26,
+          "commits": 3
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "TypeScript": {
+      "bytes": 2155,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 1728,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 587,
+      "percentage": 0
+    }
+  }
+}

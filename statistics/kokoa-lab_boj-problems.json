@@ -1,0 +1,71 @@
+{
+  "repository": "kokoa-lab/boj-problems",
+  "owner": "kokoa-lab",
+  "name": "boj-problems",
+  "description": null,
+  "language": "HTML",
+  "created_at": "2026-04-17 08:16:11 UTC",
+  "updated_at": "2026-04-18 11:12:19 UTC",
+  "size": 790256,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:28:50+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 6,
+      "additions": 8057770,
+      "deletions": 449168,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Markdown": {
+          "additions": 3212,
+          "deletions": 1966,
+          "commits": 338
+        },
+        "Text": {
+          "additions": 788,
+          "deletions": 0,
+          "commits": 254
+        },
+        "Python": {
+          "additions": 657,
+          "deletions": 0,
+          "commits": 1
+        },
+        "TOML": {
+          "additions": 11,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "HTML": {
+      "bytes": 1348757,
+      "percentage": 0
+    },
+    "C": {
+      "bytes": 742607,
+      "percentage": 0
+    },
+    "Stata": {
+      "bytes": 459266,
+      "percentage": 0
+    },
+    "Hack": {
+      "bytes": 227911,
+      "percentage": 0
+    },
+    "Python": {
+      "bytes": 33307,
+      "percentage": 0
+    },
+    "C++": {
+      "bytes": 31663,
+      "percentage": 0
+    }
+  }
+}

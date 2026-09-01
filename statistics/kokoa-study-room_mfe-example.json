@@ -1,0 +1,68 @@
+{
+  "repository": "kokoa-study-room/mfe-example",
+  "owner": "kokoa-study-room",
+  "name": "mfe-example",
+  "description": "https://www.udemy.com/course/microfrontend-course/ practice code",
+  "language": "JavaScript",
+  "created_at": "2022-06-08 14:00:33 UTC",
+  "updated_at": "2025-09-17 12:48:53 UTC",
+  "size": 183,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:15+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 3,
+      "additions": 56734,
+      "deletions": 7,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "JavaScript": {
+          "additions": 648,
+          "deletions": 5,
+          "commits": 17
+        },
+        "JSON": {
+          "additions": 55874,
+          "deletions": 2,
+          "commits": 10
+        },
+        "Markdown": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "HTML": {
+          "additions": 24,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "JavaScript": {
+      "bytes": 16416,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 560,
+      "percentage": 0
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "repository": "kmu-shinkeonkim/Momentum-SGD",
+  "owner": "kmu-shinkeonkim",
+  "name": "Momentum-SGD",
+  "description": "KMU Numerical-Analysis Report",
+  "language": "Python",
+  "created_at": "2020-06-06 06:22:53 UTC",
+  "updated_at": "2025-06-29 09:56:05 UTC",
+  "size": 1485,
+  "stargazers_count": 1,
+  "watchers_count": 1,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:22+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 18,
+      "additions": 1927,
+      "deletions": 427,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 927,
+          "deletions": 158,
+          "commits": 12
+        },
+        "Python": {
+          "additions": 834,
+          "deletions": 269,
+          "commits": 27
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 16202,
+      "percentage": 0
+    }
+  }
+}

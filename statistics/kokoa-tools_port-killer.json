@@ -1,0 +1,50 @@
+{
+  "repository": "kokoa-tools/port-killer",
+  "owner": "kokoa-tools",
+  "name": "port-killer",
+  "description": "특정 TCP 포트를 사용하고 있는 프로세스 또는 도커 컨테이너를 죽이는 sh | why? -> AI tool이 백그라운드로 포트를 사용하고 있다.",
+  "language": "Shell",
+  "created_at": "2025-09-18 10:31:28 UTC",
+  "updated_at": "2025-09-18 10:37:23 UTC",
+  "size": 2,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:08+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 220,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Makefile": {
+          "additions": 33,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 59,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Shell": {
+          "additions": 128,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Shell": {
+      "bytes": 3590,
+      "percentage": 0
+    },
+    "Makefile": {
+      "bytes": 915,
+      "percentage": 0
+    }
+  }
+}

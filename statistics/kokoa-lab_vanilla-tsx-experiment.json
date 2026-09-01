@@ -1,0 +1,77 @@
+{
+  "repository": "kokoa-lab/vanilla-tsx-experiment",
+  "owner": "kokoa-lab",
+  "name": "vanilla-tsx-experiment",
+  "description": null,
+  "language": "JavaScript",
+  "created_at": "2025-09-24 17:03:49 UTC",
+  "updated_at": "2025-09-25 17:28:36 UTC",
+  "size": 5,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:51+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 3,
+      "additions": 299,
+      "deletions": 4,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 12,
+          "deletions": 0,
+          "commits": 1
+        },
+        "TypeScript": {
+          "additions": 78,
+          "deletions": 1,
+          "commits": 4
+        },
+        "JSON": {
+          "additions": 76,
+          "deletions": 3,
+          "commits": 5
+        },
+        "JavaScript": {
+          "additions": 119,
+          "deletions": 0,
+          "commits": 2
+        },
+        "HTML": {
+          "additions": 11,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 1,
+      "additions": 12,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 12,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "JavaScript": {
+      "bytes": 3184,
+      "percentage": 0
+    },
+    "TypeScript": {
+      "bytes": 2124,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 256,
+      "percentage": 0
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "repository": "shinkeonkim/boardai",
+  "owner": "shinkeonkim",
+  "name": "boardai",
+  "description": "보드게임을 같이 해주는 AI (Vision / AI 기반 / 멀티 플레이어 / 다양한 게임 지원)",
+  "language": null,
+  "created_at": "2026-07-20 07:31:55 UTC",
+  "updated_at": "2026-07-20 07:42:20 UTC",
+  "size": 638,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 8,
+  "analyzed_at": "2026-09-01T02:28:46+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 1,
+      "additions": 3,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 3,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {}
+}

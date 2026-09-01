@@ -1,0 +1,46 @@
+{
+  "repository": "kmu-shinkeonkim/smart-network-service-practice",
+  "owner": "kmu-shinkeonkim",
+  "name": "smart-network-service-practice",
+  "description": null,
+  "language": "Python",
+  "created_at": "2025-09-19 06:52:01 UTC",
+  "updated_at": "2025-09-19 08:27:58 UTC",
+  "size": 1,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:32:36+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 63,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 27,
+          "deletions": 0,
+          "commits": 1
+        },
+        "TOML": {
+          "additions": 9,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 714,
+      "percentage": 0
+    }
+  }
+}

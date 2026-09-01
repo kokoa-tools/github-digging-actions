@@ -1,0 +1,65 @@
+{
+  "repository": "kokoa-lab/fastapi-sql-injection-experment",
+  "owner": "kokoa-lab",
+  "name": "fastapi-sql-injection-experment",
+  "description": "FastAPI SQL Injection 실험 프로젝트",
+  "language": "Python",
+  "created_at": "2025-09-18 09:25:30 UTC",
+  "updated_at": "2025-09-18 09:40:48 UTC",
+  "size": 16,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:05+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 937,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Dockerfile": {
+          "additions": 40,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 81,
+          "deletions": 0,
+          "commits": 1
+        },
+        "YAML": {
+          "additions": 40,
+          "deletions": 0,
+          "commits": 1
+        },
+        "SQL": {
+          "additions": 35,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 193,
+          "deletions": 0,
+          "commits": 1
+        },
+        "TOML": {
+          "additions": 11,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 7270,
+      "percentage": 0
+    },
+    "Dockerfile": {
+      "bytes": 838,
+      "percentage": 0
+    }
+  }
+}

@@ -1,0 +1,2666 @@
+{
+  "repository": "shinkeonkim/ACM-ICPC-Algorithms",
+  "owner": "shinkeonkim",
+  "name": "ACM-ICPC-Algorithms",
+  "description": "Algorithms used in Competitive Programming",
+  "language": null,
+  "created_at": "2021-05-17 16:26:26 UTC",
+  "updated_at": "2021-05-17 16:26:28 UTC",
+  "size": 2460,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:23+0000",
+  "commit_statistics": {
+    "Matthew Samuel": {
+      "commits": 233,
+      "additions": 17977,
+      "deletions": 1187,
+      "email": "msamuel3@mail.csuchico.edu",
+      "languages": {
+        "Markdown": {
+          "additions": 476,
+          "deletions": 51,
+          "commits": 58
+        },
+        "C++": {
+          "additions": 7273,
+          "deletions": 4,
+          "commits": 106
+        },
+        "Java": {
+          "additions": 3269,
+          "deletions": 260,
+          "commits": 52
+        },
+        "JavaScript": {
+          "additions": 458,
+          "deletions": 2,
+          "commits": 13
+        },
+        "C#": {
+          "additions": 1025,
+          "deletions": 0,
+          "commits": 14
+        },
+        "Kotlin": {
+          "additions": 108,
+          "deletions": 0,
+          "commits": 4
+        },
+        "Python": {
+          "additions": 2527,
+          "deletions": 830,
+          "commits": 94
+        },
+        "Go": {
+          "additions": 230,
+          "deletions": 0,
+          "commits": 7
+        },
+        "C": {
+          "additions": 1817,
+          "deletions": 32,
+          "commits": 25
+        },
+        "PHP": {
+          "additions": 44,
+          "deletions": 8,
+          "commits": 2
+        },
+        "Erlang": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "Scala": {
+          "additions": 34,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Lua": {
+          "additions": 23,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Perl": {
+          "additions": 10,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Ruby": {
+          "additions": 155,
+          "deletions": 0,
+          "commits": 5
+        },
+        "Swift": {
+          "additions": 61,
+          "deletions": 0,
+          "commits": 2
+        },
+        "INI": {
+          "additions": 4,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Haskell": {
+          "additions": 16,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Petar Petkovic": {
+      "commits": 2,
+      "additions": 5,
+      "deletions": 4,
+      "email": "petkpera@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 5,
+          "deletions": 4,
+          "commits": 2
+        }
+      }
+    },
+    "Moad Mohammed Elhebri": {
+      "commits": 1,
+      "additions": 188,
+      "deletions": 0,
+      "email": "37096896+moadmmh@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 188,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "shiv anand": {
+      "commits": 2,
+      "additions": 64,
+      "deletions": 0,
+      "email": "shivakp2111@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 64,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "Julia Lin": {
+      "commits": 3,
+      "additions": 73,
+      "deletions": 2,
+      "email": "linjulia@usc.edu",
+      "languages": {
+        "Markdown": {
+          "additions": 2,
+          "deletions": 2,
+          "commits": 1
+        },
+        "C++": {
+          "additions": 71,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "OOP": {
+      "commits": 3,
+      "additions": 24,
+      "deletions": 5,
+      "email": "opkampitak@hotmail.com",
+      "languages": {
+        "C++": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "Python": {
+          "additions": 10,
+          "deletions": 5,
+          "commits": 1
+        }
+      }
+    },
+    "Turlybayeva Zhanel": {
+      "commits": 2,
+      "additions": 61,
+      "deletions": 0,
+      "email": "derzach.com@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 61,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "jrt1899": {
+      "commits": 1,
+      "additions": 112,
+      "deletions": 0,
+      "email": "jaytandel1899@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 112,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "Pradhuman Singh parihar": {
+      "commits": 2,
+      "additions": 134,
+      "deletions": 0,
+      "email": "pradhumansingh131@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 134,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "sudiptokar007": {
+      "commits": 1,
+      "additions": 38,
+      "deletions": 0,
+      "email": "sudiptokar5@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 38,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "zesani": {
+      "commits": 1,
+      "additions": 18,
+      "deletions": 0,
+      "email": "7sin@outlook.co.th",
+      "languages": {
+        "Go": {
+          "additions": 18,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "arorayash": {
+      "commits": 4,
+      "additions": 164,
+      "deletions": 0,
+      "email": "arorayash.thisisus@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "Java": {
+          "additions": 164,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "Priyanshu Sinha": {
+      "commits": 2,
+      "additions": 115,
+      "deletions": 0,
+      "email": "priyanshusinha100@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 85,
+          "deletions": 0,
+          "commits": 1
+        },
+        "C": {
+          "additions": 30,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "thakurutkarsh22": {
+      "commits": 1,
+      "additions": 65,
+      "deletions": 0,
+      "email": "thakurutkarsh22@gmail.com",
+      "languages": {
+        "Java": {
+          "additions": 65,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "thtiiz": {
+      "commits": 1,
+      "additions": 33,
+      "deletions": 0,
+      "email": "napon-na123@hotmail.com",
+      "languages": {
+        "C": {
+          "additions": 33,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Rini-Tikki": {
+      "commits": 1,
+      "additions": 155,
+      "deletions": 0,
+      "email": "tikaryarini@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 155,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "JayRaj Makhar": {
+      "commits": 3,
+      "additions": 127,
+      "deletions": 0,
+      "email": "jayraj.mka@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 101,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Python": {
+          "additions": 26,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "cricketer94": {
+      "commits": 1,
+      "additions": 88,
+      "deletions": 0,
+      "email": "e0011768@u.nus.edu",
+      "languages": {
+        "Python": {
+          "additions": 88,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Jonas Gutenschwager": {
+      "commits": 2,
+      "additions": 34,
+      "deletions": 0,
+      "email": "spam.saikai@googlemail.com",
+      "languages": {
+        "Kotlin": {
+          "additions": 34,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "Mcbook": {
+      "commits": 2,
+      "additions": 87,
+      "deletions": 0,
+      "email": "insuredmine2017@gmai.com",
+      "languages": {
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "C++": {
+          "additions": 86,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Prakash Jha": {
+      "commits": 1,
+      "additions": 111,
+      "deletions": 0,
+      "email": "only2prakash@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 111,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Habib Bahruddin": {
+      "commits": 1,
+      "additions": 14,
+      "deletions": 0,
+      "email": "habibbahruddin1337@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 14,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "forgotter": {
+      "commits": 1,
+      "additions": 28,
+      "deletions": 0,
+      "email": "only2prakash@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 28,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "gauravnuti": {
+      "commits": 1,
+      "additions": 86,
+      "deletions": 0,
+      "email": "30462508+gauravnuti@users.noreply.github.com",
+      "languages": {
+        "C#": {
+          "additions": 86,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Gunawardanaanupa": {
+      "commits": 2,
+      "additions": 151,
+      "deletions": 0,
+      "email": "gunawardanaanupa@gmail.com",
+      "languages": {
+        "Java": {
+          "additions": 151,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "ridwanfathin": {
+      "commits": 1,
+      "additions": 15,
+      "deletions": 0,
+      "email": "m.ridwanfathin@gmail.com",
+      "languages": {
+        "Go": {
+          "additions": 15,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Arpan Tarkas": {
+      "commits": 1,
+      "additions": 2,
+      "deletions": 0,
+      "email": "arpantarkas@ymail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 2,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "arpantarkas": {
+      "commits": 5,
+      "additions": 228,
+      "deletions": 0,
+      "email": "arpantarkas@ymail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 5,
+          "deletions": 0,
+          "commits": 1
+        },
+        "C++": {
+          "additions": 88,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 135,
+          "deletions": 0,
+          "commits": 4
+        }
+      }
+    },
+    "SHAKTI SINGH": {
+      "commits": 2,
+      "additions": 45,
+      "deletions": 0,
+      "email": "mohittanwar2323@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 5,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 40,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "The Only Devil": {
+      "commits": 2,
+      "additions": 203,
+      "deletions": 0,
+      "email": "33813268+pranav7955@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 203,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "Es7evam": {
+      "commits": 2,
+      "additions": 150,
+      "deletions": 0,
+      "email": "estevam.arantes@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 150,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "abdelrhman akram": {
+      "commits": 3,
+      "additions": 186,
+      "deletions": 0,
+      "email": "abdelrhmanakram16@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 186,
+          "deletions": 0,
+          "commits": 3
+        }
+      }
+    },
+    "ashuray": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 1,
+      "email": "akray215@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "Markdown": {
+          "additions": 1,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    },
+    "Abdelrahman Mounir": {
+      "commits": 4,
+      "additions": 419,
+      "deletions": 0,
+      "email": "a.mounir.112@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 419,
+          "deletions": 0,
+          "commits": 4
+        }
+      }
+    },
+    "Akul Santhosh": {
+      "commits": 1,
+      "additions": 31,
+      "deletions": 0,
+      "email": "akul753@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 31,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "vmmc2": {
+      "commits": 4,
+      "additions": 212,
+      "deletions": 0,
+      "email": "39977631+vmmc2@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 85,
+          "deletions": 0,
+          "commits": 3
+        },
+        "C": {
+          "additions": 127,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "2alin": {
+      "commits": 2,
+      "additions": 51,
+      "deletions": 0,
+      "email": "adilsonsdev@gmail.com",
+      "languages": {
+        "JavaScript": {
+          "additions": 31,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 20,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Abhishekabk96": {
+      "commits": 1,
+      "additions": 54,
+      "deletions": 0,
+      "email": "37102170+Abhishekabk96@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 54,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Amulya Gaur": {
+      "commits": 6,
+      "additions": 393,
+      "deletions": 0,
+      "email": "amulyagaur111@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 389,
+          "deletions": 0,
+          "commits": 5
+        },
+        "Markdown": {
+          "additions": 4,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Kundan": {
+      "commits": 1,
+      "additions": 68,
+      "deletions": 0,
+      "email": "kundank191@gmail.com",
+      "languages": {
+        "Kotlin": {
+          "additions": 68,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Narmin Huseynli": {
+      "commits": 2,
+      "additions": 123,
+      "deletions": 0,
+      "email": "narmin4694@gmail.com",
+      "languages": {
+        "JavaScript": {
+          "additions": 57,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Java": {
+          "additions": 66,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Jorge Baptista": {
+      "commits": 1,
+      "additions": 46,
+      "deletions": 0,
+      "email": "jorge-baptista@outlook.com",
+      "languages": {
+        "C#": {
+          "additions": 46,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "hasan356": {
+      "commits": 1,
+      "additions": 73,
+      "deletions": 0,
+      "email": "hasan.150295@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 8,
+          "deletions": 0,
+          "commits": 1
+        },
+        "C++": {
+          "additions": 65,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Hiago Fernandes": {
+      "commits": 1,
+      "additions": 37,
+      "deletions": 0,
+      "email": "hiago.sousa@ccc.ufcg.edu.br",
+      "languages": {
+        "C++": {
+          "additions": 37,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "batchunag": {
+      "commits": 7,
+      "additions": 1524,
+      "deletions": 33,
+      "email": "gtokyo2010@gmail.com",
+      "languages": {
+        "Java": {
+          "additions": 660,
+          "deletions": 0,
+          "commits": 8
+        },
+        "C": {
+          "additions": 359,
+          "deletions": 31,
+          "commits": 3
+        },
+        "C++": {
+          "additions": 357,
+          "deletions": 0,
+          "commits": 7
+        },
+        "Python": {
+          "additions": 112,
+          "deletions": 0,
+          "commits": 5
+        },
+        "Markdown": {
+          "additions": 34,
+          "deletions": 0,
+          "commits": 2
+        },
+        "JavaScript": {
+          "additions": 2,
+          "deletions": 2,
+          "commits": 1
+        }
+      }
+    },
+    "vikesh8860": {
+      "commits": 3,
+      "additions": 333,
+      "deletions": 0,
+      "email": "kvikesh800@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 333,
+          "deletions": 0,
+          "commits": 3
+        }
+      }
+    },
+    "Alok Kumar": {
+      "commits": 2,
+      "additions": 114,
+      "deletions": 0,
+      "email": "alokrkmv12@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 114,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "krit26": {
+      "commits": 1,
+      "additions": 34,
+      "deletions": 0,
+      "email": "35265057+krit26@users.noreply.github.com",
+      "languages": {
+        "Java": {
+          "additions": 34,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "harshilmotiyani": {
+      "commits": 1,
+      "additions": 15,
+      "deletions": 0,
+      "email": "35265035+harshilmotiyani@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 15,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Yash Deshpande": {
+      "commits": 2,
+      "additions": 100,
+      "deletions": 0,
+      "email": "yvd.yash@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 100,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "Jay Patel": {
+      "commits": 1,
+      "additions": 92,
+      "deletions": 0,
+      "email": "34452543+13bitcode@users.noreply.github.com",
+      "languages": {
+        "Java": {
+          "additions": 92,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "kush1106": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 1,
+      "email": "44519527+kush1106@users.noreply.github.com",
+      "languages": {
+        "Markdown": {
+          "additions": 1,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    },
+    "mmani9199": {
+      "commits": 1,
+      "additions": 20,
+      "deletions": 0,
+      "email": "manikantkumar771@gmail.com",
+      "languages": {
+        "C": {
+          "additions": 20,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Mohamed Kamal El-Shazly": {
+      "commits": 1,
+      "additions": 66,
+      "deletions": 0,
+      "email": "shazly0120100@gmail.com",
+      "languages": {
+        "C#": {
+          "additions": 66,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "[ravitej]": {
+      "commits": 1,
+      "additions": 62,
+      "deletions": 0,
+      "email": "[ravit2839@gmail.com]",
+      "languages": {
+        "Markdown": {
+          "additions": 18,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Java": {
+          "additions": 44,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Paola Guarasci": {
+      "commits": 1,
+      "additions": 69,
+      "deletions": 0,
+      "email": "paolaguarasci@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 69,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "JOSE THOMAS": {
+      "commits": 1,
+      "additions": 113,
+      "deletions": 0,
+      "email": "34163586+josethomas98@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 113,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "akiii1997": {
+      "commits": 1,
+      "additions": 83,
+      "deletions": 0,
+      "email": "akilalasan@gmail.com",
+      "languages": {
+        "C": {
+          "additions": 83,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Riei-Joaquim": {
+      "commits": 1,
+      "additions": 92,
+      "deletions": 0,
+      "email": "39650571+Riei-Joaquim@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 92,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "some1specialnew": {
+      "commits": 1,
+      "additions": 85,
+      "deletions": 0,
+      "email": "44509971+some1specialnew@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 85,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "rubiotorres": {
+      "commits": 1,
+      "additions": 66,
+      "deletions": 0,
+      "email": "rubiotorres15@gmail.com",
+      "languages": {
+        "Java": {
+          "additions": 66,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "rajeev": {
+      "commits": 1,
+      "additions": 73,
+      "deletions": 0,
+      "email": "talegarry1202@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 7,
+          "deletions": 0,
+          "commits": 2
+        },
+        "C++": {
+          "additions": 66,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "UmmeAmmaraa": {
+      "commits": 1,
+      "additions": 37,
+      "deletions": 0,
+      "email": "ammara.pucit@gmail.com",
+      "languages": {
+        "PHP": {
+          "additions": 37,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Charliiee": {
+      "commits": 5,
+      "additions": 43,
+      "deletions": 3,
+      "email": "Charliiee@users.noreply.github.com",
+      "languages": {
+        "Python": {
+          "additions": 43,
+          "deletions": 3,
+          "commits": 5
+        }
+      }
+    },
+    "abhineet1729": {
+      "commits": 1,
+      "additions": 135,
+      "deletions": 0,
+      "email": "35561909+abhineet1729@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 135,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Kalp Kumar Varshney": {
+      "commits": 1,
+      "additions": 145,
+      "deletions": 0,
+      "email": "kalpvars2@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 145,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Nirav116": {
+      "commits": 2,
+      "additions": 132,
+      "deletions": 0,
+      "email": "44491097+Nirav116@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 132,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "Anton Neuhold Jr": {
+      "commits": 3,
+      "additions": 94,
+      "deletions": 0,
+      "email": "agneuhold@gmail.com",
+      "languages": {
+        "C": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "Java": {
+          "additions": 83,
+          "deletions": 0,
+          "commits": 3
+        },
+        "Markdown": {
+          "additions": 11,
+          "deletions": 0,
+          "commits": 3
+        }
+      }
+    },
+    "Hrishikesh AJ": {
+      "commits": 1,
+      "additions": 12,
+      "deletions": 12,
+      "email": "35420728+cosine99@users.noreply.github.com",
+      "languages": {
+        "Markdown": {
+          "additions": 12,
+          "deletions": 12,
+          "commits": 1
+        }
+      }
+    },
+    "hirakJS": {
+      "commits": 4,
+      "additions": 107,
+      "deletions": 0,
+      "email": "h.sarma91@gmail.com",
+      "languages": {
+        "C": {
+          "additions": 29,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JavaScript": {
+          "additions": 44,
+          "deletions": 0,
+          "commits": 1
+        },
+        "C++": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "Erlang": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "Java": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "Python": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "Scala": {
+          "additions": 34,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Aisultan Kali": {
+      "commits": 1,
+      "additions": 90,
+      "deletions": 0,
+      "email": "aisultan.kali@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 90,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "118110808 HIGOR SANTOS DE BRITO DANTAS": {
+      "commits": 1,
+      "additions": 6,
+      "deletions": 0,
+      "email": "higor.dantas@ccc.ufcg.edu.br",
+      "languages": {
+        "Python": {
+          "additions": 6,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Sharath George M": {
+      "commits": 1,
+      "additions": 30,
+      "deletions": 0,
+      "email": "sharathgeorgem@gmail.com",
+      "languages": {
+        "JavaScript": {
+          "additions": 30,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Bhanu Teja Kodali": {
+      "commits": 4,
+      "additions": 159,
+      "deletions": 11,
+      "email": "bhanutejabt@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 59,
+          "deletions": 11,
+          "commits": 6
+        },
+        "C++": {
+          "additions": 100,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "beerinmind": {
+      "commits": 2,
+      "additions": 87,
+      "deletions": 0,
+      "email": "42740107+beerinmind@users.noreply.github.com",
+      "languages": {
+        "Python": {
+          "additions": 43,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JavaScript": {
+          "additions": 44,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Vineet Malik": {
+      "commits": 2,
+      "additions": 125,
+      "deletions": 0,
+      "email": "35306785+VineetMalik14@users.noreply.github.com",
+      "languages": {
+        "Markdown": {
+          "additions": 125,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "Kaustumbh": {
+      "commits": 2,
+      "additions": 112,
+      "deletions": 0,
+      "email": "kaustumbhjaiswal11@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 36,
+          "deletions": 0,
+          "commits": 1
+        },
+        "C": {
+          "additions": 76,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Maaruf Dauda": {
+      "commits": 3,
+      "additions": 107,
+      "deletions": 1,
+      "email": "mkdauda.work@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 80,
+          "deletions": 0,
+          "commits": 3
+        },
+        "C": {
+          "additions": 20,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Kotlin": {
+          "additions": 7,
+          "deletions": 1,
+          "commits": 2
+        }
+      }
+    },
+    "Shivamj075": {
+      "commits": 3,
+      "additions": 70,
+      "deletions": 0,
+      "email": "33578957+Shivamj075@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 70,
+          "deletions": 0,
+          "commits": 3
+        }
+      }
+    },
+    "rohitishu": {
+      "commits": 1,
+      "additions": 46,
+      "deletions": 0,
+      "email": "32030787+rohitishu@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 46,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Thilinpj": {
+      "commits": 1,
+      "additions": 20,
+      "deletions": 0,
+      "email": "36744794+Thilinpj@users.noreply.github.com",
+      "languages": {
+        "C": {
+          "additions": 20,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Alex": {
+      "commits": 3,
+      "additions": 43,
+      "deletions": 0,
+      "email": "alexbonteanu22@gmail.com",
+      "languages": {
+        "C": {
+          "additions": 43,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "trshant": {
+      "commits": 1,
+      "additions": 17,
+      "deletions": 0,
+      "email": "trshant@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 17,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "shreyansh08": {
+      "commits": 1,
+      "additions": 69,
+      "deletions": 0,
+      "email": "31694560+shreyansh08@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 69,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "tarun11Mavani": {
+      "commits": 1,
+      "additions": 249,
+      "deletions": 0,
+      "email": "35224468+tarun11Mavani@users.noreply.github.com",
+      "languages": {
+        "Java": {
+          "additions": 249,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Rahul Kumar Tiwari": {
+      "commits": 1,
+      "additions": 46,
+      "deletions": 0,
+      "email": "31995292+Rahul-Kumar-Tiwari@users.noreply.github.com",
+      "languages": {
+        "Python": {
+          "additions": 46,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Dhirendra Kumar Choudhary": {
+      "commits": 1,
+      "additions": 22,
+      "deletions": 0,
+      "email": "cyberdhirendra@gmail.com",
+      "languages": {
+        "Java": {
+          "additions": 22,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "leaen": {
+      "commits": 1,
+      "additions": 157,
+      "deletions": 0,
+      "email": "mossbanay@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 157,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Arihant Bansal": {
+      "commits": 1,
+      "additions": 19,
+      "deletions": 0,
+      "email": "arihant.bansal@gmail.com",
+      "languages": {
+        "Java": {
+          "additions": 19,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "JayRajM97": {
+      "commits": 1,
+      "additions": 127,
+      "deletions": 0,
+      "email": "jayraj.mka@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 65,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 62,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "PNC": {
+      "commits": 5,
+      "additions": 344,
+      "deletions": 0,
+      "email": "39710987+PedroNC18@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 293,
+          "deletions": 0,
+          "commits": 4
+        }
+      }
+    },
+    "milandungrani": {
+      "commits": 2,
+      "additions": 96,
+      "deletions": 0,
+      "email": "43933840+milandungrani@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 95,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "DEV\\lucas.picollo": {
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "email": "lucas.picollo@audaces.com",
+      "languages": {
+        "C++": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "C": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        }
+      }
+    },
+    "Lucas": {
+      "commits": 6,
+      "additions": 508,
+      "deletions": 254,
+      "email": "lucaspicolloo@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 390,
+          "deletions": 195,
+          "commits": 3
+        },
+        "C": {
+          "additions": 118,
+          "deletions": 59,
+          "commits": 3
+        }
+      }
+    },
+    "K Yasaswi Sri Chandra Gandhi": {
+      "commits": 8,
+      "additions": 443,
+      "deletions": 0,
+      "email": "35304641+G7-TheKing@users.noreply.github.com",
+      "languages": {
+        "Python": {
+          "additions": 135,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Java": {
+          "additions": 308,
+          "deletions": 0,
+          "commits": 6
+        }
+      }
+    },
+    "vietnamican": {
+      "commits": 1,
+      "additions": 48,
+      "deletions": 0,
+      "email": "vietnamican@gmail.com",
+      "languages": {
+        "JavaScript": {
+          "additions": 48,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "kokum007": {
+      "commits": 1,
+      "additions": 38,
+      "deletions": 0,
+      "email": "dakokum@gmail.com",
+      "languages": {
+        "C": {
+          "additions": 38,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Nurlan Zhussupov": {
+      "commits": 2,
+      "additions": 2,
+      "deletions": 3,
+      "email": "zh.nurlan96@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 2,
+          "deletions": 3,
+          "commits": 2
+        }
+      }
+    },
+    "NurlashKO": {
+      "commits": 2,
+      "additions": 82,
+      "deletions": 0,
+      "email": "zh.nurlan96@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 79,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 3,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Aditya Ravichandran": {
+      "commits": 1,
+      "additions": 24,
+      "deletions": 0,
+      "email": "adityaravichandran6@gmail.com",
+      "languages": {
+        "Java": {
+          "additions": 24,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Imas Neupane": {
+      "commits": 4,
+      "additions": 107,
+      "deletions": 3,
+      "email": "ine16@uclive.ac.nz",
+      "languages": {
+        "Markdown": {
+          "additions": 46,
+          "deletions": 3,
+          "commits": 4
+        },
+        "Python": {
+          "additions": 61,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Salim Hafid": {
+      "commits": 1,
+      "additions": 24,
+      "deletions": 26,
+      "email": "salim.hafid.01@gmail.com",
+      "languages": {
+        "Java": {
+          "additions": 24,
+          "deletions": 26,
+          "commits": 1
+        }
+      }
+    },
+    "Aureliano Yepez": {
+      "commits": 1,
+      "additions": 23,
+      "deletions": 0,
+      "email": "ayepez2020@berkeley.edu",
+      "languages": {
+        "C++": {
+          "additions": 23,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Jeevanshu Malhotra": {
+      "commits": 3,
+      "additions": 3,
+      "deletions": 39,
+      "email": "jeevanshumalhotra@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 3,
+          "deletions": 39,
+          "commits": 3
+        }
+      }
+    },
+    "jeevanshu": {
+      "commits": 2,
+      "additions": 164,
+      "deletions": 0,
+      "email": "jeevanshumalhotra@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 48,
+          "deletions": 0,
+          "commits": 3
+        },
+        "C++": {
+          "additions": 116,
+          "deletions": 0,
+          "commits": 3
+        }
+      }
+    },
+    "Hamza156": {
+      "commits": 1,
+      "additions": 42,
+      "deletions": 0,
+      "email": "hamzapics09@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 42,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Jhanvi": {
+      "commits": 1,
+      "additions": 100,
+      "deletions": 0,
+      "email": "jhanvichauhan2010@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 100,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Dhairya": {
+      "commits": 1,
+      "additions": 195,
+      "deletions": 0,
+      "email": "dhairyapatel72@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 195,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Antonella": {
+      "commits": 1,
+      "additions": 20,
+      "deletions": 0,
+      "email": "antonellalrc@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 20,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Space": {
+      "commits": 1,
+      "additions": 168,
+      "deletions": 0,
+      "email": "silent.acker@protonmail.com",
+      "languages": {
+        "C++": {
+          "additions": 86,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Java": {
+          "additions": 82,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "VIKESH": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 1,
+      "email": "kvikesh800@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 1,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    },
+    "Ananay Sharma": {
+      "commits": 2,
+      "additions": 96,
+      "deletions": 0,
+      "email": "prthsharma753@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 96,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "Anthony Paikai": {
+      "commits": 4,
+      "additions": 3916,
+      "deletions": 217,
+      "email": "paikai.anthony@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 350,
+          "deletions": 1,
+          "commits": 11
+        },
+        "C": {
+          "additions": 833,
+          "deletions": 32,
+          "commits": 9
+        },
+        "Java": {
+          "additions": 816,
+          "deletions": 153,
+          "commits": 13
+        },
+        "C++": {
+          "additions": 634,
+          "deletions": 1,
+          "commits": 12
+        },
+        "Markdown": {
+          "additions": 129,
+          "deletions": 28,
+          "commits": 21
+        },
+        "Go": {
+          "additions": 197,
+          "deletions": 0,
+          "commits": 5
+        },
+        "JavaScript": {
+          "additions": 175,
+          "deletions": 2,
+          "commits": 6
+        },
+        "Lua": {
+          "additions": 23,
+          "deletions": 0,
+          "commits": 1
+        },
+        "PHP": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "Perl": {
+          "additions": 10,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Ruby": {
+          "additions": 155,
+          "deletions": 0,
+          "commits": 5
+        },
+        "Swift": {
+          "additions": 61,
+          "deletions": 0,
+          "commits": 2
+        },
+        "INI": {
+          "additions": 4,
+          "deletions": 0,
+          "commits": 1
+        },
+        "C#": {
+          "additions": 117,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Haskell": {
+          "additions": 16,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Scala": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        }
+      }
+    },
+    "5ar5kovic": {
+      "commits": 4,
+      "additions": 2356,
+      "deletions": 792,
+      "email": "petar.petkovic@pmf.edu.rs",
+      "languages": {
+        "C++": {
+          "additions": 228,
+          "deletions": 123,
+          "commits": 8
+        },
+        "C": {
+          "additions": 262,
+          "deletions": 74,
+          "commits": 6
+        },
+        "Go": {
+          "additions": 229,
+          "deletions": 32,
+          "commits": 7
+        },
+        "Java": {
+          "additions": 397,
+          "deletions": 383,
+          "commits": 13
+        },
+        "JavaScript": {
+          "additions": 200,
+          "deletions": 27,
+          "commits": 7
+        },
+        "Lua": {
+          "additions": 46,
+          "deletions": 23,
+          "commits": 3
+        },
+        "PHP": {
+          "additions": 17,
+          "deletions": 17,
+          "commits": 2
+        },
+        "Perl": {
+          "additions": 20,
+          "deletions": 10,
+          "commits": 3
+        },
+        "Python": {
+          "additions": 52,
+          "deletions": 16,
+          "commits": 3
+        },
+        "Markdown": {
+          "additions": 102,
+          "deletions": 33,
+          "commits": 20
+        },
+        "Ruby": {
+          "additions": 176,
+          "deletions": 21,
+          "commits": 7
+        },
+        "Swift": {
+          "additions": 82,
+          "deletions": 21,
+          "commits": 4
+        },
+        "INI": {
+          "additions": 8,
+          "deletions": 4,
+          "commits": 3
+        },
+        "C#": {
+          "additions": 117,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Haskell": {
+          "additions": 16,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Scala": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        }
+      }
+    },
+    "7saheelahmed": {
+      "commits": 1,
+      "additions": 49,
+      "deletions": 0,
+      "email": "saheelahmed2@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 49,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "pockemon": {
+      "commits": 5,
+      "additions": 353,
+      "deletions": 81,
+      "email": "hardikrana276@gmail.com",
+      "languages": {
+        "C": {
+          "additions": 209,
+          "deletions": 0,
+          "commits": 2
+        },
+        "C++": {
+          "additions": 60,
+          "deletions": 30,
+          "commits": 3
+        },
+        "Python": {
+          "additions": 84,
+          "deletions": 51,
+          "commits": 8
+        }
+      }
+    },
+    "Daniela Brozzoni": {
+      "commits": 2,
+      "additions": 355,
+      "deletions": 0,
+      "email": "brozzoni@live.it",
+      "languages": {
+        "Java": {
+          "additions": 355,
+          "deletions": 0,
+          "commits": 3
+        }
+      }
+    },
+    "Matheus Miranda": {
+      "commits": 1,
+      "additions": 35,
+      "deletions": 1,
+      "email": "matheusmirandalacerda@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 33,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 2,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    },
+    "Vedant Wakalkar": {
+      "commits": 4,
+      "additions": 19,
+      "deletions": 4,
+      "email": "vedantwakalkar@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 19,
+          "deletions": 4,
+          "commits": 4
+        }
+      }
+    },
+    "Orasz": {
+      "commits": 1,
+      "additions": 3,
+      "deletions": 3,
+      "email": "daniele.ventura05@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 1,
+          "deletions": 1,
+          "commits": 1
+        },
+        "Java": {
+          "additions": 1,
+          "deletions": 1,
+          "commits": 1
+        },
+        "C++": {
+          "additions": 1,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    },
+    "apoorva": {
+      "commits": 2,
+      "additions": 204,
+      "deletions": 0,
+      "email": "av4l4nc14@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 204,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "nayomi16": {
+      "commits": 1,
+      "additions": 64,
+      "deletions": 0,
+      "email": "42860724+nayomi16@users.noreply.github.com",
+      "languages": {
+        "Java": {
+          "additions": 64,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Rohith Sudheer": {
+      "commits": 3,
+      "additions": 143,
+      "deletions": 0,
+      "email": "36558130+RohithS98@users.noreply.github.com",
+      "languages": {
+        "Python": {
+          "additions": 143,
+          "deletions": 0,
+          "commits": 3
+        }
+      }
+    },
+    "Michael JK": {
+      "commits": 1,
+      "additions": 36,
+      "deletions": 0,
+      "email": "michaelj.kosasih@gmail.com",
+      "languages": {
+        "Java": {
+          "additions": 36,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "ash12345678987654321": {
+      "commits": 16,
+      "additions": 216,
+      "deletions": 89,
+      "email": "30226797+ash12345678987654321@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 202,
+          "deletions": 76,
+          "commits": 6
+        },
+        "Markdown": {
+          "additions": 14,
+          "deletions": 13,
+          "commits": 8
+        }
+      }
+    },
+    "João Pedro Moisakis": {
+      "commits": 1,
+      "additions": 27,
+      "deletions": 0,
+      "email": "joao.moisakis@localhost.localdomain",
+      "languages": {
+        "C++": {
+          "additions": 27,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "lightningedge007a": {
+      "commits": 1,
+      "additions": 51,
+      "deletions": 0,
+      "email": "abhishekverma1610@gmail.com",
+      "languages": {
+        "Java": {
+          "additions": 51,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "archanacoder": {
+      "commits": 1,
+      "additions": 39,
+      "deletions": 31,
+      "email": "44294498+archanacoder@users.noreply.github.com",
+      "languages": {
+        "C": {
+          "additions": 39,
+          "deletions": 31,
+          "commits": 1
+        }
+      }
+    },
+    "Ashish Patel": {
+      "commits": 1,
+      "additions": 2,
+      "deletions": 2,
+      "email": "ashish.tripleclicks@gmail.com",
+      "languages": {
+        "JavaScript": {
+          "additions": 2,
+          "deletions": 2,
+          "commits": 1
+        }
+      }
+    },
+    "DASHAN JOT SINGH": {
+      "commits": 2,
+      "additions": 155,
+      "deletions": 0,
+      "email": "16it216.dashan@nitk.edu.in",
+      "languages": {
+        "Python": {
+          "additions": 46,
+          "deletions": 0,
+          "commits": 1
+        },
+        "C++": {
+          "additions": 109,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Hardik Rana": {
+      "commits": 2,
+      "additions": 91,
+      "deletions": 91,
+      "email": "hardikrana276@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 91,
+          "deletions": 91,
+          "commits": 2
+        }
+      }
+    },
+    "Anshuman": {
+      "commits": 1,
+      "additions": 320,
+      "deletions": 0,
+      "email": "anshumankmr80@gmail.com",
+      "languages": {
+        "C": {
+          "additions": 320,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "Dhiraj": {
+      "commits": 5,
+      "additions": 62,
+      "deletions": 3,
+      "email": "dhiraj.kalita@vantagecircle.com",
+      "languages": {
+        "Markdown": {
+          "additions": 37,
+          "deletions": 3,
+          "commits": 4
+        },
+        "Python": {
+          "additions": 25,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Anish Badri R S": {
+      "commits": 2,
+      "additions": 102,
+      "deletions": 0,
+      "email": "anishbadhri@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 102,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "SAKSHI-CHANDEL": {
+      "commits": 3,
+      "additions": 102,
+      "deletions": 0,
+      "email": "31941156+SAKSHI-CHANDEL@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 102,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "some1specialforme": {
+      "commits": 2,
+      "additions": 112,
+      "deletions": 1,
+      "email": "44273970+some1specialforme@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 112,
+          "deletions": 1,
+          "commits": 2
+        }
+      }
+    },
+    "sandy9999": {
+      "commits": 2,
+      "additions": 33,
+      "deletions": 3,
+      "email": "luckysandy99@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 33,
+          "deletions": 3,
+          "commits": 3
+        }
+      }
+    },
+    "Amit Jindal": {
+      "commits": 1,
+      "additions": 73,
+      "deletions": 0,
+      "email": "amitj646@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 73,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "meghpatel": {
+      "commits": 2,
+      "additions": 7,
+      "deletions": 1,
+      "email": "patel.megh09@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 7,
+          "deletions": 1,
+          "commits": 2
+        }
+      }
+    },
+    "shane": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 1,
+      "email": "s.rafferty@kainos.com",
+      "languages": {
+        "Markdown": {
+          "additions": 1,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    },
+    "Megh Patel": {
+      "commits": 1,
+      "additions": 323,
+      "deletions": 0,
+      "email": "patel.megh09@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 10,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Java": {
+          "additions": 74,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Python": {
+          "additions": 156,
+          "deletions": 0,
+          "commits": 7
+        },
+        "JavaScript": {
+          "additions": 29,
+          "deletions": 0,
+          "commits": 1
+        },
+        "C": {
+          "additions": 54,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Abdulrazaq Ahmed": {
+      "commits": 3,
+      "additions": 59,
+      "deletions": 17,
+      "email": "justforlearningcode@gmail.com",
+      "languages": {
+        "Java": {
+          "additions": 52,
+          "deletions": 17,
+          "commits": 2
+        },
+        "Python": {
+          "additions": 7,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "IshaniDasanayake": {
+      "commits": 1,
+      "additions": 34,
+      "deletions": 0,
+      "email": "42891760+IshaniDasanayake@users.noreply.github.com",
+      "languages": {
+        "C": {
+          "additions": 34,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "gabsoares11": {
+      "commits": 2,
+      "additions": 61,
+      "deletions": 0,
+      "email": "gabryelle.almeida@ccc.ufcg.edu.br",
+      "languages": {
+        "Java": {
+          "additions": 45,
+          "deletions": 0,
+          "commits": 1
+        },
+        "C++": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "C": {
+          "additions": 0,
+          "deletions": 0,
+          "commits": 0
+        },
+        "Python": {
+          "additions": 16,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "França": {
+      "commits": 3,
+      "additions": 86,
+      "deletions": 0,
+      "email": "fmdss@ic.ufal.br",
+      "languages": {
+        "Python": {
+          "additions": 86,
+          "deletions": 0,
+          "commits": 3
+        }
+      }
+    },
+    "França Mac Dowell": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 1,
+      "email": "fmdss@ic.ufal.br",
+      "languages": {
+        "Python": {
+          "additions": 1,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    },
+    "aljazglavac": {
+      "commits": 1,
+      "additions": 9,
+      "deletions": 0,
+      "email": "aljaz.glavac97@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 9,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Arman1611": {
+      "commits": 1,
+      "additions": 53,
+      "deletions": 0,
+      "email": "armangupta0504@gmail.com",
+      "languages": {
+        "Java": {
+          "additions": 52,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "miftahulmuhaemen": {
+      "commits": 2,
+      "additions": 30,
+      "deletions": 1,
+      "email": "miftahulmuhaemen@gmail.com",
+      "languages": {
+        "JavaScript": {
+          "additions": 30,
+          "deletions": 1,
+          "commits": 2
+        }
+      }
+    },
+    "Sai Ranga M": {
+      "commits": 1,
+      "additions": 54,
+      "deletions": 0,
+      "email": "mssr97@gmail.com",
+      "languages": {
+        "C": {
+          "additions": 54,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Hai Dinh": {
+      "commits": 1,
+      "additions": 21,
+      "deletions": 0,
+      "email": "ngochaidinh94@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 21,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Adam Jordan": {
+      "commits": 1,
+      "additions": 21,
+      "deletions": 0,
+      "email": "adamyordan@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 21,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Melwin Amith D'Almeida": {
+      "commits": 1,
+      "additions": 21,
+      "deletions": 0,
+      "email": "melwinalm@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 21,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Rishi Chawla": {
+      "commits": 1,
+      "additions": 414,
+      "deletions": 0,
+      "email": "rishi.chawla14@gmail.com",
+      "languages": {
+        "C": {
+          "additions": 414,
+          "deletions": 0,
+          "commits": 3
+        }
+      }
+    },
+    "anirudherabelly": {
+      "commits": 6,
+      "additions": 937,
+      "deletions": 1,
+      "email": "anirudh.erabelly@gmail.com",
+      "languages": {
+        "C#": {
+          "additions": 645,
+          "deletions": 0,
+          "commits": 8
+        },
+        "Java": {
+          "additions": 292,
+          "deletions": 0,
+          "commits": 5
+        },
+        "Markdown": {
+          "additions": 0,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    },
+    "Shakib Hossain": {
+      "commits": 4,
+      "additions": 850,
+      "deletions": 817,
+      "email": "shakib609@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 843,
+          "deletions": 809,
+          "commits": 42
+        },
+        "PHP": {
+          "additions": 7,
+          "deletions": 8,
+          "commits": 1
+        }
+      }
+    },
+    "yugantarjain": {
+      "commits": 1,
+      "additions": 41,
+      "deletions": 0,
+      "email": "31164725+yugantarjain@users.noreply.github.com",
+      "languages": {
+        "C++": {
+          "additions": 41,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Shashi Jangra": {
+      "commits": 1,
+      "additions": 48,
+      "deletions": 0,
+      "email": "shashijangra@live.com",
+      "languages": {
+        "C++": {
+          "additions": 48,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Omar AbdElkareem": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 0,
+      "email": "omarkimo80@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "Karan": {
+      "commits": 2,
+      "additions": 142,
+      "deletions": 0,
+      "email": "karandeepbatra@gmail.com",
+      "languages": {
+        "C++": {
+          "additions": 142,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "Yassin Bahloul": {
+      "commits": 2,
+      "additions": 44,
+      "deletions": 1,
+      "email": "yassin.bahloul@rwth-aachen.de",
+      "languages": {
+        "C++": {
+          "additions": 44,
+          "deletions": 1,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {}
+}

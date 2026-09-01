@@ -1,0 +1,63 @@
+{
+  "repository": "kokoa-tools/commit-message-generator",
+  "owner": "kokoa-tools",
+  "name": "commit-message-generator",
+  "description": "커밋 메세지 생성기 (Claude Code, LLM API 지원)",
+  "language": "Go",
+  "created_at": "2026-03-23 14:28:48 UTC",
+  "updated_at": "2026-04-03 02:47:11 UTC",
+  "size": 29,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:49+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 1,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 1,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 6,
+      "additions": 2011,
+      "deletions": 26,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 492,
+          "deletions": 1,
+          "commits": 3
+        },
+        "Go": {
+          "additions": 1466,
+          "deletions": 25,
+          "commits": 22
+        },
+        "Makefile": {
+          "additions": 14,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Go": {
+      "bytes": 35450,
+      "percentage": 0
+    },
+    "Makefile": {
+      "bytes": 224,
+      "percentage": 0
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "repository": "kokoa-lab/aether",
+  "owner": "kokoa-lab",
+  "name": "aether",
+  "description": "aether - Rails Webapp Experiment Repo",
+  "language": "Ruby",
+  "created_at": "2024-08-31 16:50:49 UTC",
+  "updated_at": "2025-09-17 12:41:13 UTC",
+  "size": 25,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 3,
+  "analyzed_at": "2026-09-01T02:28:49+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 1585,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Dockerfile": {
+          "additions": 62,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Ruby": {
+          "additions": 540,
+          "deletions": 0,
+          "commits": 27
+        },
+        "Markdown": {
+          "additions": 24,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JavaScript": {
+          "additions": 27,
+          "deletions": 0,
+          "commits": 5
+        },
+        "CSS": {
+          "additions": 15,
+          "deletions": 0,
+          "commits": 1
+        },
+        "YAML": {
+          "additions": 159,
+          "deletions": 0,
+          "commits": 4
+        },
+        "HTML": {
+          "additions": 200,
+          "deletions": 0,
+          "commits": 3
+        },
+        "Text": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Ruby": {
+      "bytes": 25150,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 5650,
+      "percentage": 0
+    },
+    "Dockerfile": {
+      "bytes": 1885,
+      "percentage": 0
+    },
+    "JavaScript": {
+      "bytes": 947,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 721,
+      "percentage": 0
+    },
+    "Shell": {
+      "bytes": 191,
+      "percentage": 0
+    }
+  }
+}

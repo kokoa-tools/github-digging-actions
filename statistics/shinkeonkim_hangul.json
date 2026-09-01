@@ -1,0 +1,67 @@
+{
+  "repository": "shinkeonkim/hangul",
+  "owner": "shinkeonkim",
+  "name": "hangul",
+  "description": "visualize hangul",
+  "language": "JavaScript",
+  "created_at": "2022-05-22 15:33:33 UTC",
+  "updated_at": "2022-05-23 14:07:38 UTC",
+  "size": 2,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-08-01T01:50:09+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 99,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "CSS": {
+          "additions": 29,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JavaScript": {
+          "additions": 49,
+          "deletions": 0,
+          "commits": 1
+        },
+        "HTML": {
+          "additions": 21,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 1,
+      "additions": 2,
+      "deletions": 0,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 2,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "JavaScript": {
+      "bytes": 1071,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 1043,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 438,
+      "percentage": 0
+    }
+  }
+}

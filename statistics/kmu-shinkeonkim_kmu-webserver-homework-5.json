@@ -1,0 +1,41 @@
+{
+  "repository": "kmu-shinkeonkim/kmu-webserver-homework-5",
+  "owner": "kmu-shinkeonkim",
+  "name": "kmu-webserver-homework-5",
+  "description": null,
+  "language": "Python",
+  "created_at": "2025-04-09 04:53:27 UTC",
+  "updated_at": "2025-06-29 09:54:15 UTC",
+  "size": 529,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:48+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 2,
+      "additions": 723,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 310,
+          "deletions": 0,
+          "commits": 13
+        },
+        "Text": {
+          "additions": 3,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 8897,
+      "percentage": 0
+    }
+  }
+}

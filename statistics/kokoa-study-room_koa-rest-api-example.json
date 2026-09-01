@@ -1,0 +1,55 @@
+{
+  "repository": "kokoa-study-room/koa-rest-api-example",
+  "owner": "kokoa-study-room",
+  "name": "koa-rest-api-example",
+  "description": "koa가 koa 공부하는 예시 프로젝트",
+  "language": "JavaScript",
+  "created_at": "2022-05-04 13:33:12 UTC",
+  "updated_at": "2025-09-17 12:54:56 UTC",
+  "size": 45,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:10+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 8,
+      "additions": 1992,
+      "deletions": 32,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "YAML": {
+          "additions": 16,
+          "deletions": 0,
+          "commits": 1
+        },
+        "TypeScript": {
+          "additions": 45,
+          "deletions": 15,
+          "commits": 7
+        },
+        "JSON": {
+          "additions": 41,
+          "deletions": 3,
+          "commits": 6
+        },
+        "JavaScript": {
+          "additions": 46,
+          "deletions": 8,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "JavaScript": {
+      "bytes": 628,
+      "percentage": 0
+    },
+    "TypeScript": {
+      "bytes": 539,
+      "percentage": 0
+    }
+  }
+}

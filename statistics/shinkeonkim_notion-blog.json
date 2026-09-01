@@ -1,0 +1,87 @@
+{
+  "repository": "shinkeonkim/notion-blog",
+  "owner": "shinkeonkim",
+  "name": "notion-blog",
+  "description": "노션페이지를 이용한 Github 블로그",
+  "language": "TypeScript",
+  "created_at": "2022-06-01 02:13:21 UTC",
+  "updated_at": "2024-04-25 05:24:56 UTC",
+  "size": 686,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:34:15+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 8,
+      "additions": 23,
+      "deletions": 7,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "YAML": {
+          "additions": 6,
+          "deletions": 6,
+          "commits": 3
+        },
+        "Markdown": {
+          "additions": 16,
+          "deletions": 1,
+          "commits": 4
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 23,
+      "additions": 4334,
+      "deletions": 323,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "TypeScript": {
+          "additions": 534,
+          "deletions": 118,
+          "commits": 32
+        },
+        "JavaScript": {
+          "additions": 29,
+          "deletions": 5,
+          "commits": 8
+        },
+        "JSON": {
+          "additions": 64,
+          "deletions": 8,
+          "commits": 10
+        },
+        "YAML": {
+          "additions": 45,
+          "deletions": 10,
+          "commits": 6
+        },
+        "Markdown": {
+          "additions": 36,
+          "deletions": 33,
+          "commits": 2
+        },
+        "CSS": {
+          "additions": 136,
+          "deletions": 128,
+          "commits": 4
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "TypeScript": {
+      "bytes": 10778,
+      "percentage": 0
+    },
+    "JavaScript": {
+      "bytes": 506,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 69,
+      "percentage": 0
+    }
+  }
+}

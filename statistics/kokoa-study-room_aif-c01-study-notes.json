@@ -1,0 +1,54 @@
+{
+  "repository": "kokoa-study-room/aif-c01-study-notes",
+  "owner": "kokoa-study-room",
+  "name": "aif-c01-study-notes",
+  "description": "AWS Certified AI Practitioner Exam Study Notes",
+  "language": "Python",
+  "created_at": "2026-07-02 18:31:48 UTC",
+  "updated_at": "2026-07-10 06:14:37 UTC",
+  "size": 7745,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:59+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 3,
+      "additions": 20581,
+      "deletions": 834,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 20071,
+          "deletions": 834,
+          "commits": 29
+        },
+        "Python": {
+          "additions": 441,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "Victor Sz": {
+      "commits": 91,
+      "additions": 1072,
+      "deletions": 357,
+      "email": "vicsz@users.noreply.github.com",
+      "languages": {
+        "Markdown": {
+          "additions": 1072,
+          "deletions": 357,
+          "commits": 85
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 15504,
+      "percentage": 0
+    }
+  }
+}

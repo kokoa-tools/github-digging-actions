@@ -1,0 +1,92 @@
+{
+  "repository": "kokoa-study-room/study-ruby",
+  "owner": "kokoa-study-room",
+  "name": "study-ruby",
+  "description": null,
+  "language": "Ruby",
+  "created_at": "2020-12-16 04:44:32 UTC",
+  "updated_at": "2025-09-17 12:29:32 UTC",
+  "size": 243,
+  "stargazers_count": 1,
+  "watchers_count": 1,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:25+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 7,
+      "additions": 10198,
+      "deletions": 108,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 366,
+          "deletions": 14,
+          "commits": 17
+        },
+        "SCSS": {
+          "additions": 83,
+          "deletions": 0,
+          "commits": 7
+        },
+        "Ruby": {
+          "additions": 1705,
+          "deletions": 4,
+          "commits": 79
+        },
+        "YAML": {
+          "additions": 493,
+          "deletions": 88,
+          "commits": 13
+        },
+        "JSON": {
+          "additions": 3526,
+          "deletions": 0,
+          "commits": 2
+        },
+        "JavaScript": {
+          "additions": 126,
+          "deletions": 0,
+          "commits": 10
+        },
+        "CSS": {
+          "additions": 15,
+          "deletions": 0,
+          "commits": 1
+        },
+        "HTML": {
+          "additions": 200,
+          "deletions": 0,
+          "commits": 3
+        },
+        "Text": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Ruby": {
+      "bytes": 61090,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 18285,
+      "percentage": 0
+    },
+    "JavaScript": {
+      "bytes": 3471,
+      "percentage": 0
+    },
+    "SCSS": {
+      "bytes": 2078,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 709,
+      "percentage": 0
+    }
+  }
+}

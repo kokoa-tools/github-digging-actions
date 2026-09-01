@@ -1,0 +1,300 @@
+{
+  "repository": "shinkeonkim/lotteng",
+  "owner": "shinkeonkim",
+  "name": "lotteng",
+  "description": "🦁2020 멋쟁이 사자처럼 8기 해커톤 LOTTENG🕒",
+  "language": null,
+  "created_at": "2020-10-24 16:34:10 UTC",
+  "updated_at": "2020-10-24 16:35:05 UTC",
+  "size": 5954,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-08-01T01:47:17+0000",
+  "commit_statistics": {
+    "HYEONYI JU": {
+      "commits": 4,
+      "additions": 67,
+      "deletions": 36,
+      "email": "hyeoneedyou@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 67,
+          "deletions": 36,
+          "commits": 4
+        }
+      }
+    },
+    "hyeoneedyou": {
+      "commits": 13,
+      "additions": 573,
+      "deletions": 120,
+      "email": "hyeoneedyou@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 160,
+          "deletions": 83,
+          "commits": 6
+        },
+        "HTML": {
+          "additions": 23,
+          "deletions": 6,
+          "commits": 6
+        },
+        "Python": {
+          "additions": 372,
+          "deletions": 21,
+          "commits": 18
+        },
+        "JavaScript": {
+          "additions": 18,
+          "deletions": 10,
+          "commits": 1
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 180,
+      "additions": 332564,
+      "deletions": 6219,
+      "email": "singun11@naver.com",
+      "languages": {
+        "HTML": {
+          "additions": 9139,
+          "deletions": 3983,
+          "commits": 370
+        },
+        "Python": {
+          "additions": 4642,
+          "deletions": 1479,
+          "commits": 497
+        },
+        "JavaScript": {
+          "additions": 196954,
+          "deletions": 634,
+          "commits": 561
+        },
+        "Markdown": {
+          "additions": 758,
+          "deletions": 51,
+          "commits": 19
+        },
+        "CSS": {
+          "additions": 109958,
+          "deletions": 64,
+          "commits": 201
+        },
+        "Text": {
+          "additions": 1320,
+          "deletions": 0,
+          "commits": 37
+        },
+        "JSON": {
+          "additions": 5357,
+          "deletions": 6,
+          "commits": 16
+        },
+        "Shell": {
+          "additions": 6,
+          "deletions": 0,
+          "commits": 3
+        }
+      }
+    },
+    "jiyoon": {
+      "commits": 1,
+      "additions": 104,
+      "deletions": 55,
+      "email": "63110205+Chungjiyoon@users.noreply.github.com",
+      "languages": {
+        "HTML": {
+          "additions": 72,
+          "deletions": 55,
+          "commits": 2
+        },
+        "CSS": {
+          "additions": 32,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "DESKTOP-JEJ9DKA\\User": {
+      "commits": 1,
+      "additions": 104,
+      "deletions": 55,
+      "email": "cjy0565@kookmin.ac.kr",
+      "languages": {
+        "HTML": {
+          "additions": 72,
+          "deletions": 55,
+          "commits": 2
+        },
+        "CSS": {
+          "additions": 32,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "hehahihang": {
+      "commits": 1,
+      "additions": 580,
+      "deletions": 602,
+      "email": "57223501+hehahihang@users.noreply.github.com",
+      "languages": {
+        "HTML": {
+          "additions": 60,
+          "deletions": 602,
+          "commits": 3
+        },
+        "CSS": {
+          "additions": 76,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JavaScript": {
+          "additions": 444,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "xodus1349": {
+      "commits": 3,
+      "additions": 145,
+      "deletions": 8,
+      "email": "xodus1349@likelion.org",
+      "languages": {
+        "HTML": {
+          "additions": 89,
+          "deletions": 4,
+          "commits": 6
+        },
+        "Python": {
+          "additions": 40,
+          "deletions": 4,
+          "commits": 6
+        }
+      }
+    },
+    "JeongKwangSu": {
+      "commits": 2,
+      "additions": 658,
+      "deletions": 33,
+      "email": "soo0546@naver.com",
+      "languages": {
+        "Python": {
+          "additions": 58,
+          "deletions": 33,
+          "commits": 9
+        },
+        "HTML": {
+          "additions": 600,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "Yun Sang Woo": {
+      "commits": 4,
+      "additions": 183,
+      "deletions": 46,
+      "email": "Awarduuu@gmail.com",
+      "languages": {
+        "JSON": {
+          "additions": 3,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 81,
+          "deletions": 27,
+          "commits": 7
+        },
+        "HTML": {
+          "additions": 99,
+          "deletions": 19,
+          "commits": 7
+        }
+      }
+    },
+    "audwin505": {
+      "commits": 1,
+      "additions": 39,
+      "deletions": 2,
+      "email": "audwin123@naver.com",
+      "languages": {
+        "HTML": {
+          "additions": 10,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 29,
+          "deletions": 2,
+          "commits": 3
+        }
+      }
+    },
+    "Awarduuu": {
+      "commits": 1,
+      "additions": 88,
+      "deletions": 20,
+      "email": "64531982+Awarduuu@users.noreply.github.com",
+      "languages": {
+        "HTML": {
+          "additions": 57,
+          "deletions": 19,
+          "commits": 2
+        },
+        "Python": {
+          "additions": 31,
+          "deletions": 1,
+          "commits": 3
+        }
+      }
+    },
+    "didwldn3032": {
+      "commits": 4,
+      "additions": 297,
+      "deletions": 8,
+      "email": "didwldn3032@gmail.com",
+      "languages": {
+        "HTML": {
+          "additions": 183,
+          "deletions": 2,
+          "commits": 7
+        },
+        "Python": {
+          "additions": 82,
+          "deletions": 6,
+          "commits": 9
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "JavaScript": {
+      "bytes": 572669,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 225068,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 62439,
+      "percentage": 0
+    },
+    "Python": {
+      "bytes": 43603,
+      "percentage": 0
+    },
+    "Shell": {
+      "bytes": 52,
+      "percentage": 0
+    }
+  }
+}

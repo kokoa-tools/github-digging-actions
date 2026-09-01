@@ -1,0 +1,87 @@
+{
+  "repository": "shinkeonkim/can-you-catch-circle",
+  "owner": "shinkeonkim",
+  "name": "can-you-catch-circle",
+  "description": null,
+  "language": "Vue",
+  "created_at": "2021-12-17 14:47:46 UTC",
+  "updated_at": "2021-12-19 10:28:06 UTC",
+  "size": 188,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:32+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 7,
+      "additions": 86,
+      "deletions": 24,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 21,
+          "deletions": 0,
+          "commits": 1
+        },
+        "YAML": {
+          "additions": 65,
+          "deletions": 24,
+          "commits": 5
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 15,
+      "additions": 1442,
+      "deletions": 76,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Vue": {
+          "additions": 265,
+          "deletions": 54,
+          "commits": 18
+        },
+        "JSON": {
+          "additions": 45,
+          "deletions": 9,
+          "commits": 9
+        },
+        "YAML": {
+          "additions": 4,
+          "deletions": 2,
+          "commits": 2
+        },
+        "TypeScript": {
+          "additions": 53,
+          "deletions": 8,
+          "commits": 8
+        },
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "HTML": {
+          "additions": 14,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Vue": {
+      "bytes": 3972,
+      "percentage": 0
+    },
+    "TypeScript": {
+      "bytes": 961,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 354,
+      "percentage": 0
+    }
+  }
+}

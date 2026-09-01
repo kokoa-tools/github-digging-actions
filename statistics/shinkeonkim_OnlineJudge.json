@@ -1,0 +1,559 @@
+{
+  "repository": "shinkeonkim/OnlineJudge",
+  "owner": "shinkeonkim",
+  "name": "OnlineJudge",
+  "description": "open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com",
+  "language": null,
+  "created_at": "2022-01-23 07:12:51 UTC",
+  "updated_at": "2022-01-22 05:54:29 UTC",
+  "size": 22857,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-07-01T02:18:26+0000",
+  "commit_statistics": {
+    "LiYang": {
+      "commits": 37,
+      "additions": 18023,
+      "deletions": 88993,
+      "email": "qduliyang@outlok.com",
+      "languages": {
+        "YAML": {
+          "additions": 3,
+          "deletions": 2,
+          "commits": 1
+        },
+        "Dockerfile": {
+          "additions": 2,
+          "deletions": 2,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 130,
+          "deletions": 97,
+          "commits": 37
+        },
+        "Text": {
+          "additions": 25,
+          "deletions": 24,
+          "commits": 1
+        },
+        "JSON": {
+          "additions": 102,
+          "deletions": 5,
+          "commits": 10
+        },
+        "Markdown": {
+          "additions": 4,
+          "deletions": 4,
+          "commits": 3
+        },
+        "Vue": {
+          "additions": 1574,
+          "deletions": 330,
+          "commits": 63
+        },
+        "JavaScript": {
+          "additions": 2843,
+          "deletions": 77817,
+          "commits": 94
+        },
+        "HTML": {
+          "additions": 334,
+          "deletions": 10,
+          "commits": 5
+        },
+        "CSS": {
+          "additions": 12989,
+          "deletions": 5366,
+          "commits": 25
+        }
+      }
+    },
+    "Beichi-CHs": {
+      "commits": 4,
+      "additions": 61,
+      "deletions": 44,
+      "email": "g841734459@126.com",
+      "languages": {
+        "Python": {
+          "additions": 11,
+          "deletions": 9,
+          "commits": 10
+        },
+        "Text": {
+          "additions": 26,
+          "deletions": 25,
+          "commits": 2
+        },
+        "JSON": {
+          "additions": 12,
+          "deletions": 1,
+          "commits": 2
+        },
+        "YAML": {
+          "additions": 8,
+          "deletions": 7,
+          "commits": 2
+        },
+        "Dockerfile": {
+          "additions": 2,
+          "deletions": 2,
+          "commits": 1
+        }
+      }
+    },
+    "Harry Chen": {
+      "commits": 1,
+      "additions": 5,
+      "deletions": 5,
+      "email": "harrychen0314@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 5,
+          "deletions": 5,
+          "commits": 1
+        }
+      }
+    },
+    "virusdefender": {
+      "commits": 242,
+      "additions": 10906,
+      "deletions": 34378,
+      "email": "qduliyang@outlook.com",
+      "languages": {
+        "Python": {
+          "additions": 8844,
+          "deletions": 10873,
+          "commits": 881
+        },
+        "JSON": {
+          "additions": 95,
+          "deletions": 63,
+          "commits": 12
+        },
+        "Text": {
+          "additions": 67,
+          "deletions": 45,
+          "commits": 16
+        },
+        "Dockerfile": {
+          "additions": 33,
+          "deletions": 62,
+          "commits": 14
+        },
+        "Config": {
+          "additions": 241,
+          "deletions": 176,
+          "commits": 31
+        },
+        "Shell": {
+          "additions": 129,
+          "deletions": 104,
+          "commits": 29
+        },
+        "YAML": {
+          "additions": 40,
+          "deletions": 79,
+          "commits": 16
+        },
+        "Markdown": {
+          "additions": 5,
+          "deletions": 2,
+          "commits": 3
+        },
+        "HTML": {
+          "additions": 239,
+          "deletions": 4683,
+          "commits": 88
+        },
+        "XML": {
+          "additions": 145,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JavaScript": {
+          "additions": 90,
+          "deletions": 2788,
+          "commits": 26
+        },
+        "Vue": {
+          "additions": 520,
+          "deletions": 1764,
+          "commits": 61
+        },
+        "CSS": {
+          "additions": 353,
+          "deletions": 13340,
+          "commits": 16
+        }
+      }
+    },
+    "Harry-zklcdc": {
+      "commits": 2,
+      "additions": 6,
+      "deletions": 6,
+      "email": "1269158832@qq.com",
+      "languages": {
+        "Python": {
+          "additions": 6,
+          "deletions": 6,
+          "commits": 2
+        }
+      }
+    },
+    "helsonxiao": {
+      "commits": 3,
+      "additions": 11,
+      "deletions": 7,
+      "email": "helsonxiao@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 11,
+          "deletions": 7,
+          "commits": 5
+        }
+      }
+    },
+    "myleosu": {
+      "commits": 3,
+      "additions": 6,
+      "deletions": 2,
+      "email": "33693783+myleosu@users.noreply.github.com",
+      "languages": {
+        "Python": {
+          "additions": 6,
+          "deletions": 2,
+          "commits": 3
+        }
+      }
+    },
+    "李扬": {
+      "commits": 27,
+      "additions": 1668,
+      "deletions": 699,
+      "email": "virusdefender@users.noreply.github.com",
+      "languages": {
+        "Markdown": {
+          "additions": 13,
+          "deletions": 9,
+          "commits": 10
+        },
+        "Dockerfile": {
+          "additions": 2,
+          "deletions": 2,
+          "commits": 2
+        },
+        "Python": {
+          "additions": 1498,
+          "deletions": 576,
+          "commits": 85
+        },
+        "Text": {
+          "additions": 33,
+          "deletions": 19,
+          "commits": 2
+        },
+        "Config": {
+          "additions": 20,
+          "deletions": 10,
+          "commits": 6
+        },
+        "JSON": {
+          "additions": 52,
+          "deletions": 2,
+          "commits": 5
+        },
+        "Shell": {
+          "additions": 13,
+          "deletions": 2,
+          "commits": 3
+        },
+        "HTML": {
+          "additions": 30,
+          "deletions": 76,
+          "commits": 1
+        },
+        "YAML": {
+          "additions": 2,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "zema1": {
+      "commits": 111,
+      "additions": 12115,
+      "deletions": 4172,
+      "email": "rawidn@163.com",
+      "languages": {
+        "YAML": {
+          "additions": 70,
+          "deletions": 17,
+          "commits": 12
+        },
+        "Python": {
+          "additions": 10949,
+          "deletions": 3732,
+          "commits": 649
+        },
+        "Shell": {
+          "additions": 215,
+          "deletions": 44,
+          "commits": 20
+        },
+        "Config": {
+          "additions": 442,
+          "deletions": 155,
+          "commits": 23
+        },
+        "JSON": {
+          "additions": 51,
+          "deletions": 6,
+          "commits": 6
+        },
+        "Text": {
+          "additions": 14,
+          "deletions": 16,
+          "commits": 8
+        },
+        "Markdown": {
+          "additions": 247,
+          "deletions": 101,
+          "commits": 14
+        },
+        "Dockerfile": {
+          "additions": 76,
+          "deletions": 34,
+          "commits": 14
+        },
+        "HTML": {
+          "additions": 12,
+          "deletions": 14,
+          "commits": 2
+        }
+      }
+    },
+    "creedowl": {
+      "commits": 1,
+      "additions": 2,
+      "deletions": 1,
+      "email": "creedowl@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 2,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    },
+    "Xeonacid": {
+      "commits": 1,
+      "additions": 2,
+      "deletions": 2,
+      "email": "h.dwwwwww@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 2,
+          "deletions": 2,
+          "commits": 2
+        }
+      }
+    },
+    "zimo.zhang": {
+      "commits": 1,
+      "additions": 2,
+      "deletions": 2,
+      "email": "zimo.zhang@zimozhangdeMBP.in.chaitin.com",
+      "languages": {
+        "Text": {
+          "additions": 2,
+          "deletions": 2,
+          "commits": 1
+        }
+      }
+    },
+    "rawidn": {
+      "commits": 1,
+      "additions": 2,
+      "deletions": 0,
+      "email": "rawidn@163.com",
+      "languages": {
+        "Python": {
+          "additions": 2,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "xudian": {
+      "commits": 1,
+      "additions": 12,
+      "deletions": 3,
+      "email": "xudian.cn@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 12,
+          "deletions": 3,
+          "commits": 1
+        }
+      }
+    },
+    "zyh3838438zyh": {
+      "commits": 1,
+      "additions": 14,
+      "deletions": 12,
+      "email": "zyh3838438zyh@live.cn",
+      "languages": {
+        "Markdown": {
+          "additions": 14,
+          "deletions": 12,
+          "commits": 1
+        }
+      }
+    },
+    "sylxjtu": {
+      "commits": 1,
+      "additions": 2,
+      "deletions": 2,
+      "email": "sylxjtu@users.noreply.github.com",
+      "languages": {
+        "Python": {
+          "additions": 2,
+          "deletions": 2,
+          "commits": 1
+        }
+      }
+    },
+    "zemal": {
+      "commits": 39,
+      "additions": 2388,
+      "deletions": 1182,
+      "email": "rawidn@163.com",
+      "languages": {
+        "Python": {
+          "additions": 2380,
+          "deletions": 1168,
+          "commits": 187
+        },
+        "YAML": {
+          "additions": 2,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Text": {
+          "additions": 5,
+          "deletions": 13,
+          "commits": 3
+        }
+      }
+    },
+    "Chiaki": {
+      "commits": 17,
+      "additions": 1148,
+      "deletions": 159,
+      "email": "i@wind.moe",
+      "languages": {
+        "Python": {
+          "additions": 1046,
+          "deletions": 150,
+          "commits": 63
+        },
+        "Text": {
+          "additions": 24,
+          "deletions": 9,
+          "commits": 9
+        },
+        "HTML": {
+          "additions": 78,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "稗田千秋": {
+      "commits": 2,
+      "additions": 498,
+      "deletions": 37,
+      "email": "forblackking@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 405,
+          "deletions": 35,
+          "commits": 22
+        },
+        "HTML": {
+          "additions": 78,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Text": {
+          "additions": 15,
+          "deletions": 2,
+          "commits": 2
+        }
+      }
+    },
+    "zhanghedr": {
+      "commits": 3,
+      "additions": 119,
+      "deletions": 12,
+      "email": "hezhang0929@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 119,
+          "deletions": 12,
+          "commits": 5
+        }
+      }
+    },
+    "Howard": {
+      "commits": 1,
+      "additions": 40,
+      "deletions": 14,
+      "email": "hezhang0929@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 40,
+          "deletions": 14,
+          "commits": 3
+        }
+      }
+    },
+    "spxcds": {
+      "commits": 2,
+      "additions": 79,
+      "deletions": 4,
+      "email": "jvbei@live.com",
+      "languages": {
+        "Dockerfile": {
+          "additions": 3,
+          "deletions": 0,
+          "commits": 1
+        },
+        "YAML": {
+          "additions": 19,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Config": {
+          "additions": 11,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Shell": {
+          "additions": 22,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Python": {
+          "additions": 22,
+          "deletions": 4,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {}
+}

@@ -1,0 +1,86 @@
+{
+  "repository": "shinkeonkim/github-stats-box",
+  "owner": "shinkeonkim",
+  "name": "github-stats-box",
+  "description": "📌 Update a gist to contain your GitHub stats",
+  "language": "JavaScript",
+  "created_at": "2022-08-02 05:06:49 UTC",
+  "updated_at": "2022-08-02 05:10:41 UTC",
+  "size": 28,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-08-01T01:49:54+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 2,
+      "additions": 2,
+      "deletions": 2,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "YAML": {
+          "additions": 2,
+          "deletions": 2,
+          "commits": 2
+        }
+      }
+    },
+    "Boris K": {
+      "commits": 4,
+      "additions": 9,
+      "deletions": 7,
+      "email": "kubiakboris@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 7,
+          "deletions": 5,
+          "commits": 3
+        },
+        "YAML": {
+          "additions": 2,
+          "deletions": 2,
+          "commits": 1
+        }
+      }
+    },
+    "Boris Kubiak": {
+      "commits": 8,
+      "additions": 703,
+      "deletions": 274,
+      "email": "kubiakboris@gmail.com",
+      "languages": {
+        "JavaScript": {
+          "additions": 186,
+          "deletions": 22,
+          "commits": 7
+        },
+        "JSON": {
+          "additions": 382,
+          "deletions": 208,
+          "commits": 10
+        },
+        "YAML": {
+          "additions": 35,
+          "deletions": 0,
+          "commits": 3
+        },
+        "Markdown": {
+          "additions": 69,
+          "deletions": 40,
+          "commits": 4
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "JavaScript": {
+      "bytes": 5040,
+      "percentage": 0
+    },
+    "Shell": {
+      "bytes": 32,
+      "percentage": 0
+    }
+  }
+}

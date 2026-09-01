@@ -1,0 +1,50 @@
+{
+  "repository": "kokoa-lab/build-testing",
+  "owner": "kokoa-lab",
+  "name": "build-testing",
+  "description": null,
+  "language": "Dockerfile",
+  "created_at": "2025-02-09 08:05:38 UTC",
+  "updated_at": "2025-09-17 11:21:23 UTC",
+  "size": 2,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:23+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 4,
+      "additions": 39,
+      "deletions": 2,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "YAML": {
+          "additions": 31,
+          "deletions": 2,
+          "commits": 4
+        },
+        "Dockerfile": {
+          "additions": 6,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Dockerfile": {
+      "bytes": 82,
+      "percentage": 0
+    },
+    "Python": {
+      "bytes": 30,
+      "percentage": 0
+    }
+  }
+}

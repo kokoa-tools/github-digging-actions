@@ -1,0 +1,52 @@
+{
+  "repository": "kmu-shinkeonkim/kmu-webserver-homework-4-csrf",
+  "owner": "kmu-shinkeonkim",
+  "name": "kmu-webserver-homework-4-csrf",
+  "description": "[KMU 강의 과제] 웹서버컴퓨팅 Cross-Site Request Forgery(CSRF) 사이트간요청위조생성",
+  "language": "Python",
+  "created_at": "2025-03-31 02:58:47 UTC",
+  "updated_at": "2025-06-29 09:54:45 UTC",
+  "size": 4032,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:46+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {}
+    },
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 706,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 296,
+          "deletions": 0,
+          "commits": 11
+        },
+        "HTML": {
+          "additions": 23,
+          "deletions": 0,
+          "commits": 3
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 8294,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 878,
+      "percentage": 0
+    }
+  }
+}

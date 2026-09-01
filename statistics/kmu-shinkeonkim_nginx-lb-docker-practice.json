@@ -1,0 +1,60 @@
+{
+  "repository": "kmu-shinkeonkim/nginx-lb-docker-practice",
+  "owner": "kmu-shinkeonkim",
+  "name": "nginx-lb-docker-practice",
+  "description": "다음 강의에서 다루는 내용을 Docker 환경에서 다루도록 변경한 실습 내용 | https://github.com/SCKIMOSU/SmartNetworkService/blob/main/%5B2%EC%A3%BC%EC%B0%A8_2%EC%B0%A8%EC%8B%9C%5DDNS%EC%99%80%20%EC%84%9C%EB%B2%84%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1.md",
+  "language": "Dockerfile",
+  "created_at": "2025-09-16 07:08:08 UTC",
+  "updated_at": "2025-09-16 07:10:00 UTC",
+  "size": 1,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:30+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 96,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 3,
+          "deletions": 0,
+          "commits": 1
+        },
+        "YAML": {
+          "additions": 25,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Dockerfile": {
+          "additions": 47,
+          "deletions": 0,
+          "commits": 3
+        },
+        "Config": {
+          "additions": 12,
+          "deletions": 0,
+          "commits": 1
+        },
+        "HTML": {
+          "additions": 2,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Dockerfile": {
+      "bytes": 966,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 41,
+      "percentage": 0
+    }
+  }
+}

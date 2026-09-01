@@ -1,0 +1,62 @@
+{
+  "repository": "kokoa-tools/pdf-to-jpgs",
+  "owner": "kokoa-tools",
+  "name": "pdf-to-jpgs",
+  "description": "PDF의 페이지를 각각 JPG로 변환하는 도구",
+  "language": "Python",
+  "created_at": "2025-10-08 11:09:08 UTC",
+  "updated_at": "2025-10-08 11:43:55 UTC",
+  "size": 14,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:05+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 1,
+      "additions": 21,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {}
+    },
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 772,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 178,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 227,
+          "deletions": 0,
+          "commits": 1
+        },
+        "TOML": {
+          "additions": 24,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Shell": {
+          "additions": 77,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 7140,
+      "percentage": 0
+    },
+    "Shell": {
+      "bytes": 2037,
+      "percentage": 0
+    }
+  }
+}

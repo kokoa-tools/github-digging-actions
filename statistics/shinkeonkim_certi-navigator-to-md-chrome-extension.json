@@ -1,0 +1,55 @@
+{
+  "repository": "shinkeonkim/certi-navigator-to-md-chrome-extension",
+  "owner": "shinkeonkim",
+  "name": "certi-navigator-to-md-chrome-extension",
+  "description": null,
+  "language": "JavaScript",
+  "created_at": "2026-04-19 08:53:17 UTC",
+  "updated_at": "2026-04-26 15:20:02 UTC",
+  "size": 13,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-07-01T02:15:07+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 3,
+      "additions": 827,
+      "deletions": 81,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 47,
+          "deletions": 8,
+          "commits": 3
+        },
+        "JSON": {
+          "additions": 22,
+          "deletions": 5,
+          "commits": 3
+        },
+        "HTML": {
+          "additions": 219,
+          "deletions": 8,
+          "commits": 3
+        },
+        "JavaScript": {
+          "additions": 521,
+          "deletions": 60,
+          "commits": 5
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "JavaScript": {
+      "bytes": 13032,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 5058,
+      "percentage": 0
+    }
+  }
+}

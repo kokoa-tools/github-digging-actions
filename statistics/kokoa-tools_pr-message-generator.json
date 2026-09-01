@@ -1,0 +1,50 @@
+{
+  "repository": "kokoa-tools/pr-message-generator",
+  "owner": "kokoa-tools",
+  "name": "pr-message-generator",
+  "description": "pr-message-generator",
+  "language": "Go",
+  "created_at": "2026-04-06 10:52:57 UTC",
+  "updated_at": "2026-04-06 13:33:53 UTC",
+  "size": 37,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:10+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 9,
+      "additions": 3278,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Go": {
+          "additions": 3014,
+          "deletions": 0,
+          "commits": 22
+        },
+        "Makefile": {
+          "additions": 14,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 124,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Go": {
+      "bytes": 80754,
+      "percentage": 0
+    },
+    "Makefile": {
+      "bytes": 224,
+      "percentage": 0
+    }
+  }
+}

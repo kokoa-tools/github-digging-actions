@@ -1,0 +1,45 @@
+{
+  "repository": "kmu-shinkeonkim/kmu-computer-achitecture",
+  "owner": "kmu-shinkeonkim",
+  "name": "kmu-computer-achitecture",
+  "description": null,
+  "language": "Assembly",
+  "created_at": "2020-10-06 10:25:14 UTC",
+  "updated_at": "2025-09-17 12:33:55 UTC",
+  "size": 556,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:39+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 7,
+      "additions": 385,
+      "deletions": 78,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 347,
+          "deletions": 77,
+          "commits": 15
+        },
+        "C": {
+          "additions": 10,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Assembly": {
+      "bytes": 367,
+      "percentage": 0
+    },
+    "C": {
+      "bytes": 151,
+      "percentage": 0
+    }
+  }
+}

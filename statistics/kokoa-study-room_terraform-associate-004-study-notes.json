@@ -1,0 +1,99 @@
+{
+  "repository": "kokoa-study-room/terraform-associate-004-study-notes",
+  "owner": "kokoa-study-room",
+  "name": "terraform-associate-004-study-notes",
+  "description": null,
+  "language": "JavaScript",
+  "created_at": "2026-08-02 08:54:24 UTC",
+  "updated_at": "2026-08-28 08:01:13 UTC",
+  "size": 646,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:27+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 2,
+      "additions": 7,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Text": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 44,
+      "additions": 59111,
+      "deletions": 8147,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Text": {
+          "additions": 5,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Markdown": {
+          "additions": 37840,
+          "deletions": 177,
+          "commits": 175
+        },
+        "JSON": {
+          "additions": 18011,
+          "deletions": 7938,
+          "commits": 12
+        },
+        "TypeScript": {
+          "additions": 195,
+          "deletions": 0,
+          "commits": 2
+        },
+        "CSS": {
+          "additions": 285,
+          "deletions": 1,
+          "commits": 3
+        },
+        "YAML": {
+          "additions": 31,
+          "deletions": 0,
+          "commits": 1
+        },
+        "TOML": {
+          "additions": 3,
+          "deletions": 3,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "JavaScript": {
+      "bytes": 22870,
+      "percentage": 0
+    },
+    "HCL": {
+      "bytes": 13032,
+      "percentage": 0
+    },
+    "TypeScript": {
+      "bytes": 7785,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 6509,
+      "percentage": 0
+    },
+    "MDX": {
+      "bytes": 3998,
+      "percentage": 0
+    },
+    "Astro": {
+      "bytes": 1319,
+      "percentage": 0
+    }
+  }
+}

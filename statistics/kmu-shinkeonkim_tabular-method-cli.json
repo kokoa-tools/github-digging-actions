@@ -1,0 +1,46 @@
+{
+  "repository": "kmu-shinkeonkim/tabular-method-cli",
+  "owner": "kmu-shinkeonkim",
+  "name": "tabular-method-cli",
+  "description": "tabular method cpp src",
+  "language": "C++",
+  "created_at": "2020-04-16 02:13:21 UTC",
+  "updated_at": "2025-06-29 09:56:37 UTC",
+  "size": 111,
+  "stargazers_count": 2,
+  "watchers_count": 2,
+  "forks_count": 1,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:33:48+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 20,
+      "additions": 1064,
+      "deletions": 254,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 128,
+          "deletions": 9,
+          "commits": 4
+        },
+        "C++": {
+          "additions": 882,
+          "deletions": 240,
+          "commits": 15
+        },
+        "Text": {
+          "additions": 11,
+          "deletions": 5,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "C++": {
+      "bytes": 18232,
+      "percentage": 0
+    }
+  }
+}

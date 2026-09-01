@@ -1,0 +1,64 @@
+{
+  "repository": "kmu-shinkeonkim/Numerical-Analysis",
+  "owner": "kmu-shinkeonkim",
+  "name": "Numerical-Analysis",
+  "description": null,
+  "language": null,
+  "created_at": "2020-04-20 07:47:47 UTC",
+  "updated_at": "2025-06-29 09:56:54 UTC",
+  "size": 1204,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:31+0000",
+  "commit_statistics": {
+    "SCKIMOSU": {
+      "commits": 148,
+      "additions": 13630,
+      "deletions": 245,
+      "email": "sckim7@kookmin.ac.kr",
+      "languages": {
+        "Python": {
+          "additions": 3102,
+          "deletions": 225,
+          "commits": 131
+        },
+        "Text": {
+          "additions": 63,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "sckimosu": {
+      "commits": 40,
+      "additions": 2023,
+      "deletions": 48,
+      "email": "sckim7@kookmin.ac.kr",
+      "languages": {
+        "Python": {
+          "additions": 1559,
+          "deletions": 48,
+          "commits": 43
+        },
+        "XML": {
+          "additions": 450,
+          "deletions": 0,
+          "commits": 3
+        },
+        "Text": {
+          "additions": 2,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 115439,
+      "percentage": 0
+    }
+  }
+}

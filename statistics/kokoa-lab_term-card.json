@@ -1,0 +1,110 @@
+{
+  "repository": "kokoa-lab/term-card",
+  "owner": "kokoa-lab",
+  "name": "term-card",
+  "description": "터미널 스타일 ASCII 명함을 생성하세요. neofetch 감성의 타이핑 애니메이션과 이미지 내보내기 지원",
+  "language": "TypeScript",
+  "created_at": "2026-03-09 09:11:20 UTC",
+  "updated_at": "2026-08-28 08:01:44 UTC",
+  "size": 119,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:48+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 3,
+      "additions": 108,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Text": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "HTML": {
+          "additions": 13,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 94,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 3,
+      "additions": 7090,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Text": {
+          "additions": 15,
+          "deletions": 0,
+          "commits": 2
+        },
+        "HTML": {
+          "additions": 34,
+          "deletions": 0,
+          "commits": 2
+        },
+        "JSON": {
+          "additions": 190,
+          "deletions": 0,
+          "commits": 5
+        },
+        "JavaScript": {
+          "additions": 32,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Python": {
+          "additions": 340,
+          "deletions": 0,
+          "commits": 1
+        },
+        "CSS": {
+          "additions": 171,
+          "deletions": 0,
+          "commits": 2
+        },
+        "TypeScript": {
+          "additions": 5127,
+          "deletions": 0,
+          "commits": 67
+        },
+        "TOML": {
+          "additions": 6,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "TypeScript": {
+      "bytes": 183542,
+      "percentage": 0
+    },
+    "Python": {
+      "bytes": 12051,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 3880,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 1779,
+      "percentage": 0
+    },
+    "JavaScript": {
+      "bytes": 846,
+      "percentage": 0
+    }
+  }
+}

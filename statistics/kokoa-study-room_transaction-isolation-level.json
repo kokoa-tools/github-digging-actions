@@ -1,0 +1,83 @@
+{
+  "repository": "kokoa-study-room/transaction-isolation-level",
+  "owner": "kokoa-study-room",
+  "name": "transaction-isolation-level",
+  "description": null,
+  "language": "TypeScript",
+  "created_at": "2026-08-24 15:17:51 UTC",
+  "updated_at": "2026-08-28 07:51:59 UTC",
+  "size": 52,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:42+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 2,
+      "additions": 14,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Text": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "HTML": {
+          "additions": 13,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 7,
+      "additions": 3014,
+      "deletions": 2373,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Text": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JSON": {
+          "additions": 49,
+          "deletions": 0,
+          "commits": 4
+        },
+        "HTML": {
+          "additions": 2395,
+          "deletions": 2365,
+          "commits": 3
+        },
+        "Markdown": {
+          "additions": 74,
+          "deletions": 7,
+          "commits": 2
+        },
+        "TypeScript": {
+          "additions": 133,
+          "deletions": 0,
+          "commits": 15
+        },
+        "CSS": {
+          "additions": 3,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "TypeScript": {
+      "bytes": 17204,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 1530,
+      "percentage": 0
+    }
+  }
+}

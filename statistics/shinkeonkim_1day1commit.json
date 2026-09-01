@@ -1,0 +1,55 @@
+{
+  "repository": "shinkeonkim/1day1commit",
+  "owner": "shinkeonkim",
+  "name": "1day1commit",
+  "description": null,
+  "language": "JavaScript",
+  "created_at": "2019-12-23 23:47:22 UTC",
+  "updated_at": "2020-04-30 14:53:25 UTC",
+  "size": 1277,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 1,
+  "open_issues_count": 17,
+  "analyzed_at": "2026-09-01T02:30:17+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 8,
+      "additions": 7760,
+      "deletions": 27,
+      "email": "singun11@naver.com",
+      "languages": {
+        "JSON": {
+          "additions": 7517,
+          "deletions": 10,
+          "commits": 16
+        },
+        "Markdown": {
+          "additions": 19,
+          "deletions": 15,
+          "commits": 4
+        },
+        "JavaScript": {
+          "additions": 152,
+          "deletions": 0,
+          "commits": 3
+        },
+        "Python": {
+          "additions": 50,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "JavaScript": {
+      "bytes": 3827,
+      "percentage": 0
+    },
+    "Python": {
+      "bytes": 1762,
+      "percentage": 0
+    }
+  }
+}

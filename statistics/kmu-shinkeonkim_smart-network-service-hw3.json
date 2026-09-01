@@ -1,0 +1,64 @@
+{
+  "repository": "kmu-shinkeonkim/smart-network-service-hw3",
+  "owner": "kmu-shinkeonkim",
+  "name": "smart-network-service-hw3",
+  "description": null,
+  "language": "Python",
+  "created_at": "2025-11-29 13:52:07 UTC",
+  "updated_at": "2025-12-05 04:36:14 UTC",
+  "size": 252,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:32:35+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 4,
+      "additions": 540,
+      "deletions": 5,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 296,
+          "deletions": 5,
+          "commits": 4
+        },
+        "Dockerfile": {
+          "additions": 118,
+          "deletions": 0,
+          "commits": 1
+        },
+        "YAML": {
+          "additions": 40,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Text": {
+          "additions": 11,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Shell": {
+          "additions": 42,
+          "deletions": 0,
+          "commits": 4
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 8190,
+      "percentage": 0
+    },
+    "Dockerfile": {
+      "bytes": 3278,
+      "percentage": 0
+    },
+    "Shell": {
+      "bytes": 984,
+      "percentage": 0
+    }
+  }
+}

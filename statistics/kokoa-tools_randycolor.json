@@ -1,0 +1,100 @@
+{
+  "repository": "kokoa-tools/randycolor",
+  "owner": "kokoa-tools",
+  "name": "randycolor",
+  "description": "랜덤 그라데이션 CSS 생성기",
+  "language": "Vue",
+  "created_at": "2025-04-09 04:38:44 UTC",
+  "updated_at": "2026-03-16 07:29:57 UTC",
+  "size": 4535,
+  "stargazers_count": 1,
+  "watchers_count": 1,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:13+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 3,
+      "additions": 1,
+      "deletions": 7,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 1,
+          "deletions": 7,
+          "commits": 3
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 2,
+      "additions": 5624,
+      "deletions": 9,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "YAML": {
+          "additions": 34,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 148,
+          "deletions": 1,
+          "commits": 2
+        },
+        "TypeScript": {
+          "additions": 826,
+          "deletions": 1,
+          "commits": 15
+        },
+        "HTML": {
+          "additions": 65,
+          "deletions": 2,
+          "commits": 3
+        },
+        "JSON": {
+          "additions": 101,
+          "deletions": 1,
+          "commits": 5
+        },
+        "Vue": {
+          "additions": 1805,
+          "deletions": 4,
+          "commits": 9
+        },
+        "JavaScript": {
+          "additions": 5,
+          "deletions": 0,
+          "commits": 1
+        },
+        "CSS": {
+          "additions": 79,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Vue": {
+      "bytes": 42266,
+      "percentage": 0
+    },
+    "TypeScript": {
+      "bytes": 23604,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 2399,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 1269,
+      "percentage": 0
+    },
+    "JavaScript": {
+      "bytes": 111,
+      "percentage": 0
+    }
+  }
+}

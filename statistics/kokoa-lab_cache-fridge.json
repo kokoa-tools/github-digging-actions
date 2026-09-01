@@ -1,0 +1,119 @@
+{
+  "repository": "kokoa-lab/cache-fridge",
+  "owner": "kokoa-lab",
+  "name": "cache-fridge",
+  "description": null,
+  "language": "TypeScript",
+  "created_at": "2026-03-09 06:34:00 UTC",
+  "updated_at": "2026-08-28 07:54:33 UTC",
+  "size": 128,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:25+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 3,
+      "additions": 45,
+      "deletions": 1,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Text": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 31,
+          "deletions": 1,
+          "commits": 1
+        },
+        "HTML": {
+          "additions": 13,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 3,
+      "additions": 7365,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Text": {
+          "additions": 15,
+          "deletions": 0,
+          "commits": 2
+        },
+        "HTML": {
+          "additions": 31,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JSON": {
+          "additions": 189,
+          "deletions": 0,
+          "commits": 5
+        },
+        "JavaScript": {
+          "additions": 32,
+          "deletions": 0,
+          "commits": 2
+        },
+        "CSS": {
+          "additions": 141,
+          "deletions": 0,
+          "commits": 2
+        },
+        "TypeScript": {
+          "additions": 5786,
+          "deletions": 0,
+          "commits": 71
+        },
+        "TOML": {
+          "additions": 6,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "project-lens": {
+      "commits": 1,
+      "additions": 31,
+      "deletions": 1,
+      "email": "project-lens@localhost",
+      "languages": {
+        "Markdown": {
+          "additions": 31,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "TypeScript": {
+      "bytes": 209102,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 2784,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 1238,
+      "percentage": 0
+    },
+    "JavaScript": {
+      "bytes": 846,
+      "percentage": 0
+    }
+  }
+}

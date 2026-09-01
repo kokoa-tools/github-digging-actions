@@ -1,0 +1,41 @@
+{
+  "repository": "kokoa-study-room/PEP723-practice",
+  "owner": "kokoa-study-room",
+  "name": "PEP723-practice",
+  "description": "https://peps.python.org/pep-0723/",
+  "language": "Python",
+  "created_at": "2026-02-20 06:42:07 UTC",
+  "updated_at": "2026-02-20 06:45:37 UTC",
+  "size": 1,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:18+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 66,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 12,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 54,
+          "deletions": 0,
+          "commits": 3
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 912,
+      "percentage": 0
+    }
+  }
+}

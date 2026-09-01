@@ -1,0 +1,89 @@
+{
+  "repository": "Algo-Sports/Algo-sports-api",
+  "owner": "Algo-Sports",
+  "name": "Algo-sports-api",
+  "description": "알고리즘 게임 대결 서비스 Algo-sports의 API 서버 저장소",
+  "language": "Python",
+  "created_at": "2020-09-02 01:01:02 UTC",
+  "updated_at": "2023-07-31 13:18:16 UTC",
+  "size": 1605,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 2,
+  "analyzed_at": "2026-09-01T02:33:54+0000",
+  "commit_statistics": {
+    "Aqudi": {
+      "commits": 118,
+      "additions": 16985,
+      "deletions": 6225,
+      "email": "35187793+Aqudi@users.noreply.github.com",
+      "languages": {
+        "Markdown": {
+          "additions": 720,
+          "deletions": 115,
+          "commits": 17
+        },
+        "Python": {
+          "additions": 11520,
+          "deletions": 4435,
+          "commits": 454
+        },
+        "HTML": {
+          "additions": 2,
+          "deletions": 34,
+          "commits": 5
+        },
+        "Dockerfile": {
+          "additions": 70,
+          "deletions": 14,
+          "commits": 14
+        },
+        "Config": {
+          "additions": 317,
+          "deletions": 2,
+          "commits": 8
+        },
+        "YAML": {
+          "additions": 671,
+          "deletions": 342,
+          "commits": 38
+        },
+        "JSON": {
+          "additions": 2768,
+          "deletions": 1046,
+          "commits": 21
+        },
+        "JavaScript": {
+          "additions": 260,
+          "deletions": 0,
+          "commits": 8
+        },
+        "Shell": {
+          "additions": 190,
+          "deletions": 69,
+          "commits": 15
+        },
+        "Text": {
+          "additions": 45,
+          "deletions": 16,
+          "commits": 18
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 164,
+      "deletions": 42,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Python": {
+          "additions": 164,
+          "deletions": 42,
+          "commits": 8
+        }
+      }
+    }
+  },
+  "language_statistics": {}
+}

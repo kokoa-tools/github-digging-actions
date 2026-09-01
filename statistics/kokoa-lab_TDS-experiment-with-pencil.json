@@ -1,0 +1,31 @@
+{
+  "repository": "kokoa-lab/TDS-experiment-with-pencil",
+  "owner": "kokoa-lab",
+  "name": "TDS-experiment-with-pencil",
+  "description": null,
+  "language": null,
+  "created_at": "2026-02-05 07:43:07 UTC",
+  "updated_at": "2026-02-05 09:54:44 UTC",
+  "size": 14,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:47+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 1,
+      "additions": 947,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 933,
+          "deletions": 0,
+          "commits": 10
+        }
+      }
+    }
+  },
+  "language_statistics": {}
+}

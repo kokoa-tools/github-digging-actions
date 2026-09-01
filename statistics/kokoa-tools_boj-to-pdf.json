@@ -1,0 +1,60 @@
+{
+  "repository": "kokoa-tools/boj-to-pdf",
+  "owner": "kokoa-tools",
+  "name": "boj-to-pdf",
+  "description": "[학습 용도] 백준 문제를 PDF 파일로 변환해줍니다. 이제 아이패드에서 문제를 쉽게 풀자. ",
+  "language": "Python",
+  "created_at": "2024-07-25 13:33:15 UTC",
+  "updated_at": "2025-09-18 13:00:36 UTC",
+  "size": 3003,
+  "stargazers_count": 2,
+  "watchers_count": 2,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:47+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 7,
+      "additions": 2266,
+      "deletions": 924,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Dockerfile": {
+          "additions": 55,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 769,
+          "deletions": 303,
+          "commits": 11
+        },
+        "YAML": {
+          "additions": 19,
+          "deletions": 0,
+          "commits": 1
+        },
+        "TOML": {
+          "additions": 19,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 15,
+          "deletions": 2,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 15334,
+      "percentage": 0
+    },
+    "Dockerfile": {
+      "bytes": 1220,
+      "percentage": 0
+    }
+  }
+}

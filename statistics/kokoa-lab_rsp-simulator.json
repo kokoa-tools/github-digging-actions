@@ -1,0 +1,72 @@
+{
+  "repository": "kokoa-lab/rsp-simulator",
+  "owner": "kokoa-lab",
+  "name": "rsp-simulator",
+  "description": "가위 바위 보 시뮬레이터",
+  "language": "JavaScript",
+  "created_at": "2024-11-10 12:56:42 UTC",
+  "updated_at": "2026-02-04 16:17:09 UTC",
+  "size": 2884,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 8,
+  "analyzed_at": "2026-09-01T02:30:36+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 1,
+      "additions": 43,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "YAML": {
+          "additions": 43,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 2,
+      "additions": 462,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Markdown": {
+          "additions": 9,
+          "deletions": 0,
+          "commits": 2
+        },
+        "HTML": {
+          "additions": 56,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JavaScript": {
+          "additions": 276,
+          "deletions": 0,
+          "commits": 1
+        },
+        "CSS": {
+          "additions": 121,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "JavaScript": {
+      "bytes": 8013,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 2185,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 1916,
+      "percentage": 0
+    }
+  }
+}

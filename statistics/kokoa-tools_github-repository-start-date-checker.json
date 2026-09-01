@@ -1,0 +1,59 @@
+{
+  "repository": "kokoa-tools/github-repository-start-date-checker",
+  "owner": "kokoa-tools",
+  "name": "github-repository-start-date-checker",
+  "description": "해커톤 운영시에 사용한, 특정 일자에 시작하지 않은 레포지터리를 검출하고 목록을 뽑아내는 프로젝트입니다.",
+  "language": "Python",
+  "created_at": "2021-09-23 15:03:44 UTC",
+  "updated_at": "2025-09-17 12:55:34 UTC",
+  "size": 6,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:03+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 5,
+      "additions": 290,
+      "deletions": 16,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Python": {
+          "additions": 50,
+          "deletions": 10,
+          "commits": 3
+        },
+        "Markdown": {
+          "additions": 10,
+          "deletions": 1,
+          "commits": 2
+        },
+        "Text": {
+          "additions": 21,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 1,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 1,
+          "deletions": 1,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 1486,
+      "percentage": 0
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "repository": "kokoa-study-room/django_serengeti_example",
+  "owner": "kokoa-study-room",
+  "name": "django_serengeti_example",
+  "description": "Django MTV 패턴을 이용한 커뮤니티 예제입니다.",
+  "language": "Python",
+  "created_at": "2022-03-13 05:48:32 UTC",
+  "updated_at": "2025-09-17 12:18:51 UTC",
+  "size": 35,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:28:45+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 3,
+      "additions": 12,
+      "deletions": 3,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Markdown": {
+          "additions": 12,
+          "deletions": 3,
+          "commits": 3
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 25,
+      "additions": 1051,
+      "deletions": 57,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Markdown": {
+          "additions": 76,
+          "deletions": 23,
+          "commits": 4
+        },
+        "HTML": {
+          "additions": 152,
+          "deletions": 0,
+          "commits": 9
+        },
+        "Python": {
+          "additions": 544,
+          "deletions": 34,
+          "commits": 51
+        },
+        "Text": {
+          "additions": 3,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 14841,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 3593,
+      "percentage": 0
+    }
+  }
+}

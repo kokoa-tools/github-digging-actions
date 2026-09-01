@@ -1,0 +1,48 @@
+{
+  "repository": "kmu-shinkeonkim/file-proessing-exam-helper",
+  "owner": "kmu-shinkeonkim",
+  "name": "file-proessing-exam-helper",
+  "description": "화일처리 기말고사 도우미",
+  "language": "Python",
+  "created_at": "2025-11-27 09:52:27 UTC",
+  "updated_at": "2025-12-10 12:43:33 UTC",
+  "size": 56,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:25+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 2,
+      "additions": 991,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 230,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 756,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 1,
+      "additions": 21,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {}
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 24339,
+      "percentage": 0
+    }
+  }
+}

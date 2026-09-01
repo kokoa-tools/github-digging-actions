@@ -1,0 +1,46 @@
+{
+  "repository": "kokoa-tools/pr-archiving",
+  "owner": "kokoa-tools",
+  "name": "pr-archiving",
+  "description": "특정 유저가 작성한 Repository의 Github PR 목록을 가져옵니다. 각 PR 상세 페이지 및 files 페이지의 스크린샷을 저장합니다.",
+  "language": "JavaScript",
+  "created_at": "2025-03-13 09:58:12 UTC",
+  "updated_at": "2026-03-16 07:29:51 UTC",
+  "size": 16,
+  "stargazers_count": 2,
+  "watchers_count": 2,
+  "forks_count": 0,
+  "open_issues_count": 1,
+  "analyzed_at": "2026-09-01T02:30:09+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 3,
+      "additions": 1432,
+      "deletions": 1,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 35,
+          "deletions": 1,
+          "commits": 3
+        },
+        "JavaScript": {
+          "additions": 220,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JSON": {
+          "additions": 1167,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "JavaScript": {
+      "bytes": 7563,
+      "percentage": 0
+    }
+  }
+}

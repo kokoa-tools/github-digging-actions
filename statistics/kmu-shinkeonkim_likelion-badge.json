@@ -1,0 +1,92 @@
+{
+  "repository": "kmu-shinkeonkim/likelion-badge",
+  "owner": "kmu-shinkeonkim",
+  "name": "likelion-badge",
+  "description": "대학생 멋쟁이사자처럼 프로필을 이쁘게 보여주는 프로젝트",
+  "language": "Python",
+  "created_at": "2021-07-11 16:46:16 UTC",
+  "updated_at": "2025-09-17 12:51:38 UTC",
+  "size": 46,
+  "stargazers_count": 9,
+  "watchers_count": 9,
+  "forks_count": 2,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:30:12+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 7,
+      "additions": 189,
+      "deletions": 51,
+      "email": "singun11@naver.com",
+      "languages": {
+        "JSON": {
+          "additions": 13,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 58,
+          "deletions": 43,
+          "commits": 6
+        },
+        "Markdown": {
+          "additions": 74,
+          "deletions": 8,
+          "commits": 6
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 15,
+      "additions": 890,
+      "deletions": 122,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "JSON": {
+          "additions": 13,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 487,
+          "deletions": 115,
+          "commits": 29
+        },
+        "Markdown": {
+          "additions": 28,
+          "deletions": 1,
+          "commits": 2
+        },
+        "Text": {
+          "additions": 12,
+          "deletions": 2,
+          "commits": 6
+        }
+      }
+    },
+    "Aqudi": {
+      "commits": 2,
+      "additions": 94,
+      "deletions": 14,
+      "email": "gjdigj145@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 25,
+          "deletions": 3,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 25,
+          "deletions": 11,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 17426,
+      "percentage": 0
+    }
+  }
+}

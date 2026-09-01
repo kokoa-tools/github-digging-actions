@@ -1,0 +1,503 @@
+{
+  "timestamp": "2026-09-01T02:34:33+0000",
+  "total_errors": 71,
+  "errors": [
+    {
+      "repository": "shinkeonkim/oh-my-persona",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/oh-my-persona: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D88A:1C5BA6:30F9A32:A05CECA:6A9639B6 and timestamp 2026-09-01 02:34:30 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:30+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/Coding_Camp",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/Coding_Camp: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D891:1E780C:3283D61:A49C3DC:6A9639B6 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/OnlineJudge",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/OnlineJudge: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D859:23239B:2F510CF:9A64B6C:6A9639B6 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/AD_project_athena",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/AD_project_athena: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D893:3014B:2F2E18F:9A52245:6A9639B6 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1500
+    },
+    {
+      "repository": "shinkeonkim/alcolpedia-1",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/alcolpedia-1: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D89B:28B00F:2EB4A40:9875636:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1500
+    },
+    {
+      "repository": "Algo-Sports/algo-sports-front",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/Algo-Sports/algo-sports-front: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D89A:127A4C:3351627:A74089B:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1520
+    },
+    {
+      "repository": "shinkeonkim/paeon",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/paeon: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D897:71CD6:2FEEF58:9C95744:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/Course-Registeration-System",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/Course-Registeration-System: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D895:127A4C:3351621:A740886:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "Algo-Sports/Algo-sports-logic",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/Algo-Sports/Algo-sports-logic: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D828:25FE2B:3014785:9D50D09:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1520
+    },
+    {
+      "repository": "shinkeonkim/alcolpedia-app",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/alcolpedia-app: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D86C:20CAF0:2ED3A73:98FB995:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1500
+    },
+    {
+      "repository": "shinkeonkim/css-animation-study",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/css-animation-study: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D894:25FE2B:3014794:9D50D3E:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/personal-awesome",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/personal-awesome: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D863:30CF1:2FD26AF:9C09128:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/alggago",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/alggago: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D89C:3014B:2F2E40B:9A52AA5:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1500
+    },
+    {
+      "repository": "Algo-Sports/judge-server",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/Algo-Sports/judge-server: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D85B:89379:2E36932:96EEFE7:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1520
+    },
+    {
+      "repository": "shinkeonkim/django-blog",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/django-blog: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D89F:D5B10:3300CD8:A862384:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/prevent-factory-video-deletion",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/prevent-factory-video-deletion: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8A3:3A3BAC:2E9AFF7:989FE0A:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/algorithm-note",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/algorithm-note: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D841:195636:32FA521:A63E02C:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1500
+    },
+    {
+      "repository": "Algo-Sports/next-canvas-example",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/Algo-Sports/next-canvas-example: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8A5:25FE2B:301493D:9D5128A:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1520
+    },
+    {
+      "repository": "shinkeonkim/productive-box",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/productive-box: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8A6:3A1192:36DFFD5:B19727F:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/django-coffee-model",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/django-coffee-model: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8A4:23239B:2F51435:9A65582:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "Algo-Sports/Online-Judge",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/Algo-Sports/Online-Judge: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8A9:3A3BAC:2E9B19E:98A0356:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1520
+    },
+    {
+      "repository": "shinkeonkim/algorithms",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/algorithms: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8A7:2535EA:302EC03:9EF9612:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1500
+    },
+    {
+      "repository": "shinkeonkim/project-lens",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/project-lens: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8A8:8B9D0:3840272:B5FD3A6:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/django_o_template",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/django_o_template: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8AA:1187A7:2DA43E9:94A9A27:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/project_a",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/project_a: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8AB:28455A:2E4D058:97916A3:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/android-hanalum",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/android-hanalum: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D898:29D721:2F47C02:9A9281A:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1500
+    },
+    {
+      "repository": "shinkeonkim/dpd_template",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/dpd_template: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8AC:132C99:2F82741:9C49295:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/anime-ontology",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/anime-ontology: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8A2:11B7B6:2FD3EA6:9C4EE10:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1500
+    },
+    {
+      "repository": "shinkeonkim/random_word_website",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/random_word_website: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D840:237156:30DF25C:9F3E490:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/drawing",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/drawing: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8AD:1E780C:328431B:A49D68A:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/army-tiger",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/army-tiger: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D892:332AFA:2FDF47D:9CC87A7:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1500
+    },
+    {
+      "repository": "shinkeonkim/react-native-blog-example",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/react-native-blog-example: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8AE:589F2:2FED7D8:9C9351B:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/drf-discord-handler",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/drf-discord-handler: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8AF:2A1B7F:2FBBB47:9BCE8CD:6A9639B7 and timestamp 2026-09-01 02:34:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:31+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/awesome",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/awesome: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D875:25FE2B:3014CE8:9D51EE8:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1500
+    },
+    {
+      "repository": "shinkeonkim/empty_django_project",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/empty_django_project: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8B1:10EC20:30F5204:9F91FA0:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/re_hanalum",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/re_hanalum: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8B0:3C9755:2D09644:94679DC:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/flutter_slidable_example",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/flutter_slidable_example: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8B3:26B4D1:2E955C4:9854CEE:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/Basic-Shopping-Basket",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/Basic-Shopping-Basket: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8B2:25FE2B:3014DAC:9D52102:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1500
+    },
+    {
+      "repository": "shinkeonkim/safe-cover-letter",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/safe-cover-letter: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8B4:3A1192:36E048D:B1982D5:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/github-stats-box",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/github-stats-box: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8B5:9822C:3238235:A38141F:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/basic_django_template",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/basic_django_template: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8B6:3F6FB:30C339C:9F65CB0:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1500
+    },
+    {
+      "repository": "shinkeonkim/saveMsgDiscordBot",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/saveMsgDiscordBot: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D861:1DA686:2F13372:9980255:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/good-bye-boj",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/good-bye-boj: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8B7:28B00F:2EB51C3:9876E33:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/shinkeonkim",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/shinkeonkim: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D87F:26EA31:2F9EC0B:9BB603B:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/hackathon-dj-template",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/hackathon-dj-template: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D83F:25615E:2FE0C9B:9C6D645:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/hangul",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/hangul: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8B9:195636:32FAC3F:A63F718:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/shinkeonkim.github.io",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/shinkeonkim.github.io: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8B8:AAA29:30695F3:9DD4E9B:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/slidev-md-boilterplate",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/slidev-md-boilterplate: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8BA:29D721:2F481F1:9A93AE9:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/HelloAlgo",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/HelloAlgo: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D889:2535EA:302F26F:9EFAACF:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/snippets",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/snippets: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D85E:3A3BAC:2E9B83B:98A18D6:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/hexagonal-grid-illumination-visualizer",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/hexagonal-grid-illumination-visualizer: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8BB:30CF1:2FD3088:9C0B12C:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/In-Kookmin-Extension",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/In-Kookmin-Extension: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8BD:589F2:2FEDD21:9C945B4:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/study-aif-site",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/study-aif-site: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8BC:3C9755:2D09B04:946897F:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/teamnotes",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/teamnotes: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8BF:32C3B6:2FB3890:9C87A59:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/is_likelion",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/is_likelion: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8BE:272F9A:2FED1D6:9C63FBF:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/janggi-go-game-server",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/janggi-go-game-server: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8C1:26B4D1:2E95A73:9855B84:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/today-ps",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/today-ps: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8C0:382AF:2E3216A:970E2DE:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/khonshu",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/khonshu: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D88D:89379:2E37443:96F1395:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/twin-ai",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/twin-ai: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8C2:2535EA:302F58D:9EFB488:6A9639B8 and timestamp 2026-09-01 02:34:32 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:32+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/umjunsik-lang-server",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/umjunsik-lang-server: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8C3:27F83C:2C8AED0:91FAE67:6A9639B9 and timestamp 2026-09-01 02:34:33 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:33+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/kmu-ecampus-darkmode-extension",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/kmu-ecampus-darkmode-extension: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D87C:3A1192:36E0B26:B199724:6A9639B9 and timestamp 2026-09-01 02:34:33 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:33+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/url-shortener",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/url-shortener: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8C4:20CAF0:2ED46B4:98FE23B:6A9639B9 and timestamp 2026-09-01 02:34:33 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:33+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/kmu-likelion-slack-noti-action",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/kmu-likelion-slack-noti-action: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8C5:30CF1:2FD3436:9C0BCFB:6A9639B9 and timestamp 2026-09-01 02:34:33 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:33+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/vue-blog",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/vue-blog: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8C6:9822C:3238954:A382AC0:6A9639B9 and timestamp 2026-09-01 02:34:33 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:33+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/know_yeah_bot",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/know_yeah_bot: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8C7:1DA686:2F139F8:9981819:6A9639B9 and timestamp 2026-09-01 02:34:33 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:33+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/what-did-you-do-today",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/what-did-you-do-today: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D899:E4C2B:2F905B6:9B110FB:6A9639B9 and timestamp 2026-09-01 02:34:33 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:33+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/likelion-git-practice",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/likelion-git-practice: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D871:25615E:2FE12C1:9C6EA65:6A9639B9 and timestamp 2026-09-01 02:34:33 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:33+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/llm-wiki",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/llm-wiki: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8C8:28B00F:2EB58F5:98785BA:6A9639B9 and timestamp 2026-09-01 02:34:33 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:33+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/where-am-i",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/where-am-i: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D890:28B00F:2EB58F6:98785B7:6A9639B9 and timestamp 2026-09-01 02:34:33 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:33+0000",
+      "thread_id": 1460
+    },
+    {
+      "repository": "shinkeonkim/lotteng",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/lotteng: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D8C9:589F2:2FEE290:9C957A9:6A9639B9 and timestamp 2026-09-01 02:34:33 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:33+0000",
+      "thread_id": 1480
+    },
+    {
+      "repository": "shinkeonkim/wordle-online",
+      "error_type": "Rate Limited (403)",
+      "error_message": "GET https://api.github.com/repos/shinkeonkim/wordle-online: 403 - API rate limit exceeded for user ID 47373998. If you reach out to GitHub Support for help, please include the request ID D882:1E780C:3285008:A49FE64:6A9639B9 and timestamp 2026-09-01 02:34:33 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) // See: https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+      "timestamp": "2026-09-01T02:34:33+0000",
+      "thread_id": 1460
+    }
+  ]
+}

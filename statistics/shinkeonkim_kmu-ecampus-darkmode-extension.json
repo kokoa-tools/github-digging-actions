@@ -1,0 +1,64 @@
+{
+  "repository": "shinkeonkim/kmu-ecampus-darkmode-extension",
+  "owner": "shinkeonkim",
+  "name": "kmu-ecampus-darkmode-extension",
+  "description": "KMU ecampus darkmode chrome extension",
+  "language": "HTML",
+  "created_at": "2020-10-07 16:06:44 UTC",
+  "updated_at": "2021-08-15 10:06:49 UTC",
+  "size": 135,
+  "stargazers_count": 1,
+  "watchers_count": 1,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-08-01T01:50:25+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 5,
+      "additions": 274,
+      "deletions": 31,
+      "email": "singun11@naver.com",
+      "languages": {
+        "CSS": {
+          "additions": 130,
+          "deletions": 21,
+          "commits": 3
+        },
+        "JSON": {
+          "additions": 24,
+          "deletions": 1,
+          "commits": 2
+        },
+        "HTML": {
+          "additions": 109,
+          "deletions": 8,
+          "commits": 2
+        },
+        "Markdown": {
+          "additions": 10,
+          "deletions": 1,
+          "commits": 2
+        },
+        "JavaScript": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "HTML": {
+      "bytes": 2829,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 2310,
+      "percentage": 0
+    },
+    "JavaScript": {
+      "bytes": 4,
+      "percentage": 0
+    }
+  }
+}

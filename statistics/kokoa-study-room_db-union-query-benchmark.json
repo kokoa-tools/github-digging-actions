@@ -1,0 +1,93 @@
+{
+  "repository": "kokoa-study-room/db-union-query-benchmark",
+  "owner": "kokoa-study-room",
+  "name": "db-union-query-benchmark",
+  "description": null,
+  "language": "Python",
+  "created_at": "2026-06-12 17:32:56 UTC",
+  "updated_at": "2026-06-13 05:39:36 UTC",
+  "size": 58,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:32:03+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 2,
+      "additions": 5246,
+      "deletions": 53,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 704,
+          "deletions": 53,
+          "commits": 6
+        },
+        "Dockerfile": {
+          "additions": 14,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 1916,
+          "deletions": 0,
+          "commits": 20
+        },
+        "Config": {
+          "additions": 36,
+          "deletions": 0,
+          "commits": 1
+        },
+        "SQL": {
+          "additions": 222,
+          "deletions": 0,
+          "commits": 2
+        },
+        "JSON": {
+          "additions": 64,
+          "deletions": 0,
+          "commits": 1
+        },
+        "YAML": {
+          "additions": 138,
+          "deletions": 0,
+          "commits": 1
+        },
+        "HTML": {
+          "additions": 1887,
+          "deletions": 0,
+          "commits": 4
+        },
+        "TOML": {
+          "additions": 23,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Shell": {
+          "additions": 146,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 67202,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 53861,
+      "percentage": 0
+    },
+    "Shell": {
+      "bytes": 5416,
+      "percentage": 0
+    },
+    "Dockerfile": {
+      "bytes": 221,
+      "percentage": 0
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "repository": "shinkeonkim/boj-jandi-site",
+  "owner": "shinkeonkim",
+  "name": "boj-jandi-site",
+  "description": "백준 온라인 저지 핸들을 입력하여 해결한 문제 잔디를 확인하세요",
+  "language": "HTML",
+  "created_at": "2026-01-20 10:38:57 UTC",
+  "updated_at": "2026-01-23 06:02:27 UTC",
+  "size": 71,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:29:14+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 16,
+      "additions": 2569,
+      "deletions": 257,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Python": {
+          "additions": 385,
+          "deletions": 25,
+          "commits": 12
+        },
+        "HTML": {
+          "additions": 554,
+          "deletions": 201,
+          "commits": 11
+        },
+        "CSS": {
+          "additions": 239,
+          "deletions": 0,
+          "commits": 3
+        },
+        "YAML": {
+          "additions": 353,
+          "deletions": 26,
+          "commits": 21
+        },
+        "Markdown": {
+          "additions": 64,
+          "deletions": 1,
+          "commits": 1
+        },
+        "Dockerfile": {
+          "additions": 29,
+          "deletions": 1,
+          "commits": 2
+        },
+        "TOML": {
+          "additions": 19,
+          "deletions": 1,
+          "commits": 2
+        },
+        "SQL": {
+          "additions": 6,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 1,
+      "additions": 1,
+      "deletions": 0,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "HTML": {
+      "bytes": 13126,
+      "percentage": 0
+    },
+    "Python": {
+      "bytes": 12989,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 4736,
+      "percentage": 0
+    },
+    "Dockerfile": {
+      "bytes": 681,
+      "percentage": 0
+    }
+  }
+}

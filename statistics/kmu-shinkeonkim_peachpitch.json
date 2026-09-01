@@ -1,0 +1,69 @@
+{
+  "repository": "kmu-shinkeonkim/peachpitch",
+  "owner": "kmu-shinkeonkim",
+  "name": "peachpitch",
+  "description": null,
+  "language": "Python",
+  "created_at": "2019-11-14 03:56:07 UTC",
+  "updated_at": "2025-06-29 09:57:10 UTC",
+  "size": 214879,
+  "stargazers_count": 2,
+  "watchers_count": 2,
+  "forks_count": 1,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:31:59+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 77,
+      "additions": 4006,
+      "deletions": 1633,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 1555,
+          "deletions": 571,
+          "commits": 43
+        },
+        "Python": {
+          "additions": 2420,
+          "deletions": 1059,
+          "commits": 86
+        },
+        "Text": {
+          "additions": 1,
+          "deletions": 1,
+          "commits": 2
+        }
+      }
+    },
+    "Eun-Su-Kim": {
+      "commits": 41,
+      "additions": 1257,
+      "deletions": 474,
+      "email": "godong9985@gmail.com",
+      "languages": {
+        "Markdown": {
+          "additions": 273,
+          "deletions": 146,
+          "commits": 11
+        },
+        "Python": {
+          "additions": 983,
+          "deletions": 328,
+          "commits": 20
+        },
+        "Text": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 64164,
+      "percentage": 0
+    }
+  }
+}

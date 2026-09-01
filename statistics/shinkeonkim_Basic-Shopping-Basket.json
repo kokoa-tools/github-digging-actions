@@ -1,0 +1,17 @@
+{
+  "repository": "shinkeonkim/Basic-Shopping-Basket",
+  "owner": "shinkeonkim",
+  "name": "Basic-Shopping-Basket",
+  "description": "Basic shopping basket(cart) web application using React.js and GraphQL + Apollo for tutorial",
+  "language": null,
+  "created_at": "2020-06-03 04:25:40 UTC",
+  "updated_at": "2020-06-03 04:25:42 UTC",
+  "size": 1943,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-06-01T02:40:57+0000",
+  "commit_statistics": {},
+  "language_statistics": {}
+}
