@@ -1,0 +1,101 @@
+{
+  "repository": "shinkeonkim/django_o_template",
+  "owner": "shinkeonkim",
+  "name": "django_o_template",
+  "description": "django template",
+  "language": "Python",
+  "created_at": "2021-07-17 08:00:57 UTC",
+  "updated_at": "2021-07-31 08:36:54 UTC",
+  "size": 191,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-08-01T01:49:34+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 20,
+      "additions": 2287,
+      "deletions": 234,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Markdown": {
+          "additions": 87,
+          "deletions": 12,
+          "commits": 7
+        },
+        "HTML": {
+          "additions": 130,
+          "deletions": 3,
+          "commits": 12
+        },
+        "Python": {
+          "additions": 1202,
+          "deletions": 217,
+          "commits": 49
+        },
+        "Text": {
+          "additions": 66,
+          "deletions": 1,
+          "commits": 10
+        },
+        "Dockerfile": {
+          "additions": 25,
+          "deletions": 1,
+          "commits": 2
+        },
+        "CSS": {
+          "additions": 3,
+          "deletions": 0,
+          "commits": 1
+        },
+        "SCSS": {
+          "additions": 5,
+          "deletions": 0,
+          "commits": 1
+        },
+        "JSON": {
+          "additions": 43,
+          "deletions": 0,
+          "commits": 2
+        },
+        "YAML": {
+          "additions": 34,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 1,
+      "additions": 18,
+      "deletions": 12,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 18,
+          "deletions": 12,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 28446,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 3100,
+      "percentage": 0
+    },
+    "Dockerfile": {
+      "bytes": 536,
+      "percentage": 0
+    },
+    "SCSS": {
+      "bytes": 52,
+      "percentage": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "repository": "shinkeonkim/umjunsik-lang-server",
+  "owner": "shinkeonkim",
+  "name": "umjunsik-lang-server",
+  "description": "엄랭(Umjunsik Language)을 활용한 구현체를 추가로 구현한 간단한 HTTP 웹서버입니다. ",
+  "language": "Python",
+  "created_at": "2025-10-08 11:02:13 UTC",
+  "updated_at": "2025-10-08 11:05:37 UTC",
+  "size": 5,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-06-01T02:40:59+0000",
+  "commit_statistics": {},
+  "language_statistics": {}
+}

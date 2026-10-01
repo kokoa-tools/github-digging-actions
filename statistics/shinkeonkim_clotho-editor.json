@@ -1,0 +1,121 @@
+{
+  "repository": "shinkeonkim/clotho-editor",
+  "owner": "shinkeonkim",
+  "name": "clotho-editor",
+  "description": null,
+  "language": "TypeScript",
+  "created_at": "2026-09-01 02:52:28 UTC",
+  "updated_at": "2026-09-14 07:30:25 UTC",
+  "size": 473,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 2,
+  "analyzed_at": "2026-10-01T02:59:25+0000",
+  "commit_statistics": {
+    "kokoa": {
+      "commits": 11,
+      "additions": 7904,
+      "deletions": 214,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "JSON": {
+          "additions": 1286,
+          "deletions": 18,
+          "commits": 13
+        },
+        "TypeScript": {
+          "additions": 5602,
+          "deletions": 164,
+          "commits": 89
+        },
+        "CSS": {
+          "additions": 648,
+          "deletions": 1,
+          "commits": 6
+        },
+        "YAML": {
+          "additions": 29,
+          "deletions": 0,
+          "commits": 2
+        },
+        "Markdown": {
+          "additions": 53,
+          "deletions": 1,
+          "commits": 1
+        },
+        "HTML": {
+          "additions": 37,
+          "deletions": 11,
+          "commits": 2
+        },
+        "JavaScript": {
+          "additions": 26,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 52,
+      "additions": 38087,
+      "deletions": 4855,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "JSON": {
+          "additions": 3698,
+          "deletions": 39,
+          "commits": 27
+        },
+        "TypeScript": {
+          "additions": 29968,
+          "deletions": 4182,
+          "commits": 302
+        },
+        "CSS": {
+          "additions": 2569,
+          "deletions": 51,
+          "commits": 21
+        },
+        "YAML": {
+          "additions": 146,
+          "deletions": 7,
+          "commits": 7
+        },
+        "HTML": {
+          "additions": 81,
+          "deletions": 11,
+          "commits": 5
+        },
+        "JavaScript": {
+          "additions": 26,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Markdown": {
+          "additions": 551,
+          "deletions": 258,
+          "commits": 27
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "TypeScript": {
+      "bytes": 869796,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 66705,
+      "percentage": 0
+    },
+    "JavaScript": {
+      "bytes": 2053,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 1314,
+      "percentage": 0
+    }
+  }
+}

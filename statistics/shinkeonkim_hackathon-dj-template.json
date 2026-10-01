@@ -1,0 +1,74 @@
+{
+  "repository": "shinkeonkim/hackathon-dj-template",
+  "owner": "shinkeonkim",
+  "name": "hackathon-dj-template",
+  "description": null,
+  "language": "Python",
+  "created_at": "2025-09-28 16:27:45 UTC",
+  "updated_at": "2025-10-02 01:29:17 UTC",
+  "size": 102,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-08-01T01:50:03+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 15,
+      "additions": 4452,
+      "deletions": 111,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "Markdown": {
+          "additions": 176,
+          "deletions": 1,
+          "commits": 4
+        },
+        "YAML": {
+          "additions": 490,
+          "deletions": 17,
+          "commits": 8
+        },
+        "TOML": {
+          "additions": 171,
+          "deletions": 12,
+          "commits": 5
+        },
+        "Python": {
+          "additions": 1257,
+          "deletions": 59,
+          "commits": 62
+        },
+        "Shell": {
+          "additions": 271,
+          "deletions": 0,
+          "commits": 8
+        },
+        "Dockerfile": {
+          "additions": 49,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Config": {
+          "additions": 65,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "Python": {
+      "bytes": 35932,
+      "percentage": 0
+    },
+    "Shell": {
+      "bytes": 5904,
+      "percentage": 0
+    },
+    "Dockerfile": {
+      "bytes": 1076,
+      "percentage": 0
+    }
+  }
+}

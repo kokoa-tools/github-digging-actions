@@ -1,0 +1,17 @@
+{
+  "repository": "shinkeonkim/paeon",
+  "owner": "shinkeonkim",
+  "name": "paeon",
+  "description": "사업자등록번호를 통해 정확한 상호명을 추려내는 사이트",
+  "language": "Python",
+  "created_at": "2022-04-21 12:50:08 UTC",
+  "updated_at": "2022-06-25 11:16:46 UTC",
+  "size": 50,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-06-01T02:40:54+0000",
+  "commit_statistics": {},
+  "language_statistics": {}
+}

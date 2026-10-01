@@ -1,0 +1,96 @@
+{
+  "repository": "shinkeonkim/clotho-docs",
+  "owner": "shinkeonkim",
+  "name": "clotho-docs",
+  "description": null,
+  "language": "TypeScript",
+  "created_at": "2026-09-01 10:00:32 UTC",
+  "updated_at": "2026-09-16 06:23:46 UTC",
+  "size": 4192,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-10-01T02:59:13+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 24,
+      "additions": 11437,
+      "deletions": 549,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "JSON": {
+          "additions": 4297,
+          "deletions": 10,
+          "commits": 24
+        },
+        "Markdown": {
+          "additions": 517,
+          "deletions": 14,
+          "commits": 21
+        },
+        "TypeScript": {
+          "additions": 2196,
+          "deletions": 100,
+          "commits": 45
+        },
+        "CSS": {
+          "additions": 721,
+          "deletions": 92,
+          "commits": 7
+        },
+        "YAML": {
+          "additions": 69,
+          "deletions": 0,
+          "commits": 5
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 9,
+      "additions": 4070,
+      "deletions": 43,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "JSON": {
+          "additions": 1516,
+          "deletions": 9,
+          "commits": 12
+        },
+        "TypeScript": {
+          "additions": 1252,
+          "deletions": 6,
+          "commits": 27
+        },
+        "Markdown": {
+          "additions": 53,
+          "deletions": 3,
+          "commits": 8
+        },
+        "CSS": {
+          "additions": 123,
+          "deletions": 0,
+          "commits": 2
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "TypeScript": {
+      "bytes": 100959,
+      "percentage": 0
+    },
+    "MDX": {
+      "bytes": 88493,
+      "percentage": 0
+    },
+    "Astro": {
+      "bytes": 39034,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 11951,
+      "percentage": 0
+    }
+  }
+}

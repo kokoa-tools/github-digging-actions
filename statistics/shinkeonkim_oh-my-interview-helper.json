@@ -1,0 +1,36 @@
+{
+  "repository": "shinkeonkim/oh-my-interview-helper",
+  "owner": "shinkeonkim",
+  "name": "oh-my-interview-helper",
+  "description": "로컬 AI 에이전트를 통해 이력서/채용공고/기업 분석, 이력서 피드백, 면접 준비를 제공합니다.",
+  "language": "TypeScript",
+  "created_at": "2026-08-24 15:38:11 UTC",
+  "updated_at": "2026-08-31 17:58:29 UTC",
+  "size": 1097,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:34:24+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 16,
+      "additions": 802,
+      "deletions": 89,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "TypeScript": {
+          "additions": 308,
+          "deletions": 38,
+          "commits": 27
+        },
+        "Vue": {
+          "additions": 494,
+          "deletions": 51,
+          "commits": 12
+        }
+      }
+    }
+  },
+  "language_statistics": {}
+}

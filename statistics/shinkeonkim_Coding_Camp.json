@@ -1,0 +1,50 @@
+{
+  "repository": "shinkeonkim/Coding_Camp",
+  "owner": "shinkeonkim",
+  "name": "Coding_Camp",
+  "description": "HM_Coding_Camp",
+  "language": "C++",
+  "created_at": "2019-03-19 10:18:30 UTC",
+  "updated_at": "2025-09-17 12:38:39 UTC",
+  "size": 10,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 2,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-08-01T01:49:09+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 16,
+      "additions": 319,
+      "deletions": 26,
+      "email": "singun11@naver.com",
+      "languages": {
+        "Markdown": {
+          "additions": 230,
+          "deletions": 26,
+          "commits": 24
+        },
+        "C++": {
+          "additions": 75,
+          "deletions": 0,
+          "commits": 3
+        },
+        "Python": {
+          "additions": 12,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "C++": {
+      "bytes": 1279,
+      "percentage": 0
+    },
+    "Python": {
+      "bytes": 245,
+      "percentage": 0
+    }
+  }
+}

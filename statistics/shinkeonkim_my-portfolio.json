@@ -1,0 +1,119 @@
+{
+  "repository": "shinkeonkim/my-portfolio",
+  "owner": "shinkeonkim",
+  "name": "my-portfolio",
+  "description": "My Portfolio",
+  "language": "TypeScript",
+  "created_at": "2026-03-24 08:11:42 UTC",
+  "updated_at": "2026-08-31 04:12:28 UTC",
+  "size": 165541,
+  "stargazers_count": 1,
+  "watchers_count": 1,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-09-01T02:33:27+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 88,
+      "additions": 19304,
+      "deletions": 2881,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "HTML": {
+          "additions": 90,
+          "deletions": 9,
+          "commits": 6
+        },
+        "TypeScript": {
+          "additions": 8180,
+          "deletions": 2055,
+          "commits": 208
+        },
+        "Vue": {
+          "additions": 6564,
+          "deletions": 617,
+          "commits": 109
+        },
+        "JSON": {
+          "additions": 1891,
+          "deletions": 95,
+          "commits": 14
+        },
+        "Markdown": {
+          "additions": 369,
+          "deletions": 7,
+          "commits": 4
+        },
+        "YAML": {
+          "additions": 80,
+          "deletions": 44,
+          "commits": 3
+        },
+        "Text": {
+          "additions": 5,
+          "deletions": 1,
+          "commits": 2
+        },
+        "XML": {
+          "additions": 60,
+          "deletions": 11,
+          "commits": 2
+        },
+        "CSS": {
+          "additions": 189,
+          "deletions": 0,
+          "commits": 3
+        },
+        "Shell": {
+          "additions": 134,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Python": {
+          "additions": 642,
+          "deletions": 2,
+          "commits": 2
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 1,
+      "additions": 13,
+      "deletions": 0,
+      "email": "singun11@kookmin.ac.kr",
+      "languages": {
+        "HTML": {
+          "additions": 13,
+          "deletions": 0,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "TypeScript": {
+      "bytes": 233912,
+      "percentage": 0
+    },
+    "Vue": {
+      "bytes": 181278,
+      "percentage": 0
+    },
+    "Python": {
+      "bytes": 19959,
+      "percentage": 0
+    },
+    "CSS": {
+      "bytes": 5115,
+      "percentage": 0
+    },
+    "Shell": {
+      "bytes": 3740,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 3726,
+      "percentage": 0
+    }
+  }
+}

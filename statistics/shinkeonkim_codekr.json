@@ -1,0 +1,187 @@
+{
+  "repository": "shinkeonkim/codekr",
+  "owner": "shinkeonkim",
+  "name": "codekr",
+  "description": "오픈소스 온라인 저지 시스템",
+  "language": "Kotlin",
+  "created_at": "2026-08-09 16:50:30 UTC",
+  "updated_at": "2026-09-01 02:53:14 UTC",
+  "size": 53745,
+  "stargazers_count": 1,
+  "watchers_count": 1,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-10-01T02:59:49+0000",
+  "commit_statistics": {
+    "github-actions[bot]": {
+      "commits": 36,
+      "additions": 36,
+      "deletions": 36,
+      "email": "41898282+github-actions[bot]@users.noreply.github.com",
+      "languages": {
+        "YAML": {
+          "additions": 36,
+          "deletions": 36,
+          "commits": 36
+        }
+      }
+    },
+    "kokoa": {
+      "commits": 185,
+      "additions": 61815,
+      "deletions": 3371,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Go": {
+          "additions": 7631,
+          "deletions": 226,
+          "commits": 168
+        },
+        "YAML": {
+          "additions": 1612,
+          "deletions": 92,
+          "commits": 77
+        },
+        "Dockerfile": {
+          "additions": 73,
+          "deletions": 0,
+          "commits": 4
+        },
+        "Kotlin": {
+          "additions": 23633,
+          "deletions": 741,
+          "commits": 560
+        },
+        "Markdown": {
+          "additions": 4964,
+          "deletions": 88,
+          "commits": 160
+        },
+        "JSON": {
+          "additions": 1411,
+          "deletions": 19,
+          "commits": 60
+        },
+        "Python": {
+          "additions": 912,
+          "deletions": 9,
+          "commits": 13
+        },
+        "TypeScript": {
+          "additions": 18900,
+          "deletions": 2090,
+          "commits": 555
+        },
+        "SQL": {
+          "additions": 1068,
+          "deletions": 0,
+          "commits": 37
+        },
+        "Shell": {
+          "additions": 1322,
+          "deletions": 86,
+          "commits": 22
+        },
+        "Text": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Makefile": {
+          "additions": 28,
+          "deletions": 5,
+          "commits": 5
+        },
+        "TOML": {
+          "additions": 11,
+          "deletions": 0,
+          "commits": 1
+        },
+        "CSS": {
+          "additions": 36,
+          "deletions": 6,
+          "commits": 1
+        }
+      }
+    },
+    "shinkeonkim": {
+      "commits": 229,
+      "additions": 50925,
+      "deletions": 2962,
+      "email": "dev.shinkeonkim@gmail.com",
+      "languages": {
+        "Go": {
+          "additions": 7351,
+          "deletions": 294,
+          "commits": 177
+        },
+        "YAML": {
+          "additions": 1540,
+          "deletions": 95,
+          "commits": 80
+        },
+        "Dockerfile": {
+          "additions": 73,
+          "deletions": 0,
+          "commits": 4
+        },
+        "Kotlin": {
+          "additions": 18970,
+          "deletions": 652,
+          "commits": 493
+        },
+        "Markdown": {
+          "additions": 4477,
+          "deletions": 102,
+          "commits": 151
+        },
+        "JSON": {
+          "additions": 1398,
+          "deletions": 30,
+          "commits": 60
+        },
+        "Python": {
+          "additions": 902,
+          "deletions": 7,
+          "commits": 12
+        },
+        "TypeScript": {
+          "additions": 13521,
+          "deletions": 1553,
+          "commits": 427
+        },
+        "SQL": {
+          "additions": 969,
+          "deletions": 9,
+          "commits": 37
+        },
+        "Shell": {
+          "additions": 1380,
+          "deletions": 168,
+          "commits": 31
+        },
+        "Text": {
+          "additions": 1,
+          "deletions": 0,
+          "commits": 1
+        },
+        "Makefile": {
+          "additions": 28,
+          "deletions": 5,
+          "commits": 5
+        },
+        "TOML": {
+          "additions": 11,
+          "deletions": 0,
+          "commits": 1
+        },
+        "CSS": {
+          "additions": 36,
+          "deletions": 6,
+          "commits": 1
+        }
+      }
+    }
+  },
+  "language_statistics": {}
+}

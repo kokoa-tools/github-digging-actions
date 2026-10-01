@@ -1,0 +1,17 @@
+{
+  "repository": "shinkeonkim/algorithms",
+  "owner": "shinkeonkim",
+  "name": "algorithms",
+  "description": "알고리즘 코드를 언어별로 정리하고 설명하는 레포입니다. (C++, Python, JS, Ruby, Etc..)",
+  "language": "C++",
+  "created_at": "2022-05-21 13:06:57 UTC",
+  "updated_at": "2022-05-25 03:52:56 UTC",
+  "size": 11,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-06-01T02:40:56+0000",
+  "commit_statistics": {},
+  "language_statistics": {}
+}

@@ -1,0 +1,54 @@
+{
+  "repository": "shinkeonkim/css-animation-study",
+  "owner": "shinkeonkim",
+  "name": "css-animation-study",
+  "description": null,
+  "language": "CSS",
+  "created_at": "2020-11-07 17:04:26 UTC",
+  "updated_at": "2020-11-12 14:28:23 UTC",
+  "size": 1267,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "forks_count": 0,
+  "open_issues_count": 0,
+  "analyzed_at": "2026-08-01T01:49:19+0000",
+  "commit_statistics": {
+    "shinkeonkim": {
+      "commits": 6,
+      "additions": 793,
+      "deletions": 40,
+      "email": "singun11@naver.com",
+      "languages": {
+        "CSS": {
+          "additions": 402,
+          "deletions": 2,
+          "commits": 6
+        },
+        "HTML": {
+          "additions": 231,
+          "deletions": 38,
+          "commits": 8
+        },
+        "JavaScript": {
+          "additions": 160,
+          "deletions": 0,
+          "commits": 3
+        }
+      }
+    }
+  },
+  "language_statistics": {
+    "CSS": {
+      "bytes": 7449,
+      "percentage": 0
+    },
+    "HTML": {
+      "bytes": 6581,
+      "percentage": 0
+    },
+    "JavaScript": {
+      "bytes": 4517,
+      "percentage": 0
+    }
+  }
+}
